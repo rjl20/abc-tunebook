@@ -186,3 +186,26 @@ K:G
 |:"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"dB)AG | "Em"[E2B2] e(B dB)e(f | "G"ga)bg "D"aged | 
 "Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"cB)AF | "Em"[E2B2] e(B dB)eB |1 "D"BGA(F "G"G2) GF :|2 "D"BGA(F "G"G4) |]  
 
+X:16
+T:Amazing Grace
+M:3/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+K:C
+|:D|"G"G2B/G/ | "G7"B2A | "C"G2 E | "G"D2D | G2 B/G/ | "Em"B2A | "D"d3- | d2B | 
+"G"d2 B/G/ | "G7"B2A | "C"G2E | "G"D2D | "Em"G2B/G/ | "D"B2A | "C"G3- | "G"G2:|
+
+X:17
+T:Betsy Likens
+C:Arr. Alan Jabbour, after Henry Reed
+M:4/4
+L:1/8
+B:Complete Tractor, p.11
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+%Substituted a mordent in 11 and used voltas instead of writing the B part twice.
+K:Amix
+|: "A"e2 ef gf gf | ec e^g a2a2 | "A"e2 ef "(G)"gf gf | "E"ed B2 "A"A4 | 
+"A"ec ef gf gf | ec e^g a2a2 | "A"ec ef "(G)"gf gf | "E"ed B2 "A"A4 ::
+"A"A2A=c "G"BA G2 | "A"A2 Ad "G"B2d2 | "A"ed ef "G"!mordent!gfe2 |1,3 "E"ed BA "G"G2E2 :|2,4 "E"ed B2 "A"A4 :| 
+
+  
