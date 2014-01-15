@@ -1,0 +1,4 @@
+Tunebook for iOS requires a newline at the end of the file, and uses abc2ps, 
+not abcm2ps. Notably, the format [ceg]2 for chords doesn't work; you have to 
+use [c2e2g2] instead.
+
