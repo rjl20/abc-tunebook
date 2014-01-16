@@ -208,4 +208,26 @@ K:Amix
 "A"ec ef gf gf | ec e^g a2a2 | "A"ec ef "(G)"gf gf | "E"ed B2 "A"A4 ::
 "A"A2A=c "G"BA G2 | "A"A2 Ad "G"B2d2 | "A"ed ef "G"!mordent!gfe2 |1,3 "E"ed BA "G"G2E2 :|2,4 "E"ed B2 "A"A4 :| 
 
-  
+X:18
+T:John Lover's Gone
+S:Mainly from Levenson's Festival Tunes, p.116
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.15
+K:D
+f/g/ |: "D"aa f/e/ d | f>gff/g/ | aa/e/ f/d/ e/c/ |1 d>edf/g/ :|2 d>edc/d/ ||
+"A"e2e2 | e/f/ e/d/ BA/B/ | "D"ddef | d>edc/d/ |
+"A"eeee | fe/d/BA/B/ | "D"ddef | d>ed |]
+
+X:19
+T:Johnny Don't Get Drunk
+S:Youtube, maybe? Or Portland Collection?
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.15
+K:D
+"D"fa2fa2 ag | fd ec d2 dA | "G"BA Bc dB AG | "A"FE2FE2ED |
+"D"fa2ba2 ag | fd ec d2 dA | "G"BA Bc dB AG |1 "A"FD EF "D"D4 :|2 "A"FD EF "D"D2 DE || 
+|:"D"FA2BA2DE | FG AB A2AA | "G"BA Bc dB AG | "A"FE2FE2 DD | 
+"D"FA2BA2Ad | "G"BA Bc "D"d2AA | "G"BA Bc dB AG | "A"FD EF "D"D2D2 :|
+
