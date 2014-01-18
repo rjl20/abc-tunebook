@@ -137,7 +137,7 @@ K:A
 "A"ecee "D"fecf |1 "E"ecBc "A"A2 FG :|2 "E"edcB "A"A2 af |]
 |: "A"ecea fecd | "D"efec fgaf | "A"ecea fecd | 
 "E"efec BAFA | "A"cdef edcd | "D"efec egfg |
-"A"abae fgaf |1 "E"ecBc "A"A2 cd :|2 "E"ecBc "A"A2 c!D.C.!B |] 
+"A"abae "D"fgaf |1 "E"ecBc "A"A2 cd :|2 "E"ecBc "A"A2 c!D.C.!B |] 
 
 X:12
 T:Cluck Old Hen
@@ -169,8 +169,8 @@ L:1/8
 S:Fiddler's Companion/Complete Tractor/Dusty Strings Jam?
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 K:D
-ag|:"D"f2A2 f2A2| fefg fedf|"G"g2B2 g2B2| gfga gfeg| "D"f2A2 f2A2|
-fefg fedf| "G"gfed "A"cABc| "D"d2f2 d4:|
+ag|:"D"f2A2 f2A2| fefg fedf|"G"g2B2 g2B2| gfga gfeg| 
+"D"f2A2 f2A2| fefg fedf| "G"gfed "A"cABc| "D"d2f2 d4:|
 |:"D"A2AB AGFE| DFAd f2d2| A2AB AGF2| "A"E3F E2FG|
 "D"A2AB AGFE| DFAd f2ef| "G"gfed "A"cABc| "D"d2f2 d4:|
 
@@ -231,3 +231,56 @@ K:D
 |:"D"FA2BA2DE | FG AB A2AA | "G"BA Bc dB AG | "A"FE2FE2 DD | 
 "D"FA2BA2Ad | "G"BA Bc "D"d2AA | "G"BA Bc dB AG | "A"FD EF "D"D2D2 :|
 
+X:20
+T:Kitchen Girl
+B:Complete Tractor, p.104
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
+K:Amix
+|:"A"a4"G"g4 | "A"ef ed c2 cd | "A"e2f2g2a2 | "E"g2e2e4 | 
+"A"a4"G"g4 | "A"ef ed c2 cd | e2f2 gf ed | "A"c2A2A2AB :|
+K:Am
+|:"Am"cB Ac "G"BA GB | "Am"AB AG E2 (3E^FG | A2B2c2d2 | "E"e4e2 AB | 
+"Am"cB Ac "G"BA GB | "Am"AB AG E2 AB | cB Ac "G"BA GB | "Am"A4 (A2A2) :| 
+
+X:21
+T:Over the Waterfall
+B:Complete Tractor, p.142
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
+% Changed m10 and 14 to drop to D instead of E, because come on
+K:D
+e2 |:"D"f2a2 "A"gf e2 | "D"de dB A2e2 | "D"f2a2 "A"gf e2 | "D"d2 dc d2e2 | 
+"D"f2a2 "A"gf e2 | "D"de dB A2B2 | "C"=c3cB2A2 | "G"G4G2FG :: 
+"D"A2AF"G"B2BG | "D"AB AG FD FG | "D"A2d2"A"cde2 | "D"[d2f2][df][df][d2f2]FG | 
+"D"[F2A2]AF"G"[G2B2]BG | "D"[FA]B AG FD FG | "A"AB AG F2E2 | "D"D4D2 :|
+
+X:22
+T:Red Wing
+C:By Kerry Mills, 1907; arr. Gene Silberberg
+B:Complete Tractor, p.157
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
+% Minor line ending changes, etc
+M:4/4
+L:1/4
+K:G
+DEF |:"G"GG/G/GB | "G7"d3G | "C"cege | "G"d3B | "D7"cc/B/Ac | "G"BB/A/GB  | "A7"AEFG | "D7"AFED |
+"G"GG/G/GB | "G7"d3G | "C"cege | "G"d3B | "D7"cc/B/Ac | "G"BB/A/GB | "A7"AE "D7"FD | "G"G2gf ||
+"C"e2e>^d | egfe | "G"d2B2- | Bd/d/ed | "D7"d2A2- | Ad/d/ed | "G"d2B2- | B2 gf |
+"C"e2e>^d | egfe | "G"d2B2- | Bd/d/ed | "D7"d2A2- | Ac/c/BA | "G"G2G>A | GDEF :|
+
+X:23
+T:Carnival Polka
+C:Sarah Comer
+S:Learned at the Dusty Strings Jam on 2013/07/14.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
+L:1/8
+M:2/4
+K:Dm^c
+%%text D harmonic minor 
+%%endtext
+|:"Dm" D>E FG | Ad cd |"Bb" B>d cd |"Dm" A>d cd |DF Ac | df ed 
+|1 "A"ec Aa | gf ed :|2"A"ec ac |"Dm"d2d2 |:"A"A3B | cd ec |"Dm"d3e | fd ad 
+|1 "Gm"e3f | ge ba |"Bb"gf ed | cB A^G :||2 "Gm" g3f | e>f ed |"A"cA A'c |"Dm"d2 d2 |] 
