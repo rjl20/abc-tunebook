@@ -1,7 +1,7 @@
 footer "$P0	Slower Than Dirt / Dusty Strings 2nd Sunday Tunebook [DRAFT]	$P1"
 
 titleformat R-1 T0 , K-1 T0 C1
-writefields SBN 1
+writefields NSB 1
 
 titlefont      Verdana-Bold 14
 subtitlefont   Verdana-Bold 11
