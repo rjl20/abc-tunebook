@@ -2,10 +2,25 @@ footer "$P0	Slower Than Dirt / Dusty Strings 2nd Sunday Tunebook [DRAFT]	$P1"
 
 writefields SBN 1
 
-titlefont      Verdana-Bold 13
+titlefont      Verdana-Bold 14
 subtitlefont   Verdana-Bold 11
 composerfont   Verdana-Italic 12
 gchordfont     Verdana-Bold 12
 textfont       Verdana 12
 historyfont       Verdana 12
 measurenb 0
+
+
+% squash things a bit
+   scale 0.75
+   staffwidth 18.4cm
+   staffsep   40
+   maxshrink  0.65
+   lineskipfac 1.1
+%   parskipfac 0
+   textspace 0.2cm
+   topspace 0.1cm
+   titlespace 0.2cm
+   infospace 0.3cm
+   stretchlast 1
+
