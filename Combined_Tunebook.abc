@@ -5,20 +5,20 @@ T:Whiskey Before Breakfast
 L:1/8
 M:4/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p210
+B:Complete Tractor, p.210
 N:The bluegrassers all play that E minor chord in measure 11, but most old time backup players just play A.
 K:D
 |: "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF EC    B,A,   |
    "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2 A2    ::
-   "D"A2 d2 d2    dd | f2    d2 B2    A2 | "Em   (A)"e2 ef    e2 ef | "A7"  gf ed    cB Ac  |
-   "D"d2 fd "A"c2 ec | "G"Bc dB "D"AF ED | "G"G2 BG     "D"F2 AF    | "A"ED EF D2-D2       :|
+   "D"A2 d2 d2    dd | f2    d2 B2    A2 | "Em (A)"e2 ef    e2 ef | "A7"  gf ed    cB Ac  |
+   "D"d2 fd "A"c2 ec | "G"Bc dB "D"AF ED | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2-D2       :|
 
 X:2
 T:Red Haired Boy
 L:1/8
 M:4/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p156
+B:Complete Tractor, p.156
 K:Amix
 |: "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e2  A2 AB    cA | "G"BA GF G2 GF  |
    "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e^g af ef    ed | "A"c2 A2 A2 ef ::
@@ -54,7 +54,7 @@ T:St. Anne's Reel
 M:4/4
 L:1/8
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p184
+B:Complete Tractor, p.184
 K:D
 e2 |: "D"f2 fg fe dB | A2     F2 F2 A2 | "G"B2 G2 G2    B2 | "D"A2 F2  F2 e2   |
       "D"f2 fg fe dB | A2     F2 F2 A2 | "G"BG Bd "A"cA ce | "D"f2 d2  d2 e2  ::
@@ -66,7 +66,7 @@ T:Angeline the Baker
 M:4/4
 L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p5
+B:Complete Tractor, p.5
 H:More than half the people I encounter play this tune in the reverse order of the two parts shown. The tune derives from Steven Foster's "Angelina Baker." My reading of the original is that this order is closest to the original, for what that's worth. Also, I like the V chord at the end of each part as shown, but this is for you to decide yourself.
 K:D
 f/g/ |: "D"a f e d/e/ | f e d> f | a f e d | "G"B> c B f/g/ | 
@@ -91,7 +91,7 @@ T:Sandy Boys
 M:4/4
 L:1/8
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p172
+B:Complete Tractor, p.172
 % I really don't think the chords here are right. Update them from the band class
 % recording.
 K:Amix
@@ -279,9 +279,9 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
 L:1/8
 M:2/4
 K:Dm^c
-%%text D harmonic minor 
-%%endtext
-|:"Dm" D>E FG | Ad cd |"Bb" B>d cd |"Dm" A>d cd |DF Ac | df ed 
+%%text D harmonic minor
+%%endtext 
+|:"Dm" D>E FG | Ad cd |"Bb"B>d cd |"Dm" A>d cd |DF Ac | df ed 
 |1 "A"ec Aa | gf ed :|2"A"ec ac |"Dm"d2d2 |:"A"A3B | cd ec |"Dm"d3e | fd ad 
 |1 "Gm"e3f | ge ba |"Bb"gf ed | cB A^G :||2 "Gm" g3f | e>f ed |"A"cA A'c |"Dm"d2 d2 |] 
 
