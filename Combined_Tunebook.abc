@@ -1,65 +1,13 @@
 %abc-2.1
 
-X:1
-T:Whiskey Before Breakfast
-L:1/8
-M:4/4
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p.210
-N:The bluegrassers all play that E minor chord in measure 11, but most old time backup players just play A.
-K:D
-|: "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF EC    B,A,   |
-   "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2 A2    ::
-   "D"A2 d2 d2    dd | f2    d2 B2    A2 | "Em (A)"e2 ef    e2 ef | "A7"  gf ed    cB Ac  |
-   "D"d2 fd "A"c2 ec | "G"Bc dB "D"AF ED | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2-D2       :|
-
-X:2
-T:Red Haired Boy
-L:1/8
-M:4/4
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p.156
-K:A mix
-|: "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e2  A2 AB    cA | "G"BA GF G2 GF  |
-   "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e^g af ef    ed | "A"c2 A2 A2 ef ::
-   "G"g2 f2 e2 ag | "D"f2 e2 d2    cd | "A"e2  A2 AB    cA | "G"BA GF G2 GF  |
-   "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e^g af "E"ef ed | "A"c2 A2 A4    :|
-
-X:3
-T:Soldier's Joy
-M:4/4
+X:16
+T:Amazing Grace
+M:3/4
 L:1/4
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-S:Sarah Comer
-K:D
-F/-G/ || "D"A F D F  | A      d d  F/-G/ | A    F D    F | "A"G E E F/-G/  |
-         "D"A F D F  | "(G)"A d d  e     | "D"f d "A"e c | "D"d d d       :|
-|: e  || "D"f g a f  | "G"e f g>   e     | "D"f g a f    | "A"e c A> e     |
-         "D"f g a f  | "G"e   f g> e     | "D"f d "A"e c | "D"d d d       :|
-
-X:4
-T:Old Joe Clark
-M:4/4
-L:1/4
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-S:Sarah Comer
-K:A mix
-|: "A"efgf         | e(dc2) | efgf    | "E"e2e2  |
-   "A"efgf         | edc>c  | Ac"E"BB | "A"A2A2 ::
-   "A"A>(BA2)      | edc>c  | AAcA    | "E"B2B2  |
-   "A"A>(BA)  c/d/ | e(dc2) | Ac"E"BB | "A"A2A2 :|
-
-X:5
-T:St. Anne's Reel
-M:4/4
-L:1/8
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p.184
-K:D
-e2 |: "D"f2 fg fe dB | A2     F2 F2 A2 | "G"B2 G2 G2    B2 | "D"A2 F2  F2 e2   |
-      "D"f2 fg fe dB | A2     F2 F2 A2 | "G"BG Bd "A"cA ce | "D"f2 d2  d2 e2  ::
-      "D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac    eg | "D"ba a^g a2 a=g  |
-      "D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac    ea | "D"f2 d2  d2     :|
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.14
+K:C
+|:D|"G"G2B/G/ | "G7"B2A | "C"G2 E | "G"D2D | G2 B/G/ | "Em"B2A | "D"d3- | d2B | 
+"G"d2 B/G/ | "G7"B2A | "C"G2E | "G"D2D | "Em"G2B/G/ | "D"B2A | "C"G3- | "G"G2:|
 
 X:6
 T:Angeline the Baker
@@ -73,32 +21,6 @@ f/g/ |: "D"a f e d/e/ | f e d> f | a f e d | "G"B> c B f/g/ |
 "D"a f e d/e/ | f e d> e | "D"f e "G"d B | "A"A> B A A- :| 
 "D"A B d> A | B d2 B | A B d g | "G"B > c B A- |
 "D"A B d> e | f e d> e | "D"f e "G"d B | "A"A> B A :|
-
-X:7
-T:The Wind That Shakes The Barley
-M:4/4
-L:1/8
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-S:As played at Slower Than Dirt
-K:D
-"D"A2 AB AF ED | "G"B2 BA B2 d2 | "D"A2 AB AF ED | "G"gf ed "A"Bc dB |
-"D"A2 AB AF ED | "G"B2 BA Bc dB | "D"A2 AB AF ED | "G"gf ed "A"Bc de ||
-"D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"f2 fd "G"g2 ge | "A"af ed "G"Bc de |
-"D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"de fg "G"af ba | gf ed "A"B2 d2 :|
-
-X:8
-T:Sandy Boys
-M:4/4
-L:1/8
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-B:Complete Tractor, p.172
-% I really don't think the chords here are right. Update them from the band class
-% recording.
-K:A mix
-eg |: "A"a2 g2 e2 g2 | ed c2 A2 a2- | a2 g2 e2 g2 | [r:"G"]a3 b a2 eg  |
-      "A"a2 g2 e2 g2 | ed c2 A2 AB  | c2 cc [r:"G"]d2 c2 | [r:"A"]A3 B A2 cd :|
-     |: "A"e4 e3 e | d2 c2 A3 A | "A"[ce]2 [ce][ce] "D"[df]2 [df][df] |"A"[ce]2 [ce][ce] "D"[df]2 [df][df] |
-"A"e4 e3 e | d2 c2 A2 AB | "A"[ce]2 cc d2 c2 | A3 B A2:|
 
 X:9
 T:Arkansas Traveler
@@ -124,6 +46,80 @@ K:G
 |: "G"ed | B/A/ G | ed | B2 | e d | B/A/ G/B/ | "D"AG | "G" G2 :|
 |: "D"Ad | "G"B/A/ G | "D"Ad | "G"B2 | "D"Ad | "G"B/A/ G/B/ | "D"AG | "G" G2 :|
 
+X:17
+T:Betsy Likens
+C:Arr. Alan Jabbour, after Henry Reed
+M:4/4
+L:1/8
+B:Complete Tractor, p.11
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.14
+%Substituted a mordent in 11 and used voltas instead of writing the B part twice.
+K:A mix
+|: "A"e2 ef gf gf | ec e^g a2a2 | "A"e2 ef "(G)"gf gf | "E"ed B2 "A"A4 | 
+"A"ec ef gf gf | ec e^g a2a2 | "A"ec ef "(G)"gf gf | "E"ed B2 "A"A4 ::
+"A"A2A=c "G"BA G2 | "A"A2 Ad "G"B2d2 | "A"ed ef "G"!mordent!gfe2 |1,3 "E"ed BA "G"G2E2 :|2,4 "E"ed B2 "A"A4 :| 
+
+X:15
+T:Blackberry Blossom
+M:4/4
+L:1/8
+B:The Fiddler's Fakebook, p.47
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+K:G
+"G"gab(g "D"fg)a(f | "C"ef)g(e "G"dB)A(G | "C"EF)G(E "G"DE)GA | "A"BdBG "D"Ade(f | 
+"G"ga)b(g "D"fg)a(f | "C"ef)g(e "G"dB)AG | "C"EFGE "G"DEGA |1 "D"BGA(F"G"G4 :|2 "D"BGA(F"G"G2)GF ||
+|:"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"dB)AG | "Em"[E2B2] e(B dB)e(f | "G"ga)bg "D"aged | 
+"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"cB)AF | "Em"[E2B2] e(B dB)eB |1 "D"BGA(F "G"G2) GF :|2 "D"BGA(F "G"G4) |]  
+
+X:24
+T:Bonaparte Crossing the Rhine
+M:4/4
+L:1/8
+R:March
+Z:AK/Fiddler’s Companion
+Z:abc-edited-by Josh Larios <hades@elsewhere.org>, 2014.01.17
+K:D
+FG |: "D"A>B AF A2 de | f>e fa d2 dc | "G"Bc dB "D"AF DF | "A"E2 E>F E2 FG |
+"D"A>B AF A2 de | f>e fa d2 dc | "G"Bc dB "A"AF EF |1 "D"D2 DE D2 FG :|2 "D"D2 DE D2 de || 
+|: "D"f>e fg a2 dc | "G"B>A Bc d2 AA | "G"B>c dB "D"AF DF | "A"E2 E>F E2 FG |
+"D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "A"AF EF |1 "D"D2 DE D2 de :|2 "D"D2 DE D2  |]
+
+X:25
+T:Boogerman
+B:Appalachian Fiddle, p.30
+M:2/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
+K:G
+|:"G"DE GA | B2G2 | BG BG | AG EG |
+ DE GA | B2 ef | ge dB | AB G2 :|
+|:"Em"Bd e2 | e3B | e2g2 | ed BA |
+ Bd e2 | e2 ef | ge dB | AB G2 :|
+
+X:23
+T:Carnival Polka
+C:Sarah Comer
+S:Learned at the Dusty Strings Jam on 2013/07/14.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
+L:1/8
+M:2/4
+K:Dm^c
+%%text D harmonic minor
+%%endtext 
+|:"Dm" D>E FG | Ad cd |"Bb"B>d cd |"Dm" A>d cd |DF Ac | df ed 
+|1 "A"ec Aa | gf ed :|2"A"ec ac |"Dm"d2d2 |:"A"A3B | cd ec |"Dm"d3e | fd ad 
+|1 "Gm"e3f | ge ba |"Bb"gf ed | cB A^G :||2 "Gm" g3f | e>f ed |"A"cA A'c |"Dm"d2 d2 |] 
+
+X:12
+T:Cluck Old Hen
+M:4/4
+L:1/4
+B:Fiddler's Fakebook, p.70
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+K:A dor
+"A"e (a/e/"G"g) a/(g/ | "A"e) (a/e/) "G"df | "A"e a/e/ "G"(g/f/)g/(f/ | "E"e/)(d/c) "A"A2 :|
+|: "A"A A "C"[ce]2 | "A"A A "G"G2 | "A"A (A/B/ c/)B/c/(d/ | "E"e/d/) c "A"A A :|
+
 X:11
 T:Grey Eagle
 M:C|
@@ -138,75 +134,6 @@ K:A
 |: "A"ecea fecd | "D"efec fgaf | "A"ecea fecd | 
 "E"efec BAFA | "A"cdef edcd | "D"efec egfg |
 "A"abae "D"fgaf |1 "E"ecBc "A"A2 cd :|2 "E"ecBc "A"A2 c!D.C.!B |] 
-
-X:12
-T:Cluck Old Hen
-M:4/4
-L:1/4
-B:Fiddler's Fakebook, p.70
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-K:A dor
-"A"e (a/e/"G"g) a/(g/ | "A"e) (a/e/) "G"df | "A"e a/e/ "G"(g/f/)g/(f/ | "E"e/)(d/c) "A"A2 :|
-|: "A"A A "C"[ce]2 | "A"A A "G"G2 | "A"A (A/B/ c/)B/c/(d/ | "E"e/d/) c "A"A A :|
-
-X:13
-T:Paddy On the Handcar
-M:4/4
-L:1/8
-B:Complete Tractor, p.143
-C:Arr. Stuart Williams
-%Pretty sure we play different chords than this. Check a recording.
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-K:A dor
-|:"Am"E2A2A3B | c2 AB cB AG | "C"E2G2G3D | ED EG AG ED | "Am"E2A2A3B | cB AB cB cd | 
-"Am"ed ef gf ed | B2A2A4 :: "Am"e2a2a3g | ed ef gf ed | "G"B2g2g3A | 
-"G"BA Bd ed BA | "Am"e2a2a3g | ed ef gf ed | "Am"ed ef gf ed | B2A2A4 :| 
-
-X:14
-T:Liberty
-M:4/4
-L:1/8
-S:Fiddler's Companion/Complete Tractor/Dusty Strings Jam?
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-K:D
-ag|:"D"f2A2 f2A2| fefg fedf|"G"g2B2 g2B2| gfga gfeg| 
-"D"f2A2 f2A2| fefg fedf| "G"gfed "A"cABc| "D"d2f2 d4:|
-|:"D"A2AB AGFE| DFAd f2d2| A2AB AGF2| "A"E3F E2FG|
-"D"A2AB AGFE| DFAd f2ef| "G"gfed "A"cABc| "D"d2f2 d4:|
-
-X:15
-T:Blackberry Blossom
-M:4/4
-L:1/8
-B:The Fiddler's Fakebook, p.47
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
-K:G
-"G"gab(g "D"fg)a(f | "C"ef)g(e "G"dB)A(G | "C"EF)G(E "G"DE)GA | "A"BdBG "D"Ade(f | 
-"G"ga)b(g "D"fg)a(f | "C"ef)g(e "G"dB)AG | "C"EFGE "G"DEGA |1 "D"BGA(F"G"G4 :|2 "D"BGA(F"G"G2)GF ||
-|:"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"dB)AG | "Em"[E2B2] e(B dB)e(f | "G"ga)bg "D"aged | 
-"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"cB)AF | "Em"[E2B2] e(B dB)eB |1 "D"BGA(F "G"G2) GF :|2 "D"BGA(F "G"G4) |]  
-
-X:16
-T:Amazing Grace
-M:3/4
-L:1/4
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.14
-K:C
-|:D|"G"G2B/G/ | "G7"B2A | "C"G2 E | "G"D2D | G2 B/G/ | "Em"B2A | "D"d3- | d2B | 
-"G"d2 B/G/ | "G7"B2A | "C"G2E | "G"D2D | "Em"G2B/G/ | "D"B2A | "C"G3- | "G"G2:|
-
-X:17
-T:Betsy Likens
-C:Arr. Alan Jabbour, after Henry Reed
-M:4/4
-L:1/8
-B:Complete Tractor, p.11
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.14
-%Substituted a mordent in 11 and used voltas instead of writing the B part twice.
-K:A mix
-|: "A"e2 ef gf gf | ec e^g a2a2 | "A"e2 ef "(G)"gf gf | "E"ed B2 "A"A4 | 
-"A"ec ef gf gf | ec e^g a2a2 | "A"ec ef "(G)"gf gf | "E"ed B2 "A"A4 ::
-"A"A2A=c "G"BA G2 | "A"A2 Ad "G"B2d2 | "A"ed ef "G"!mordent!gfe2 |1,3 "E"ed BA "G"G2E2 :|2,4 "E"ed B2 "A"A4 :| 
 
 X:18
 T:John Lover's Gone
@@ -244,6 +171,30 @@ K:Am
 |:"Am"cB Ac "G"BA GB | "Am"AB AG E2 (3E^FG | A2B2c2d2 | "E"e4e2 AB | 
 "Am"cB Ac "G"BA GB | "Am"AB AG E2 AB | cB Ac "G"BA GB | "Am"A4 (A2A2) :| 
 
+X:14
+T:Liberty
+M:4/4
+L:1/8
+S:Fiddler's Companion/Complete Tractor/Dusty Strings Jam?
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+K:D
+ag|:"D"f2A2 f2A2| fefg fedf|"G"g2B2 g2B2| gfga gfeg| 
+"D"f2A2 f2A2| fefg fedf| "G"gfed "A"cABc| "D"d2f2 d4:|
+|:"D"A2AB AGFE| DFAd f2d2| A2AB AGF2| "A"E3F E2FG|
+"D"A2AB AGFE| DFAd f2ef| "G"gfed "A"cABc| "D"d2f2 d4:|
+
+X:4
+T:Old Joe Clark
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+S:Sarah Comer
+K:A mix
+|: "A"efgf         | e(dc2) | efgf    | "E"e2e2  |
+   "A"efgf         | edc>c  | Ac"E"BB | "A"A2A2 ::
+   "A"A>(BA2)      | edc>c  | AAcA    | "E"B2B2  |
+   "A"A>(BA)  c/d/ | e(dc2) | Ac"E"BB | "A"A2A2 :|
+
 X:21
 T:Over the Waterfall
 B:Complete Tractor, p.142
@@ -256,6 +207,31 @@ e2 |:"D"f2a2 "A"gf e2 | "D"de dB A2e2 | "D"f2a2 "A"gf e2 | "D"d2 dc d2e2 |
 "D"f2a2 "A"gf e2 | "D"de dB A2B2 | "C"=c3cB2A2 | "G"G4G2FG :: 
 "D"A2AF"G"B2BG | "D"AB AG FD FG | "D"A2d2"A"cde2 | "D"[d2f2][df][df][d2f2]FG | 
 "D"[F2A2]AF"G"[G2B2]BG | "D"[FA]B AG FD FG | "A"AB AG F2E2 | "D"D4D2 :|
+
+X:13
+T:Paddy On the Handcar
+M:4/4
+L:1/8
+B:Complete Tractor, p.143
+C:Arr. Stuart Williams
+%Pretty sure we play different chords than this. Check a recording.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+K:A dor
+|:"Am"E2A2A3B | c2 AB cB AG | "C"E2G2G3D | ED EG AG ED | "Am"E2A2A3B | cB AB cB cd | 
+"Am"ed ef gf ed | B2A2A4 :: "Am"e2a2a3g | ed ef gf ed | "G"B2g2g3A | 
+"G"BA Bd ed BA | "Am"e2a2a3g | ed ef gf ed | "Am"ed ef gf ed | B2A2A4 :| 
+
+X:2
+T:Red Haired Boy
+L:1/8
+M:4/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+B:Complete Tractor, p.156
+K:A mix
+|: "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e2  A2 AB    cA | "G"BA GF G2 GF  |
+   "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e^g af ef    ed | "A"c2 A2 A2 ef ::
+   "G"g2 f2 e2 ag | "D"f2 e2 d2    cd | "A"e2  A2 AB    cA | "G"BA GF G2 GF  |
+   "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e^g af "E"ef ed | "A"c2 A2 A4    :|
 
 X:22
 T:Red Wing
@@ -271,41 +247,65 @@ DEF |:"G"GG/G/GB | "G7"d3G | "C"cege | "G"d3B | "D7"cc/B/Ac | "G"BB/A/GB  | "A7"
 "C"e2e>^d | egfe | "G"d2B2- | Bd/d/ed | "D7"d2A2- | Ad/d/ed | "G"d2B2- | B2 gf |
 "C"e2e>^d | egfe | "G"d2B2- | Bd/d/ed | "D7"d2A2- | Ac/c/BA | "G"G2G>A | GDEF :|
 
-X:23
-T:Carnival Polka
-C:Sarah Comer
-S:Learned at the Dusty Strings Jam on 2013/07/14.
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
-L:1/8
-M:2/4
-K:Dm^c
-%%text D harmonic minor
-%%endtext 
-|:"Dm" D>E FG | Ad cd |"Bb"B>d cd |"Dm" A>d cd |DF Ac | df ed 
-|1 "A"ec Aa | gf ed :|2"A"ec ac |"Dm"d2d2 |:"A"A3B | cd ec |"Dm"d3e | fd ad 
-|1 "Gm"e3f | ge ba |"Bb"gf ed | cB A^G :||2 "Gm" g3f | e>f ed |"A"cA A'c |"Dm"d2 d2 |] 
-
-X:24
-T:Bonaparte Crossing the Rhine
+X:8
+T:Sandy Boys
 M:4/4
 L:1/8
-R:March
-Z:AK/Fiddler’s Companion
-Z:abc-edited-by Josh Larios <hades@elsewhere.org>, 2014.01.17
-K:D
-FG |: "D"A>B AF A2 de | f>e fa d2 dc | "G"Bc dB "D"AF DF | "A"E2 E>F E2 FG |
-"D"A>B AF A2 de | f>e fa d2 dc | "G"Bc dB "A"AF EF |1 "D"D2 DE D2 FG :|2 "D"D2 DE D2 de || 
-|: "D"f>e fg a2 dc | "G"B>A Bc d2 AA | "G"B>c dB "D"AF DF | "A"E2 E>F E2 FG |
-"D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "A"AF EF |1 "D"D2 DE D2 de :|2 "D"D2 DE D2  |]
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+B:Complete Tractor, p.172
+% I really don't think the chords here are right. Update them from the band class
+% recording.
+K:A mix
+eg |: "A"a2 g2 e2 g2 | ed c2 A2 a2- | a2 g2 e2 g2 | [r:"G"]a3 b a2 eg  |
+      "A"a2 g2 e2 g2 | ed c2 A2 AB  | c2 cc [r:"G"]d2 c2 | [r:"A"]A3 B A2 cd :|
+     |: "A"e4 e3 e | d2 c2 A3 A | "A"[ce]2 [ce][ce] "D"[df]2 [df][df] |"A"[ce]2 [ce][ce] "D"[df]2 [df][df] |
+"A"e4 e3 e | d2 c2 A2 AB | "A"[ce]2 cc d2 c2 | A3 B A2:|
 
-X:25
-T:Boogerman
-B:Appalachian Fiddle, p.30
-M:2/4
+X:3
+T:Soldier's Joy
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+S:Sarah Comer
+K:D
+F/-G/ || "D"A F D F  | A      d d  F/-G/ | A    F D    F | "A"G E E F/-G/  |
+         "D"A F D F  | "(G)"A d d  e     | "D"f d "A"e c | "D"d d d       :|
+|: e  || "D"f g a f  | "G"e f g>   e     | "D"f g a f    | "A"e c A> e     |
+         "D"f g a f  | "G"e   f g> e     | "D"f d "A"e c | "D"d d d       :|
+
+X:5
+T:St. Anne's Reel
+M:4/4
 L:1/8
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
-K:G
-|:"G"DE GA | B2G2 | BG BG | AG EG |
- DE GA | B2 ef | ge dB | AB G2 :|
-|:"Em"Bd e2 | e3B | e2g2 | ed BA |
- Bd e2 | e2 ef | ge dB | AB G2 :|
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+B:Complete Tractor, p.184
+K:D
+e2 |: "D"f2 fg fe dB | A2     F2 F2 A2 | "G"B2 G2 G2    B2 | "D"A2 F2  F2 e2   |
+      "D"f2 fg fe dB | A2     F2 F2 A2 | "G"BG Bd "A"cA ce | "D"f2 d2  d2 e2  ::
+      "D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac    eg | "D"ba a^g a2 a=g  |
+      "D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac    ea | "D"f2 d2  d2     :|
+
+X:1
+T:Whiskey Before Breakfast
+L:1/8
+M:4/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+B:Complete Tractor, p.210
+N:The bluegrassers all play that E minor chord in measure 11, but most old time backup players just play A.
+K:D
+|: "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF EC    B,A,   |
+   "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2 A2    ::
+   "D"A2 d2 d2    dd | f2    d2 B2    A2 | "Em (A)"e2 ef    e2 ef | "A7"  gf ed    cB Ac  |
+   "D"d2 fd "A"c2 ec | "G"Bc dB "D"AF ED | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2-D2       :|
+
+X:7
+T:Wind That Shakes The Barley, The
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
+S:As played at Slower Than Dirt
+K:D
+"D"A2 AB AF ED | "G"B2 BA B2 d2 | "D"A2 AB AF ED | "G"gf ed "A"Bc dB |
+"D"A2 AB AF ED | "G"B2 BA Bc dB | "D"A2 AB AF ED | "G"gf ed "A"Bc de ||
+"D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"f2 fd "G"g2 ge | "A"af ed "G"Bc de |
+"D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"de fg "G"af ba | gf ed "A"B2 d2 :|
