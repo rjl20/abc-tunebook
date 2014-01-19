@@ -106,9 +106,10 @@ M:2/4
 K:Dm^c
 %%text D harmonic minor
 %%endtext 
-|:"Dm" D>E FG | Ad cd |"Bb"B>d cd |"Dm" A>d cd |DF Ac | df ed 
-|1 "A"ec Aa | gf ed :|2"A"ec ac |"Dm"d2d2 |:"A"A3B | cd ec |"Dm"d3e | fd ad 
-|1 "Gm"e3f | ge ba |"Bb"gf ed | cB A^G :||2 "Gm" g3f | e>f ed |"A"cA A'c |"Dm"d2 d2 |] 
+|:"Dm" D>E FG | Ad cd |"Bb"B>d cd |"Dm" A>d cd |
+DF Ac | df ed |1 "A"ec Aa | gf ed :|2"A"ec ac |"Dm"d2d2 ||
+"A"A3B | cd ec |"Dm"d3e | fd ad |"Gm"e3f | ge ba |"Bb"gf ed | cB A^G |
+"A"A3B | cd ec |"Dm"d3e | fd ad |"Gm"g3f | e>f ed |"A"cA A'c |"Dm"d2 d2 |] 
 
 X:12
 T:Cluck Old Hen
