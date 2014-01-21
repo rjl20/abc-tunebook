@@ -286,7 +286,7 @@ L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 S:Sarah Comer
 K:D
-F/-G/ || "D"A F D F  | A      d d  F/-G/ | A    F D    F | "A"G E E F/-G/  |
+|:F/-G/ || "D"A F D F  | A      d d  F/-G/ | A    F D    F | "A"G E E F/-G/  |
          "D"A F D F  | "(G)"A d d  e     | "D"f d "A"e c | "D"d d d       :|
 |: e  || "D"f g a f  | "G"e f g>   e     | "D"f g a f    | "A"e c A> e     |
          "D"f g a f  | "G"e   f g> e     | "D"f d "A"e c | "D"d d d       :|
@@ -327,3 +327,41 @@ K:D
 "D"A2 AB AF ED | "G"B2 BA Bc dB | "D"A2 AB AF ED | "G"gf ed "A"Bc de ||
 "D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"f2 fd "G"g2 ge | "A"af ed "G"Bc de |
 "D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"de fg "G"af ba | gf ed "A"B2 d2 :|
+
+X:27
+T:Needle Case
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.20
+C:Arr. Scott Marckx/Jeannie Murphy
+B:Complete Tractor, p.132
+K:D
+|:"D"a2g2fed2 | "G"B2g2B2g2 | "D"a2g2fed2 | "A"cA Bc A2A2 | 
+"D"a2g2fed2 | "G"B2g2B2g2 | "A"AB cd ef ed | cA Bc "D"d2d2 :|
+|: "D"D2F2A2A2 | "G"BA Bc d2 dB | "D"A2 ABA2 F2 | "A"E3FE2E2 | 
+"D"D2F2A2A2 | "G"BA Bc d2 dB | "A"AB cd ef ed | cA Bc "D"d2d2 :|
+
+X:28
+T:Western Country
+T:Fly Arounnd My Pretty Little Miss, Suzanna Gal
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.20
+B:Levenson's Festival Tunes, p.80
+M:4/4
+L:1/8
+K:D
+(de) |:"D"f2e2d2B2 | (AB)A2F2(FG) | A2A2A(Bd2) | f4f2e2 | 
+"D"f2e2d2dB | (AB) AGF2(FG) | "A"A2A2 BA c2 |1 "D"d4d2e2 :|2 "D"d4d2(fg) | 
+|:"D"a2a2f2a2 | "G"b6(fg) | "D"a2a2(fe)d2 | "A"e6(fg) | 
+"D"a2a2(fg)a2 | "G"b6(fg) | "A"a2f2 e(d cA) |1 "D"d4d2(fg) :|2 "D"d2d4(de) |]
+
+X:29
+T:Shady Grove (from Luther Davis)
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.20
+S:Canote/Goldman String Band Class, 2013.10.21
+M:4/4
+L:1/8
+K:Amix
+|: EF | "A"A2cA BA cB | Ac BA "G"G2 (3DEF | GF GA Bc d2 | "A"e3ee2ef | 
+"A"ge dd ef gf | ed BA "G"G3A | B2d2ed B2 | "A"A3 AA2 :|
+|: "A"ef | ge dd ef gf | ed BA "G"G2 ef | gf ga ge d2 | "A"e3ee2ef | 
+"A"ge dd ef gf | ed BA "G"G3A | B2d2ed B2 | "A"A3 AA2 :|
