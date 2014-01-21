@@ -365,3 +365,34 @@ K:Amix
 "A"ge dd ef gf | ed BA "G"G3A | B2d2ed B2 | "A"A3 AA2 :|
 |: "A"ef | ge dd ef gf | ed BA "G"G2 ef | gf ga ge d2 | "A"e3ee2ef | 
 "A"ge dd ef gf | ed BA "G"G3A | B2d2ed B2 | "A"A3 AA2 :|
+
+X:30
+T: Fisher's Hornpipe
+M: 4/4
+L: 1/8
+Z:abc-downloaded-from http://thesession.org/tunes/872
+Z:abc-edited-by Josh Larios <hades@elsewhere.org>, 2014.01.20
+K: D
+|:(3ABc |"D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "A" E2 (3ABc |
+"D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FGAB "A"cdec | "D"d2 dc d2 :|
+|:cd |"A" ecAc efge | "D" fdAd fgaf | "A" ecAc efgf | "E7"edcB "A"A2 A2 | "G" BGDG BdcB |
+"D" AFDF A2 GA | "G"BdcB "A" AGFE | "D"D2 d2 D2 :|
+
+X:31
+T:Big Sciota
+O:trad American
+R:reel
+N:Named after the Scioto River in Ohio. Also spelled Sciota, Sciote, Scioty.
+Z:2009 John Chambers <jc:trillian.mit.edu>
+S:http://archive.mandolinsessions.com/feb06/tune.pdf
+N:The article contains Wendy Anthony's simplified version plus variations.
+M:C|
+L:1/8
+K:G
+D2 \
+| "G"G2 GB "D"A2 Ad |   "G"B2 G2- G2 D2 | "G"GF GB "D"A2 Ad | "G"B2 G2 G2 D2 |
+| "G"GF GA    B2 gf |   "C"e4     ef ge | "D"dB G2    AG Ad | "G"B2 G2 G2 :|
+|: Bd \
+| "G"g2 ga    b2 ag |   "D"g2 a2- a2 eg |    a2 ab    ag ed | "C(Em)"e4- e2 |
+|    gf ed    B2 Bd |"Em(C)"e2 ef e2 ge | "D"dB GB    AG Ad | "G"B2  G2  G2 :|
+
