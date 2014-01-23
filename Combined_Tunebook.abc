@@ -322,7 +322,7 @@ N:Copyright Benny Thomasson, Winwood Music Company
 B:The Waltz Book, p.35
 K:D
 A, DE |: "D"F4F2 | "(DM7)"F4FE | "(D6)"F2A3B | "D"AFD2DE | 
-"D"F2d2"G"B2 | "D"A3D ED | "A7"FB AF ED |1 "D"D3A, DE :|2 "D"D3A Bc ||
+"D"F2d2"G"B2 | "D"A3D ED | "A7"FB AF EF |1 "D"D3A, DE :|2 "D"D3A Bc ||
 |:"D"(d4 d)d | "(DM7)" dc BA Bc | "(D6)"d3B AF | "D"D4d2 | \
 "Em"e4ef | e2d2e2 | "Bm"f3a fe | dc BA Bc | 
 "G"d4de | d2c2B2 | "D"A3B AG | FE DA, DE | \
@@ -466,3 +466,17 @@ K:D
 "D"D2E | F2G | A2F | dcA | "G"B>cd | "A"e<dc | "D"d3 | d2 :|
 |: e | "D"f<ag | f>ed | "G"e<fe | "D" d>cB | "Bm"dcB | "D" AGF  | "Bm"E<FD | "A"C>B,A, |
 "D"f<ag | f>ed | "G"e<fe | "D" d>cB | "G" d2c | "Em"B<ed | "A"cBc   | "D"d2 :|
+
+X:35
+T:Billy Wilson
+B:Slow Jam for Old Time Music, p.5
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.22
+%Minor timing change in 17; pretty sure that's closer to how they play it.
+K:A
+|: (3efg | "A"a2g2a2eg | "D"fedf "A"edcA | "E"B2G2E2GE | "A"ABcd e2 (3efg | 
+"A"a2ga-a2eg | "D"fedf "A"edcB | ABcd efed | "E"cABG"A"A2 :|
+|: A2 | "A"ABcd efed | cAcA "E"B2B2 | "A"ABcd efed | "E"cABG "A"A2 :|
+|: EF | "A"A2A2-AcBA | "D"F3AF2EF | "A"A2A2-ABcd | e2 e2-efec | 
+"E"B3c (BA3) | "D"F3AF2EF | "A"A2 AB ceaf | "E"ecBG"A"A2 :|
