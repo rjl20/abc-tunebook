@@ -326,7 +326,7 @@ A, DE |: "D"F4F2 | "(DM7)"F4FE | "(D6)"F2A3B | "D"AFD2DE |
 |:"D"(d4 d)d | "(DM7)" dc BA Bc | "(D6)"d3B AF | "D"D4d2 | \
 "Em"e4ef | e2d2e2 | "Bm"f3a fe | dc BA Bc | 
 "G"d4de | d2c2B2 | "D"A3B AG | FE DA, DE | \
- "D"F2d2"G"B2 | "D"A3D ED | "A7"FB AF ED |1 "D"D3A Bc :|2 "D"D3 |]
+ "D"F2d2"G"B2 | "D"A3D ED | "A7"FB AF EF |1 "D"D3A Bc :|2 "D"D3 |]
 
 X:27
 T:Needle Case
@@ -480,3 +480,32 @@ K:A
 |: A2 | "A"ABcd efed | cAcA "E"B2B2 | "A"ABcd efed | "E"cABG "A"A2 :|
 |: EF | "A"A2A2-AcBA | "D"F3AF2EF | "A"A2A2-ABcd | e2 e2-efec | 
 "E"B3c (BA3) | "D"F3AF2EF | "A"A2 AB ceaf | "E"ecBG"A"A2 :|
+
+X:36
+T:Girl I Left Behind Me, The
+M:4/4
+L:1/4
+N:I like the Em, but that's probably more of a contra-ish thing than old-time.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.22
+K:G
+|: g/f/ | "G"edBG | "C"A/B/A/G/ E (3D/E/F/ | "G"GGG/A/B/c/ | "D7"d2B g/f/ |
+"G"edBG | "C"A/B/A/G/ EG | "D"FADE/F/ | "G"G2G :|
+|: d/c/ | "G"Bdef | gdBG | "(Em)"Bdef | "D7"g2f g/f/ |
+"G"edBG | "C"A/B/A/G/ EG | "D"FADE/F/ | "G"G2G :|
+
+X:37
+T:Girl I Left Behind Me (Quirky), The
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.22
+S:Nancy Katz, Bill Meyer, David Cahn & WB Reid at the Festival of American Fiddle Tunes, July 3, 2013.
+M:4/4
+L:1/8
+K:G
+[| g2-|"G"g2 ed BAG2 | "C"AB AG E2D2 | "G"G2 G3 AB c | "D"d3 D d2 g2- | 
+"G"g2 ed BAG2 | "C"AB AG E2 F2- | "D"FG AF DEF2 | "G"G4 D2 |]
+[| (3DEF | "G"GF G2B4 | "C"AB AG E2D2 | "G"G2 G3 AB c | "D"d3 D d2 (3DEF | 
+"G"GG,G2B4 | "C"AB AG E2 F2- | "D"FG A2 DE F2 | "G"G3AG2 |]
+|: Bc |"G"d2B4e2- |"C"e2 c3 Bc2 |  "G"d2B2GB3 | "D"A3BA2 Bc | 
+"G"d2B4e2- |"C"e2 c4 ef | "D"ga ge dB A2 | "G"G3AG2 :|
+
+
+
