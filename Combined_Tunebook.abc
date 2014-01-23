@@ -393,7 +393,7 @@ D2 \
 | "G"G2 GB "D"A2 Ad |   "G"B2 G2- G2 D2 | "G"GF GB "D"A2 Ad | "G"B2 G2 G2 D2 |
 | "G"GF GA    B2 gf |   "C"e4     ef ge | "D"dB G2    AG Ad | "G"B2 G2 G2 :|
 |: Bd \
-| "G"g2 ga    b2 ag |   "D"g2 a2- a2 eg |    a2 ab    ag ed | "C(Em)"e4- e2 |
+| "G"g2 ga    b2 ag |   "D"g2 a2- a2 eg |    a2 ab    ag ed | "C(Em)"e4- e2 ef |
 |    gf ed    B2 Bd |"Em(C)"e2 ef e2 ge | "D"dB GB    AG Ad | "G"B2  G2  G2 :|
 
 X:32
@@ -464,5 +464,5 @@ Z:abc-edited-by Sarah Comer <fiddleteacher@hotmail.com>, 2014.01.22
 K:D
 |: A, | "D"D2E | "(Bm)" F2G | "(F#m)"A2F | "(D)"dcA | "G"B>cd | "D"A<GF |"Bm"E<FD | "A"C>B,A, |
 "D"D2E | F2G | A2F | dcA | "G"B>cd | "A"e<dc | "D"d3 | d2 :|
-|: e | "D"f<ag | f>ed | "G"e<fe | "D" d>cB | "Bm"dcB | "D" AGF | "Bm"E<FD | "A"C>B,A, |
-"D"f<ag | f>ed | "G"e<fe | "D" d>cB | "G" d2c | "Em"B<ed | "A" cBc | "D"d2 :|
+|: e | "D"f<ag | f>ed | "G"e<fe | "D" d>cB | "Bm"dcB | "D" AGF  | "Bm"E<FD | "A"C>B,A, |
+"D"f<ag | f>ed | "G"e<fe | "D" d>cB | "G" d2c | "Em"B<ed | "A"cBc   | "D"d2 :|
