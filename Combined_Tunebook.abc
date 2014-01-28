@@ -8,10 +8,10 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 B:Complete Tractor, p.210
 N:The bluegrassers all play that E minor chord in measure 11, but most old time backup players just play A.
 K:D
-|: "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF EC    B,A,   |
-   "D"DE FG A2    AA | AB    AG FE    DF | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2 A2    ::
-   "D"A2 d2 d2    dd | f2    d2 B2    A2 | "Em (A)"e2 ef    e2 ef | "A7"  gf ed    cB Ac  |
-   "D"d2 fd "A"c2 ec | "G"Bc dB "D"AF ED | "G"G2 BG     "D"F2 AF    | "A"ED EF "D"D2-D2       :|
+|: "D"DE FG A2 AA | AB AG FE DF | "G"G2 BG "D"F2 AF | "A"ED EF EC B,A, |
+"D"DE FG A2 AA | AB AG FE DF | "G"G2 BG "D"F2 AF | "A"ED EF "D"D2 A2 ::
+"D"A2 d2 d2 dd | f2 d2 B2 A2 | "Em (A)"e2 ef e2 ef | "A7" gf ed cB Ac |
+"D"d2 fd "A"c2 ec | "G"Bc dB "D"AF ED | "G"G2 BG "D"F2 AF | "A"ED EF "D"D2-D2 :|
 
 X:2
 T:Red Haired Boy
@@ -20,10 +20,10 @@ M:4/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 B:Complete Tractor, p.156
 K:A mix
-|: "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e2  A2 AB    cA | "G"BA GF G2 GF  |
-   "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e^g af ef    ed | "A"c2 A2 A2 ef ::
-   "G"g2 f2 e2 ag | "D"f2 e2 d2    cd | "A"e2  A2 AB    cA | "G"BA GF G2 GF  |
-   "A"E2 A2 AB cd | ef    ec "D"d2 cd | "A"e^g af "E"ef ed | "A"c2 A2 A4    :|
+|: "A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 A2 AB cA | "G"BA GF G2 GF |
+"A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e^g af ef ed | "A"c2 A2 A2 ef ::
+"G"g2 f2 e2 ag | "D"f2 e2 d2 cd | "A"e2 A2 AB cA | "G"BA GF G2 GF |
+"A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e^g af "E"ef ed | "A"c2 A2 A4 :|
 
 X:3
 T:Soldier's Joy
@@ -32,10 +32,10 @@ L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 S:Sarah Comer
 K:D
-|:F/-G/ || "D"A F D F  | A      d d  F/-G/ | A    F D    F | "A"G E E F/-G/  |
-         "D"A F D F  | "(G)"A d d  e     | "D"f d "A"e c | "D"d d d       :|
-|: e  || "D"f g a f  | "G"e f g>   e     | "D"f g a f    | "A"e c A> e     |
-         "D"f g a f  | "G"e   f g> e     | "D"f d "A"e c | "D"d d d       :|
+|:F/-G/ || "D"A F D F | A d d F/-G/ | A F D F | "A"G E E F/-G/ |
+"D"A F D F | "(G)"A d d e | "D"f d "A"e c | "D"d d d :|
+|: e || "D"f g a f | "G"e f g> e | "D"f g a f | "A"e c A> e |
+"D"f g a f | "G"e f g> e | "D"f d "A"e c | "D"d d d :|
 
 X:4
 T:Old Joe Clark
@@ -44,10 +44,10 @@ L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 S:Sarah Comer
 K:A mix
-|: "A"efgf         | e(dc2) | efgf    | "E"e2e2  |
-   "A"efgf         | edc>c  | Ac"E"BB | "A"A2A2 ::
-   "A"A>(BA2)      | edc>c  | AAcA    | "E"B2B2  |
-   "A"A>(BA)  c/d/ | e(dc2) | Ac"E"BB | "A"A2A2 :|
+|: "A"efgf | e(dc2) | efgf | "E"e2e2 |
+"A"efgf | edc>c | Ac"E"BB | "A"A2A2 ::
+"A"A>(BA2) | edc>c | AAcA | "E"B2B2 |
+"A"A>(BA) c/d/ | e(dc2) | Ac"E"BB | "A"A2A2 :|
 
 X:5
 T:St. Anne's Reel
@@ -56,10 +56,10 @@ L:1/8
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 B:Complete Tractor, p.184
 K:D
-e2 |: "D"f2 fg fe dB | A2     F2 F2 A2 | "G"B2 G2 G2    B2 | "D"A2 F2  F2 e2   |
-      "D"f2 fg fe dB | A2     F2 F2 A2 | "G"BG Bd "A"cA ce | "D"f2 d2  d2 e2  ::
-      "D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac    eg | "D"ba a^g a2 a=g  |
-      "D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac    ea | "D"f2 d2  d2     :|
+e2 |: "D"f2 fg fe dB | A2 F2 F2 A2 | "G"B2 G2 G2 B2 | "D"A2 F2 F2 e2 |
+"D"f2 fg fe dB | A2 F2 F2 A2 | "G"BG Bd "A"cA ce | "D"f2 d2 d2 e2 ::
+"D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac eg | "D"ba a^g a2 a=g |
+"D"fd Ad fd fa | "Em"ag gf g2 gf | "A"ed cB Ac ea | "D"f2 d2 d2 :|
 
 X:6
 T:Angeline the Baker
@@ -95,9 +95,9 @@ B:Complete Tractor, p.172
 % I really don't think the chords here are right. Update them from the band class
 % recording.
 K:A mix
-eg |: "A"a2 g2 e2 g2 | ed c2 A2 a2- | a2 g2 e2 g2 | [r:"G"]a3 b a2 eg  |
-      "A"a2 g2 e2 g2 | ed c2 A2 AB  | c2 cc [r:"G"]d2 c2 | [r:"A"]A3 B A2 cd :|
-     |: "A"e4 e3 e | d2 c2 A3 A | "A"[ce]2 [ce][ce] "D"[df]2 [df][df] |"A"[ce]2 [ce][ce] "D"[df]2 [df][df] |
+eg |: "A"a2 g2 e2 g2 | ed c2 A2 a2- | a2 g2 e2 g2 | [r:"G"]a3 b a2 eg |
+"A"a2 g2 e2 g2 | ed c2 A2 AB | c2 cc [r:"G"]d2 c2 | [r:"A"]A3 B A2 cd :|
+|: "A"e4 e3 e | d2 c2 A3 A | "A"[ce]2 [ce][ce] "D"[df]2 [df][df] |"A"[ce]2 [ce][ce] "D"[df]2 [df][df] |
 "A"e4 e3 e | d2 c2 A2 AB | "A"[ce]2 cc d2 c2 | A3 B A2:|
 
 X:9
@@ -184,7 +184,7 @@ K:G
 "G"gab(g "D"fg)a(f | "C"ef)g(e "G"dB)A(G | "C"EF)G(E "G"DE)GA | "A"BdBG "D"Ade(f | 
 "G"ga)b(g "D"fg)a(f | "C"ef)g(e "G"dB)AG | "C"EFGE "G"DEGA |1 "D"BGA(F"G"G4 :|2 "D"BGA(F"G"G2)GF ||
 |:"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"dB)AG | "Em"[E2B2] e(B dB)e(f | "G"ga)bg "D"aged | 
-"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"cB)AF | "Em"[E2B2] e(B dB)eB |1 "D"BGA(F "G"G2) GF :|2 "D"BGA(F "G"G4) |]  
+"Em"[E2B2] e(B dB)e(d | [E2B2]) e(B "D"cB)AF | "Em"[E2B2] e(B dB)eB |1 "D"BGA(F "G"G2) GF :|2 "D"BGA(F "G"G4) |] 
 
 X:16
 T:Amazing Grace
@@ -266,7 +266,7 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
 M:4/4
 L:1/4
 K:G
-DEF |:"G"GG/G/GB | "G7"d3G | "C"cege | "G"d3B | "D7"cc/B/Ac | "G"BB/A/GB  | "A7"AEFG | "D7"AFED |
+DEF |:"G"GG/G/GB | "G7"d3G | "C"cege | "G"d3B | "D7"cc/B/Ac | "G"BB/A/GB | "A7"AEFG | "D7"AFED |
 "G"GG/G/GB | "G7"d3G | "C"cege | "G"d3B | "D7"cc/B/Ac | "G"BB/A/GB | "A7"AE "D7"FD | "G"G2gf ||
 "C"e2e>^d | egfe | "G"d2B2- | Bd/d/ed | "D7"d2A2- | Ad/d/ed | "G"d2B2- | B2 gf |
 "C"e2e>^d | egfe | "G"d2B2- | Bd/d/ed | "D7"d2A2- | Ac/c/BA | "G"G2G>A | GDEF :|
@@ -297,7 +297,7 @@ K:D
 FG |: "D"A>B AF A2 de | f>e fa d2 dc | "G"Bc dB "D"AF DF | "A"E2 E>F E2 FG |
 "D"A>B AF A2 de | f>e fa d2 dc | "G"Bc dB "A"AF EF |1 "D"D2 DE D2 FG :|2 "D"D2 DE D2 de || 
 |: "D"f>e fg a2 dc | "G"B>A Bc d2 AA | "G"B>c dB "D"AF DF | "A"E2 E>F E2 FG |
-"D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "A"AF EF |1 "D"D2 DE D2 de :|2 "D"D2 DE D2  |]
+"D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "A"AF EF |1 "D"D2 DE D2 de :|2 "D"D2 DE D2 |]
 
 X:25
 T:Boogerman
@@ -307,9 +307,9 @@ L:1/8
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.17
 K:G
 |:"G"DE GA | B2G2 | BG BG | AG EG |
- DE GA | B2 ef | ge dB | AB G2 :|
+DE GA | B2 ef | ge dB | AB G2 :|
 |:"Em"Bd e2 | e3B | e2g2 | ed BA |
- Bd e2 | e2 ef | ge dB | AB G2 :|
+Bd e2 | e2 ef | ge dB | AB G2 :|
 
 X:26
 T:Midnight on the Water
@@ -326,7 +326,7 @@ A, DE |: "D"F4F2 | "(DM7)"F4FE | "(D6)"F2A3B | "D"AFD2DE |
 |:"D"(d4 d)d | "(DM7)" dc BA Bc | "(D6)"d3B AF | "D"D4d2 | \
 "Em"e4ef | e2d2e2 | "Bm"f3a fe | dc BA Bc | 
 "G"d4de | d2c2B2 | "D"A3B AG | FE DA, DE | \
- "D"F2d2"G"B2 | "D"A3D ED | "A7"FB AF EF |1 "D"D3A Bc :|2 "D"D3 |]
+"D"F2d2"G"B2 | "D"A3D ED | "A7"FB AF EF |1 "D"D3A Bc :|2 "D"D3 |]
 
 X:27
 T:Needle Case
@@ -381,7 +381,6 @@ K: D
 X:31
 T:Big Sciota
 O:trad American
-R:reel
 N:Named after the Scioto River in Ohio. Also spelled Sciota, Sciote, Scioty.
 Z:2009 John Chambers <jc:trillian.mit.edu>
 S:http://archive.mandolinsessions.com/feb06/tune.pdf
@@ -390,11 +389,11 @@ M:C|
 L:1/8
 K:G
 D2 \
-| "G"G2 GB "D"A2 Ad |   "G"B2 G2- G2 D2 | "G"GF GB "D"A2 Ad | "G"B2 G2 G2 D2 |
-| "G"GF GA    B2 gf |   "C"e4     ef ge | "D"dB G2    AG Ad | "G"B2 G2 G2 :|
+| "G"G2 GB "D"A2 Ad | "G"B2 G2- G2 D2 | "G"GF GB "D"A2 Ad | "G"B2 G2 G2 D2 |
+"G"GF GA B2 gf | "C"e4 ef ge | "D"dB G2 AG Ad | "G"B2 G2 G2 :|
 |: Bd \
-| "G"g2 ga    b2 ag |   "D"g2 a2- a2 eg |    a2 ab    ag ed | "C(Em)"e4- e2 ef |
-|    gf ed    B2 Bd |"Em(C)"e2 ef e2 ge | "D"dB GB    AG Ad | "G"B2  G2  G2 :|
+| "G"g2 ga b2 ag | "D"g2 a2- a2 eg | a2 ab ag ed | "C(Em)"e4- e2 ef |
+gf ed B2 Bd |"Em(C)"e2 ef e2 ge | "D"dB GB AG Ad | "G"B2 G2 G2 :|
 
 X:32
 T:Ida Red
@@ -430,8 +429,8 @@ E D | "C"C2 E G | AG E C | "G"D D ED | "C"C3
 w:And the pale ar-on-a--tus with eyes _of bright blue.
 G | "C"e2 d c | "F"Az A A | c2 B A | "C"G2
 w: The myr-tle so bright with an em-er-ald hue 
- E D | "C"C2 E G | AG E C | "G"D D ED | "C"C3 :| 
-w:And the  pale ar-on-a--tus with eyes _of bright blue.
+E D | "C"C2 E G | AG E C | "G"D D ED | "C"C3 :| 
+w:And the pale ar-on-a--tus with eyes _of bright blue.
 W:
 W:I'll sing and I'll dance, my laugh shall be gay
 W:I'll cease this wild weeping, drive sorrow away.
@@ -464,8 +463,8 @@ Z:abc-edited-by Sarah Comer <fiddleteacher@hotmail.com>, 2014.01.22
 K:D
 |: A, | "D"D2E | "(Bm)" F2G | "(F#m)"A2F | "(D)"dcA | "G"B>cd | "D"A<GF |"Bm"E<FD | "A"C>B,A, |
 "D"D2E | F2G | A2F | dcA | "G"B>cd | "A"e<dc | "D"d3 | d2 :|
-|: e | "D"f<ag | f>ed | "G"e<fe | "D" d>cB | "Bm"dcB | "D" AGF  | "Bm"E<FD | "A"C>B,A, |
-"D"f<ag | f>ed | "G"e<fe | "D" d>cB | "G" d2c | "Em"B<ed | "A"cBc   | "D"d2 :|
+|: e | "D"f<ag | f>ed | "G"e<fe | "D" d>cB | "Bm"dcB | "D" AGF | "Bm"E<FD | "A"C>B,A, |
+"D"f<ag | f>ed | "G"e<fe | "D" d>cB | "G" d2c | "Em"B<ed | "A"cBc | "D"d2 :|
 
 X:35
 T:Billy Wilson
@@ -504,7 +503,7 @@ K:G
 "G"g2 ed BAG2 | "C"AB AG E2 F2- | "D"FG AF DEF2 | "G"G4 D2 |]
 [| (3DEF | "G"GF G2B4 | "C"AB AG E2D2 | "G"G2 G3 AB c | "D"d3 D d2 (3DEF | 
 "G"GG,G2B4 | "C"AB AG E2 F2- | "D"FG A2 DE F2 | "G"G3AG2 |]
-|: Bc |"G"d2B4e2- |"C"e2 c3 Bc2 |  "G"d2B2GB3 | "D"A3BA2 Bc | 
+|: Bc |"G"d2B4e2- |"C"e2 c3 Bc2 | "G"d2B2GB3 | "D"A3BA2 Bc | 
 "G"d2B4e2- |"C"e2 c4 ef | "D"ga ge dB A2 | "G"G3AG2 :|
 
 X:38
@@ -517,9 +516,9 @@ M:4/4
 L:1/8
 K:G
 |: (3DEF | G2GB AG FD | G2GD B,2D2 | G2 B2 de dB | AG FG A2 (3DEF | 
-           G2GB AG FD | G2GD B,2D2 | CD EC DF Ac | BG AF G2 :|
+G2GB AG FD | G2GD B,2D2 | CD EC DF Ac | BG AF G2 :|
 |: ef | g2g2d2d2 | Bd BA G2G2 | AB cA FD EF | GA Bc d2 ef | 
-        g2g2d2d2 | Bd BA G2G2 | AB cA FD EF | G2G2G2 :|
+g2g2d2d2 | Bd BA G2G2 | AB cA FD EF | G2G2G2 :|
 
 X:39
 T:Dull Chisel
@@ -532,4 +531,15 @@ M:4/4
 L:1/8
 K:A
 |: af df ae cd | ef ed cd ec | Bc BA GA Bd |1 ef ed cd e2 :|2 cA BG A2 A2 |] 
-|: A2 AF EC EF | A2A2c4 | Bc BA GA BG |1 Bc BA GA BG :|2 A2A2A4 |]    
+|: A2 AF EC EF | A2A2c4 | Bc BA GA BG |1 Bc BA GA BG :|2 A2A2A4 |] 
+
+X:40
+T:Swallowtail Jig
+M:6/8
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.27
+K:E dor
+|: "Em"GEE BEE | GEG BAG | "D"FDD ADA | dcd AGF | 
+"Em"GEE BEE | GEG B2 c | "D"dcd AGF |1 "Em"GEE E2F :|2 "Em"GEE E3 | 
+|: "Em"Bcd e2f | e2f edB | Bcd e2f | edB "D"d2A | 
+"Em"Bcd e2f | e2f edB |"D"dcd AGF | "Em"GEE E3 :|
