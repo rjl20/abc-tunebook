@@ -555,3 +555,17 @@ K:D
 "D"d2A AGF | "G"GAB "D"A2A | "G"Bcd efg |1 "A"Adc "D"d2 :|2 "A"Adc "D"d3 | 
 |: "A"e2A e2A | efg "D"f3 | "A"efg "D"fed | "G"cdB "A"A2A | 
 "G"BGB "D"A2A | "G"BGB "D"A2A | "G"Bcd efg |1 "A"Adc "D"d3 :|2 "A"Adc "D"d2 |] 
+
+X:42
+T:Elzic's Farewell
+S:Hillbillies From Mars
+M:4/4
+L:1/8
+N:Swing the eighths.
+N:Played: AABBACC; end with a final AA.
+K:Am
+|: e4 e3d | cA cd cA Gc | A2 a2 a3g | e^d eg e=d cA | 
+e4 e3d | cA cd cA GB | AB AG ED ^CD | E2A2A4 :|
+|:AB AG EG AB | cB cd eg ed | cd cA Gc AG | E2A2A4 :| 
+|: A,6 C2 | D4-DC A,C | DC D_E DC A,C | D_E DC A,G,-G,2 | 
+A,z A,-A,3 C2 | D4-DC A,C | DC D_E DC DE | DC A,G, A,4 :| 
