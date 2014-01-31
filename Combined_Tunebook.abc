@@ -561,11 +561,25 @@ T:Elzic's Farewell
 S:Hillbillies From Mars
 M:4/4
 L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.29
 N:Swing the eighths.
 N:Played: AABBACC; end with a final AA.
 K:Am
-|: e4 e3d | cA cd cA Gc | A2 a2 a3g | e^d eg e=d cA | 
-e4 e3d | cA cd cA GB | AB AG ED ^CD | E2A2A4 :|
-|:AB AG EG AB | cB cd eg ed | cd cA Gc AG | E2A2A4 :| 
-|: A,6 C2 | D4-DC A,C | DC D_E DC A,C | D_E DC A,G,-G,2 | 
-A,z A,-A,3 C2 | D4-DC A,C | DC D_E DC DE | DC A,G, A,4 :| 
+|: "Am"e4 e3d | "G"cA cd cA Gc | "Am"A2 a2 a3g | "G"e^d eg "Em"e=d cA | 
+"Am"e4 e3d | "G"cA cd cA GB | "Am"AB AG ED ^CD | "Em"E2A2"Am"A4 :|
+|: "Am"AB AG EG AB | cB cd eg ed | cd cA Gc AG | "Em"E2A2"Am"A4 :| 
+|: "Am"A,6 C2 | "D"D4-DC A,C | DC D_E DC A,C | D_E DC A,G,-G,2 | 
+"Am"A,z A,-A,3 C2 | "D"D4-DC A,C | DC D_E DC DE | DC A,G, "Am"A,4 :| 
+
+X:43
+T:Raccoon Walkin' on a Fencepost
+C:Sarah Comer
+S:Sarah Comer's dance band class, January 2014
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.30
+M:4/4
+L:1/8
+K:D Dor
+|: ^C2 | "Dm"D2 DD "(C)"CA,C^C | "Dm"D2 DD "(C)"CA,C^C | "Dm"D2DD FDFG |"A"A2AA GFDC |
+"Dm"D2 DD "(C)"CA,C^C | "Dm"D2 DD "(C)"CA,C^C | "Dm"D2DD FDFG |1 "A"FDCD "Dm"D2 :|2 "A"FDC2"Dm"D4 ||
+|:"Dm"cd2cd2d2 | cddc dcA2 | "C"D3DF2FF | "A"EDCG,A,2A,2 | 
+"Dm"cd2cd2d2 | cddc dcA2 | "C"D3DF2FF | "A"EDCD "Dm"D2D2 :|
