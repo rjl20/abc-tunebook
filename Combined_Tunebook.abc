@@ -67,10 +67,7 @@ M:4/4
 L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 B:Complete Tractor, p.5
-N:More than half the people I encounter play this tune in the reverse order of the two parts shown. 
-N:The tune derives from Steven Foster's "Angelina Baker." My reading of the original is that this order 
-N:is closest to the original, for what that's worth. Also, I like the V chord at the end of each part 
-N:as shown, but this is for you to decide yourself. -- G.S.
+N:More than half the people I encounter play this tune in the reverse order of the two parts shown. N:The tune derives from Steven Foster's "Angelina Baker." My reading of the original is that this order N:is closest to the original, for what that's worth. Also, I like the V chord at the end of each part N:as shown, but this is for you to decide yourself. -- G.S.
 K:D
 f/g/ |: "D"a f e d/e/ | f e d> f | a f e d | "G"B> c B f/g/ | 
 "D"a f e d/e/ | f e d> e | "D"f e "G"d B | "A"A> B A A- :| 
@@ -345,8 +342,7 @@ K:D
 
 X:28
 T:Western Country
-T:Fly Arounnd My Pretty Little Miss
-T:Suzanna Gal
+T:Fly Arounnd My Pretty Little MissT:Suzanna Gal
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.20
 B:Levenson's Festival Tunes, p.80
 M:4/4
@@ -605,4 +601,22 @@ d2gg2f | g2ba2g | f2ag2f | eeee3 | c2de2f | g2dB2G | F2GA2B |1 GGGG3 :|2 G3G3 |]
 |: D2EF2G | A2dA2F | E2FG2E | D2FE3 | D2EF2G | A2Bc2A | B2d^c2A |1 dddd3 :|2 d3d2A |]
 |: f2Ae2A | d3d2A | G2AF2A | EEE E2F/E/ | D2EF2G | A2Bc2A | B2d^c2A |1 dddd2A :|2 dddd2d |]
 |: A2BB2A | G2FG2A | BBBB2G | A3A3 | cccc2A | BBBB2G | F2GA2B | A2GF2E | 
-D2BB2A | G2FG2A | BBBB2G | A3A3 | cccc2A | BBBB2G | F2GA2B | G3G3 :| 
+D2BB2A | G2FG2A | BBBB2G | A3A3 | cccc2A | BBBB2G | F2GA2B | G3G3 :| 
+X:45
+T:Moonlight
+M:2/4
+L:1/16
+S:Bruce Greene - http://slippery-hill.com/M-K/GDAE/D/Moonlight.mp3
+N:Learned from the Canote Brothers at the Wedgwood Alehouse, 2014.02.18
+N:Bruce Greene most likely got it from Wallace Thompson - http://dla.acaweb.org/cdm/ref/collection/berea/id/1894
+N:Wallace Thompson says it's an old Scottish tune his great-grandmother used to hum to him:
+N:"It was an old tune then, and she was old."
+N:Measures 1 and 5, and 2 and 6, can be pretty freely swapped for each other.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.02.19
+K:D
+|: "D"f2fe d2dc | "G"Bcde d2B2 | "D"A2AB AGFD | "A"E2EF ED3 | 
+ "D"f2"<("">)"fg fedc | "G"Bdde d2B2 | "D"A2AB AGFE | "A"DFE"<("">)"D "D"D4 :|
+|: "D"D2DE FGAc | "G"d2cd ecAc | "D"d2d"<("">)"A BAFE | "A"DFED B,2A,"<("">)"B, | 
+ "D"D2DE FGAc | "G"d2cd ecAc | "D"d2d"<("">)"A BAFE | "A"DFED "D"D4 :|
+|: "D"D4 [FA]4 | "G"[GB]3A B2B2 | "D"A2AB AGFD | "A"E2EF ED3 |
+ "D"D4 [FA]4 | "G"[GB]3A B2B2 | "D"A2AB AGFE | "A"DFED "D"D4 :|
