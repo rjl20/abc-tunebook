@@ -374,8 +374,8 @@ Z:abc-edited-by Josh Larios <hades@elsewhere.org>, 2014.01.20
 K: D
 |:(3ABc |"D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "A" E2 (3ABc |
 "D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FGAB "A"cdec | "D"d2 dc d2 :|
-|:cd |"A" ecAc efge | "D" fdAd fgaf | "A" ecAc efgf | "E7"edcB "A"A2 A2 | "G" BGDG BdcB |
-"D" AFDF A2 GA | "G"BdcB "A" AGFE | "D"D2 d2 D2 :|
+|:cd |"A" ecAc efge | "D" fdAd fgaf | "A" ecAc efgf | "E7"edcB "A"A2 A2 | 
+"G" BGDG BdcB | "D" AFDF A2 GA | "G"BdcB "A" AGFE | "D"D2 d2 D2 :|
 
 X:31
 T:Big Sciota
@@ -652,3 +652,13 @@ P:B
 "D"AB de fe df | ed Bd "A"A2A2 | "D"AB de ""fe bf | "A"af ec "D"d2d2 |]
 P:C
 |: "D"AB de fe bf | af ed "G"B2B2 | "D"AB de fe bf | "A"af ec "D"d2d2 :|
+
+X:48
+T:Britches Full of Stitches
+M:2/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.02.21
+S:Sarah Comer's dance band class, 2014.02.20
+K:A
+|: "A"A>B cA | BA cA | A>B cA | BA "D"F"<("">)"E | "A"A>B cA | BA ce | "D"A>B AF | "E"FE E2 :|
+|: "A"e>f ec | BA Bc | e>f ec | BA "D"F2 | "A"e>f ec | BA Bc | "D"A>B AF | "E"FE E2 :|
