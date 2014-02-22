@@ -67,7 +67,10 @@ M:4/4
 L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 B:Complete Tractor, p.5
-N:More than half the people I encounter play this tune in the reverse order of the two parts shown. N:The tune derives from Steven Foster's "Angelina Baker." My reading of the original is that this order N:is closest to the original, for what that's worth. Also, I like the V chord at the end of each part N:as shown, but this is for you to decide yourself. -- G.S.
+N:More than half the people I encounter play this tune in the reverse order of the two parts shown. 
+N:The tune derives from Steven Foster's "Angelina Baker." My reading of the original is that this order 
+N:is closest to the original, for what that's worth. Also, I like the V chord at the end of each part 
+N:as shown, but this is for you to decide yourself. -- G.S.
 K:D
 f/g/ |: "D"a f e d/e/ | f e d> f | a f e d | "G"B> c B f/g/ | 
 "D"a f e d/e/ | f e d> e | "D"f e "G"d B | "A"A> B A A- :| 
@@ -342,7 +345,8 @@ K:D
 
 X:28
 T:Western Country
-T:Fly Arounnd My Pretty Little MissT:Suzanna Gal
+T:Fly Around My Pretty Little Miss
+T:Suzanna Gal
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.20
 B:Levenson's Festival Tunes, p.80
 M:4/4
@@ -359,7 +363,7 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.20
 S:Canote/Goldman String Band Class, 2013.10.21
 M:4/4
 L:1/8
-K:Amix
+K:A mix
 |: EF | "A"A2cA BA cB | Ac BA "G"G2 (3DEF | GF GA Bc d2 | "A"e3ee2ef | 
 "A"ge dd ef gf | ed BA "G"G3A | B2d2ed B2 | "A"A3 AA2 :|
 |: "A"ef | ge dd ef gf | ed BA "G"G2 ef | gf ga ge d2 | "A"e3ee2ef | 
@@ -577,7 +581,7 @@ S:Sarah Comer's dance band class, January 2014
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.30
 M:4/4
 L:1/8
-K:D Dor
+K:D dor
 |: ^C2 | "Dm"D2 DD "(C)"CA,C^C | "Dm"D2 DD "(C)"CA,C^C | "Dm"D2DD FDFG |"A"A2AA GFDC |
 "Dm"D2 DD "(C)"CA,C^C | "Dm"D2 DD "(C)"CA,C^C | "Dm"D2DD FDFG |1 "A"FDCD "Dm"D2 :|2 "A"FDC2"Dm"D4 ||
 |:"Dm"cd2cd2d2 | cddc dcA2 | "C"D3DF2FF | "A"EDCG,A,2A,2 | 
@@ -601,7 +605,8 @@ d2gg2f | g2ba2g | f2ag2f | eeee3 | c2de2f | g2dB2G | F2GA2B |1 GGGG3 :|2 G3G3 |]
 |: D2EF2G | A2dA2F | E2FG2E | D2FE3 | D2EF2G | A2Bc2A | B2d^c2A |1 dddd3 :|2 d3d2A |]
 |: f2Ae2A | d3d2A | G2AF2A | EEE E2F/E/ | D2EF2G | A2Bc2A | B2d^c2A |1 dddd2A :|2 dddd2d |]
 |: A2BB2A | G2FG2A | BBBB2G | A3A3 | cccc2A | BBBB2G | F2GA2B | A2GF2E | 
-D2BB2A | G2FG2A | BBBB2G | A3A3 | cccc2A | BBBB2G | F2GA2B | G3G3 :| 
+D2BB2A | G2FG2A | BBBB2G | A3A3 | cccc2A | BBBB2G | F2GA2B | G3G3 :| 
+
 X:45
 T:Moonlight
 M:2/4
