@@ -208,7 +208,7 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.14
 K:A mix
 |: "A"e2 ef gf gf | ec e^g a2a2 | "A"e2 ef "(G)"gf gf | "E"ed B2 "A"A4 | 
 "A"ec ef gf gf | ec e^g a2a2 | "A"ec ef "(G)"gf gf | "E"ed B2 "A"A4 ::
-"A"A2A=c "G"BA G2 | "A"A2 Ad "G"B2d2 | "A"ed ef "G"!mordent!gfe2 |1,3 "E"ed BA "G"G2E2 :|2,4 "E"ed B2 "A"A4 :| 
+"A"A2A=c "G"BA G2 | "A"A2 Ad "G"B2d2 | "A"ed ef "G"!uppermordent!gfe2 |1,3 "E"ed BA "G"G2E2 :|2,4 "E"ed B2 "A"A4 :| 
 
 X:18
 T:John Lover's Gone
@@ -680,3 +680,17 @@ K:D
 "D"D2DD "A"E2EE | "D"FF FF "G"G2GG | "D"AB de fe de | "A"f2e2"D"d3e :: 
 "D"f2a2f4 | "G"ef ed B4 | "D"AB de fe de | "D"f2a2"A"e4 | 
 "D"f2a2f4 | "G"ef ed B4 | "D"AB de fe de | "A"f2e2"D"d4 :| 
+
+X:50
+T:Cold Frosty Morning (Melvin Wine)
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.02.23
+S:Erynn Marshall workshop, 2014.02.23
+N:Fiddle tuned AEAE
+G:fiddle:AEAE
+M:2/4
+L:1/16
+K:A
+|:!4!!0!!downbow![ee]3(!4!e !0!e2)fe | c2!upbow!(ec) A2c2 | !4!!0![ee]3(!4!e !0!e2)fe | c2!upbow!(ec) E2A2 |
+!downbow!([eB][ec]3) !upbow!(c2!uppermordent!B2) | !downbow!AcBA !downbow!F!upbow!(A!>!A2) | A,CE(!upbow!G A2)AB | cAB!upbow!(c A2)!downbow!([A,E]2 ||
+!>![A,E]2)!upbow!(FG) A2A2 | AcBA F(A!>!A2) | A,CE(G A2)AB | cAB(c A2)([A,E]2 |
+!>![A,E]2)(FG) A2A2 | AcBA F(A!>!A2) | A,CE(G A2)AB | cAB!upbow!c !downbow!A2!upbow!c2 :|
