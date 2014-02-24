@@ -20,7 +20,7 @@ measurenb 0
    maxshrink  0.65
    lineskipfac 1.1
 %%   parskipfac 0
-   textspace 0.2cm
+   textspace 0.5cm
    topspace 0.1cm
    titlespace 0.2cm
    infospace 0.3cm
