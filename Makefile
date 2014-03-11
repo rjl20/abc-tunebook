@@ -16,8 +16,8 @@ abc:
 ps: fmt abc
 	@echo "Building PostScript"
 	${ABCM2PS} -F out/std.fmt -O out/SlowerThanDirt_Tunebook.ps out/std.abc
-	${ABCM2PS} -F out/std.fmt -O out/DustyStrings_Tunebook.ps out/dusty.abc
-	${ABCM2PS} -F out/std.fmt -O out/Combined_Tunebook.ps out/combined.abc
+	${ABCM2PS} -F out/dusty.fmt -O out/DustyStrings_Tunebook.ps out/dusty.abc
+	${ABCM2PS} -F out/combined.fmt -O out/Combined_Tunebook.ps out/combined.abc
 
 #	./tools/abcmaddidx.tcl -b out/Combined_Tunebook.ps tmp.ps
 #	mv tmp.ps out/Combined_Tunebook.ps

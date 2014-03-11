@@ -3,8 +3,6 @@
 %%leftmargin 5cm
 %%EPS ../tools/Robots-bw.eps
 %%multicol end
-%%textfont * 24
-%%center Introduction
 %%vskip 1cm
 %%textfont * 14
 %%begintext justify
@@ -41,11 +39,11 @@
 %%begintext justify
 %%The current version of this tunebook as well as other collections I've
 %%prepared, in both ABC and PDF formats, is available at 
-%%http://slowerthandirt.org/tunebooks/ -- can check the version in the page
+%%http://slowerthandirt.org/tunebooks/ -- check the version in the page
 %%footers against the version listed on the site before downloading a new
-%%copy
+%%copy.
 %%endtext
-%%vskip 4cm
+%%vskip 6cm
 %%text
 %%center This work is licensed under a Creative Commons "Attribution-ShareAlike 4.0 International" license.
 %%center See http://slowerthandirt.org/copyright/ for details.
