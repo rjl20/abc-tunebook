@@ -1,0 +1,55 @@
+%abc
+%%multicol start
+%%leftmargin 5cm
+%%EPS ./Robots-bw.eps
+%%multicol end
+%%textfont * 24
+%%center Combined Slower Than Dirt / Dusty Strings 2nd Sunday Jam Tunebook
+%%textfont * 24
+%%center Introduction
+%%vskip 1cm
+%%textfont * 14
+%%begintext justify
+%%This tunebook contains tunes commonly played at the Slower Than Dirt 
+%%old-time jam in Seattle, where "commonly" means "played more than twice
+%%since I've been keeping records". It is almost certainly missing a few
+%%commonly-played tunes which haven't been transcribed yet. For the full logs
+%%of what's been played, see http://slowerthandirt.org/tunebooks/
+%%endtext
+%%begintext justify
+%%I am trying to make fresh transcriptions of all these tunes, but in some 
+%%cases I have cribbed from a previously-published book. Usually I will have
+%%made some minor changes to those tunes to reflect more closely how they're
+%%played at the jam, and I have included attribution notes for tunes I didn't
+%%transcribe by ear. My intent is to eventually replace any transcriptions 
+%%borrowed from books with transcriptions entirely my own. This is a work
+%%in progress.
+%%endtext
+%%begintext justify
+%%These transcriptions are mostly stripped-down versions suitable for learning
+%%the basic tune, not exact transcriptions of any particular performance. As
+%%such, they should definitely not be used as a canonical source of how any 
+%%tune "should" sound. Add your own variations, search out YouTube videos and
+%%recordings, and learn from other players in your area how they play it. The
+%%goal of this tunebook is to be descriptive, not prescriptive.
+%%endtext
+%%begintext justify
+%%Tools used in the preparation of this tunebook include abcm2ps, EasyABC,
+%%and a set of scripts based loosely on scripts written by Paul Hardy for
+%%his own tunebooks. There is a GitHub repository of files which should
+%%(with some modification) be sufficient for you to create your own set
+%%of tunebooks at https://github.com/rjl20/abc-tunebook
+%%endtext
+%%begintext justify
+%%The current version of this tunebook as well as other collections I've
+%%prepared, in both ABC and PDF formats, is available at 
+%%http://slowerthandirt.org/tunebooks/ -- can check the version in the page
+%%footers against the version listed on the site before downloading a new
+%%copy
+%%endtext
+%%vskip 8cm
+%%text
+%%center This work is licensed under a Creative Commons "Attribution-ShareAlike 4.0 International" license.
+%%center See http://slowerthandirt.org/copyright/ for details.
+%%newpage
+%%newpage

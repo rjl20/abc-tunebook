@@ -1,6 +1,3 @@
-%%footer "$P0	Slower Than Dirt / Dusty Strings 2nd Sunday Tunebook [|VERSION|]	$P1"
-footer "$P0	Combined Tunebook [|VERSION|]	$P1"
-
 titleformat R-1 T0 , K-1 T0 C1
 writefields NSB 1
 

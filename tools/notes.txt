@@ -1,7 +1,0 @@
-CSV of frequently-played tunes at Dusty Strings and Slower Than Dirt:
-https://docs.google.com/spreadsheet/pub?key=0AiGRqa7-uLzmdDNESDR6YUhrUVg5LS16UEFXMzdINlE&single=true&gid=0&output=csv
-
-Write something to grab this, sort by popularity, and automatically make a 
-tunebook from the top N tunes? Would have to standardize tune titles at least.
-
-

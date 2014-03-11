@@ -370,12 +370,12 @@ K:A mix
 "A"ge dd ef gf | ed BA "G"G3A | B2d2ed B2 | "A"A3 AA2 :|
 
 X:30
-T: Fisher's Hornpipe
-M: 4/4
-L: 1/8
+T:Fisher's Hornpipe
+M:4/4
+L:1/8
 Z:abc-downloaded-from http://thesession.org/tunes/872
 Z:abc-edited-by Josh Larios <hades@elsewhere.org>, 2014.01.20
-K: D
+K:D
 |:(3ABc |"D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "A" E2 (3ABc |
 "D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FGAB "A"cdec | "D"d2 dc d2 :|
 |:cd |"A" ecAc efge | "D" fdAd fgaf | "A" ecAc efgf | "E7"edcB "A"A2 A2 | 
@@ -548,7 +548,7 @@ K:E dor
 "Em"Bcd e2f | e2f edB |"D"dcd AGF | "Em"GEE E3 :|
 
 X:41
-T:Moon and Seven Stars Jig
+T:Moon and Seven Stars
 S:Sarah Comer
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.27
 M:6/8

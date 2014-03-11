@@ -1,0 +1,83 @@
+% header "$D	 	$T"
+footer "$P0	Slower Than Dirt / Dusty Strings Tunebook [DRAFT]	$P1"
+
+dateformat "\%d \%b, \%Y"
+
+% page definition for A4
+%   pageheight 29.7cm
+%   pagewidth 21cm
+
+% page definition for US Letter
+   pageheight 11in
+   pagewidth 8.5in
+
+   topmargin 1.3cm
+   leftmargin 1.5cm
+   rightmargin 1.5cm
+   botmargin 2cm
+
+writefields SBN 1
+
+
+% squash things a bit
+   scale 0.75
+   staffwidth 18.4cm
+   staffsep   40
+   maxshrink  0.65
+   lineskipfac 1.1
+%   parskipfac 0
+   textspace 0.2cm
+   topspace 0.1cm
+   titlespace 0.2cm
+   infospace 0.3cm
+   stretchlast 1
+
+% set up title for each tune
+   titleformat R-1 P-1 Q-1 T0 C1 O1 T0 N1
+   printtempo 0
+
+%  set fonts
+   titlefont      Verdana-Bold 13
+   subtitlefont   Verdana-Bold 11
+   composerfont   Verdana-Italic 11
+   gchordfont     Verdana-Bold 12
+   textfont       Cambria 10
+   wordsfont      Verdana 10
+   headerfont     Verdana 11
+   footerfont     Verdana 10
+   historyfont    Verdana 10
+   infofont       Verdana 11
+   tempofont      Verdana 10
+   partsfont      Verdana 10
+   repeatfont     Verdana 10
+   tempofont      Verdana 12
+   annotationfont Verdana 10
+   measurefont    Verdana 10
+   measurefont    Verdana 10
+   setfont-1      Verdana 10
+   setfont-2      Verdana 10
+   setfont-3      Verdana 10
+   setfont-4      Verdana 10
+   voicefont      Verdana 10
+   vocalfont      Verdana 10
+
+% Use Verdana instead of Helvetica and Cambria instead of Times.
+
+beginps
+/fontredef{
+findfont dup length
+dict begin
+{1 index/FID ne{def}{pop pop}ifelse}forall
+currentdict
+end
+definefont pop}!
+/Times-Roman /Cambria fontredef
+/Times-Italic /Cambria-Italic fontredef
+/Times-Bold /Cambria-Bold fontredef
+/Times-BoldItalic /Cambria-BoldItalic fontredef
+/Helvetica /Verdana fontredef
+/Helvetica-Oblique /Verdana-Italic fontredef
+/Helvetica-Bold /Verdana-Bold fontredef
+/Helvetica-BoldOblique /Verdana-BoldItalic fontredef
+endps
+
