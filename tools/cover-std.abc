@@ -4,8 +4,6 @@
 %%EPS ../tools/Robots-bw.eps
 %%multicol end
 %%textfont * 24
-%%center Combined Slower Than Dirt / Dusty Strings 2nd Sunday Jam Tunebook
-%%textfont * 24
 %%center Introduction
 %%vskip 1cm
 %%textfont * 14
@@ -47,7 +45,7 @@
 %%footers against the version listed on the site before downloading a new
 %%copy
 %%endtext
-%%vskip 8cm
+%%vskip 4cm
 %%text
 %%center This work is licensed under a Creative Commons "Attribution-ShareAlike 4.0 International" license.
 %%center See http://slowerthandirt.org/copyright/ for details.

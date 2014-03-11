@@ -90,7 +90,8 @@ foreach $book (keys %books) {
 	$a->{sort} cmp $b->{sort}
     } @{$tunebooks{$book}};
     # And spit out an abc file in sorted order
-    open(ABC, ">$dirname/../out/$book.abc") or die "Can't open $book.abc: $!\n";
+    system("cat $dirname/cover-$book.abc > $dirname/../out/$book.abc");
+    open(ABC, ">>$dirname/../out/$book.abc") or die "Can't open $book.abc: $!\n";
     for ($i = 0; $i<=$#tmp; $i++) {
 	print ABC "X:" . ($i+1) . "\n";
 	print ABC $tmp[$i]{text} . "\n";

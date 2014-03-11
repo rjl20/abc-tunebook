@@ -3,9 +3,10 @@ DATE:=$(shell git log Combined_Tunebook.abc | grep Date | head -n 1 | sed -e 's/
 
 fmt:
 	@echo "Building format files"
-	perl -pe "s/\|VERSION\|/${DATE}/g" < std.fmt tunebook.fmt > out/std.fmt 
-	perl -pe "s/\|VERSION\|/${DATE}/g" < dusty.fmt tunebook.fmt > out/dusty.fmt 
-	perl -pe "s/\|VERSION\|/${DATE}/g" < combined.fmt tunebook.fmt > out/combined.fmt 
+	cat std.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/std.fmt 
+	cat dusty.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/dusty.fmt 
+
+	cat combined.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/combined.fmt 
 
 abc:
 	@echo "Building ABC files"
