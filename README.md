@@ -10,6 +10,8 @@ Old-time tune transcriptions in ABC format, mainly from jams around Seattle:
 To Do:
 
 * Write script to extract incipits, sorted by key and title
-* Write script to sort tunebook by title during build
+* Write script to create indexes by key and title
+* Separate cover page from tunebook, insert indexes 
 * Write a better makefile
+* Improve formatting -- different margins for even/odd pages?
 
