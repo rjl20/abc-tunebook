@@ -15,3 +15,7 @@ To Do:
 * Write a better makefile
 * Improve formatting -- different margins for even/odd pages?
 
+Possibilities:
+
+* Use TeX, pdfpages, and hyperref to build cover page and indices, and combine with tunes
+

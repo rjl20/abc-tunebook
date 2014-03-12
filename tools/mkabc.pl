@@ -1,11 +1,9 @@
 #!/usr/bin/perl
-use Data::Dumper;
 use File::Basename;
 my $dirname = dirname(__FILE__);
 
 $combined = "$dirname/../Combined_Tunebook.abc";
 %books = ( 
-    combined => 'Combined Slower Than Dirt / Dusty Strings Second Sunday Tunebook',
     dusty => 'Dusty Strings Second Sunday Tunebook',
     std => 'Slower Than Dirt Tunebook'
     );
@@ -90,7 +88,8 @@ foreach $book (keys %books) {
 	$a->{sort} cmp $b->{sort}
     } @{$tunebooks{$book}};
     # And spit out an abc file in sorted order
-    system("cat $dirname/cover-$book.abc > $dirname/../out/$book.abc");
+#    system("cat $dirname/cover-$book.abc > $dirname/../out/$book.abc");
+# No, let's make that a separate page, so we can make an index and insert it.
     open(ABC, ">>$dirname/../out/$book.abc") or die "Can't open $book.abc: $!\n";
     for ($i = 0; $i<=$#tmp; $i++) {
 	print ABC "X:" . ($i+1) . "\n";
