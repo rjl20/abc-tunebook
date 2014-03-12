@@ -34,10 +34,6 @@ while (<ABC>) {
     if ((m/^K:(.*)$/) && (!$tmp[$tune]{key})) {
 	$tmp[$tune]{key} = $1;
     }
-# Don't care about this
-#    if (defined($tune)) {
-#	$tmp[$tune]{text} .= $_ . "\n";
-#    }
 }
 close ABC;
 
@@ -50,7 +46,7 @@ for ($i=0; $i<=$#tmp; $i++) {
 }
 @tmp = undef;
 
-
+# Now suck in the postscript, looking for pages and tunes
 while (<>) {
     if (m/%%Page: (\d+) /) {
 	$page = $1;
@@ -61,37 +57,52 @@ while (<>) {
 	$sort = $title;
 	$sort =~ tr/A-Z/a-z/;
         $sort =~ s/[^a-z0-9]*//g;
-	push(@{$bykey{$tunes{$sort}{key}}}, {title => $title, page => $page});
-	push(@{$bypage[$page]}, {title => $title, key => $tunes{$sort}{key}});
+	$parent = $sort;
+	push(@{$bykey{$tunes{$sort}{key}}}, {title => $title, page => $page, sort => $sort});
+	$bytitle{$sort} = {key => $tunes{$sort}{key}, page => $page, title => $title};
+    }
 
+    if (m/% --- \+ \((.*?)\) ---/) {
+	$title = $1;
+	$sort = $title;
+	$sort =~ tr/A-Z/a-z/;
+        $sort =~ s/[^a-z0-9]*//g;
+	push(@{$bykey{$tunes{$parent}{key}}}, {title => "\\ast $title", page => $page, sort => $sort});
+	$bytitle{$sort} = {key => $tunes{$parent}{key}, page => $page, title => "\\ast $title"};
     }
-    if (m/% --- \+ \(([^\)]+)\) ---/) {
-	$alt = $1;
-	push(@{$bykey{$tunes{$sort}{key}}}, { title => $alt, page => $page });
-	push(@{$bypage[$page]}, {title => $alt, key => $tunes{$sort}{key}});
-    }
+    
 }
 
 # print Dumper(%bykey);
 # print Dumper(@bypage);
 
-print "\n\n=== Tunes By Key ===\n";
+print "\n\n";
+print '\noindent' . "\n";
+print '\begin{center}' . "\n";
+print '\large{Tunes By Key} \\\\' . "\n";
+print '\end{center}' . "\n";
+
 
 foreach $key (sort keys %bykey) {
-    print "=== Key of $key ===\n";
-    @tmp = sort { $a->{title} cmp $b->{title} } @{$bykey{$key}};
+    print '\textbf{Key of ' . $key . '} \\\\';
+    print "\n";
+
+    @tmp = sort { $a->{sort} cmp $b->{sort} } @{$bykey{$key}};
     for ($i=0; $i<=$#tmp; $i++) {
-	printf("%40s\n", $tmp[$i]{title} . " " . $tmp[$i]{page});
+	print '\-\hspace{4ex}\hyperlink{tunes.' . $tmp[$i]{page} . '}{' . $tmp[$i]{title} . '\dotfill' . $tmp[$i]{page} . '} \\\\';
+	print "\n";
     }
 }
 
-print "\n\n=== Alphabetic Index ===\n";
+print "\n\n";
+print '\noindent' . "\n";
+print '\begin{center}' . "\n";
+print '\large{Tunes By Title} \\\\' . "\n";
+print '\end{center}' . "\n";
 
-$max = $#bypage;
-for ($i=1; $i <= $max; $i++) {
-    @tmp = sort { $bypage[$a]{title} cmp $bypage[$b]{title} } @{$bypage[$i]};
-    for ($n=0; $n<=$#tmp; $n++) {
-	printf("%40s\n", ($tmp[$n]{title} . " (" . $tmp[$n]{key} . ") " . $i));
-    }
+foreach $sortkey (sort keys %bytitle) {
+    print  '\hyperlink{tunes.' . $bytitle{$sortkey}{page} . '}{' . $bytitle{$sortkey}{title} . ' (' . $bytitle{$sortkey}{key} . ')\dotfill' . $bytitle{$sortkey}{page} . '} \\\\';
+    print "\n";
 }
+
 
