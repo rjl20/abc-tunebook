@@ -2,3 +2,7 @@
 other/*
 out/*
 tools/*.eps
+*.aux
+*.toc
+*.out
+*.log
