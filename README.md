@@ -11,12 +11,9 @@ To Do:
 
 * Write script to extract incipits, sorted by key and title
 
-In Progress:
-
-* Separate cover page from tunebook, insert indexes 
-* Write a better makefile
-* Use TeX, pdfpages, and hyperref to build cover page and indices, and combine with tunes
-
-
+About the scripts: the code is terrible. I'm a sysadmin, not a
+developer.  If someone wants to clean these up, that'd be great;
+otherwise, they work well enough for my purposes now that I'll
+probably only work on them when I need them to do something else.
 
 
