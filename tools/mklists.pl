@@ -2,7 +2,8 @@
 use Text::CSV;
 use Encode;
 use File::Basename;
-my $dirname = dirname(__FILE__);
+use Cwd 'abs_path';
+my $dirname = dirname(abs_path($0));
 
 # system('curl', '-o', "$dirname/../out/tunelist.csv", 'https://docs.google.com/spreadsheet/pub?key=0AiGRqa7-uLzmdDNESDR6YUhrUVg5LS16UEFXMzdINlE&single=true&gid=0&output=csv');
 

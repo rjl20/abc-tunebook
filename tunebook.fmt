@@ -7,12 +7,12 @@ infoname S "Aural Source: "
 infoname N ""
 
 annotationfont  Helvetica utf-8 12.0
-composerfont    Helvetica-Italic utf-8 12.0
+composerfont    Helvetica-Oblique utf-8 12.0
 footerfont      Helvetica utf-8 10.0
 gchordfont      Helvetica utf-8 12.0
 headerfont      Helvetica utf-8 10.0
 historyfont     Helvetica utf-8 12.0 % Below the words, and also the key 
-infofont        Helvetica-Italic utf-8 10.0 % Rhythm, what else?
+infofont        Helvetica-Oblique utf-8 10.0 % Rhythm, what else?
 measurefont     Times-Italic utf-8 10.0 % measure numbering
 partsfont       Helvetica-Bold utf-8 14.0
 repeatfont      Times-Italic utf-8 13.0

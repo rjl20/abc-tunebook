@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 use File::Basename;
-my $dirname = dirname(__FILE__);
+use Cwd 'abs_path';
+my $dirname = dirname(abs_path($0));
 
 $combined = "$dirname/../Combined_Tunebook.abc";
 %books = ( 
@@ -55,6 +56,7 @@ for ($i=0; $i<=$#tmp; $i++) {
 foreach $book (keys %books) {
     $tunebooks{$book} = [];
     $i=0;
+    $missing = undef;
     open(LIST, "<$dirname/../out/$book.txt") or die "Can't open $book.txt: $!\n";
     while (<LIST>) {
 	chomp;
@@ -74,9 +76,20 @@ foreach $book (keys %books) {
 	    $i++;
 	} else {
 	    print "$book - \"$otitle\" missing\n";
+	    $missing .= "\\item $otitle\n";
 	}
     }
     close LIST;
+    open(MISSING, ">$dirname/../out/${book}_missing.tex") or die "Can't open ${book}_missing.txt: $!\n";
+    if ($missing) {
+	print MISSING "Commonly-played tunes missing from this tunebook:\n";
+	print MISSING "\\begin{itemize}\n";
+	print MISSING $missing;
+	print MISSING "\\end{itemize}\n";
+    } else {
+	print MISSING "It appears that all the commonly-played tunes are included in this tunebook, as of this build.\n\n";
+    }
+    close MISSING;
 }
 
 

@@ -2,6 +2,7 @@
 other/*
 out/*
 tools/*.eps
+includes/Robots*
 *.aux
 *.toc
 *.out

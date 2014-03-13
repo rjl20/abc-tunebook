@@ -1,7 +1,8 @@
 #!/usr/bin/perl
 use Data::Dumper;
 use File::Basename;
-my $dirname = dirname(__FILE__);
+use Cwd 'abs_path';
+my $dirname = dirname(abs_path($0));
 
 # $base is SlowerThanDirt, DustyStrings, or Combined 
 $base = $ARGV[0];
@@ -80,34 +81,37 @@ close PS;
 
 print <<'EOF';
 
-\noindent
 \begin{center}
 \large{Tunes By Key} \\
 \end{center}
+\begin{multicols}{2}
 EOF
 
 
 foreach $key (sort keys %bykey) {
     $pkey = $key;
     $pkey =~ s/\^/\\string^/g;
+    print "\n\n\\noindent\n\\begin{center}\n";
     print '\textbf{Key of ' . $pkey . '} \\\\';
-    print "\n";
+    print "\n\\end{center}\n";
 
     @tmp = sort { $a->{sort} cmp $b->{sort} } @{$bykey{$key}};
     for ($i=0; $i<=$#tmp; $i++) {
-	print '\-\hspace{4ex}\hyperlink{tunes.' . $tmp[$i]{page} . '}{' . $tmp[$i]{title} . '\dotfill' . $tmp[$i]{page} . '} \\\\';
+	print '\hyperlink{tunes.' . $tmp[$i]{page} . '}{' . $tmp[$i]{title} . '\dotfill' . $tmp[$i]{page} . '} \\\\';
 	print "\n";
     }
 }
 
 print <<'EOF';
+\end{multicols}
 
 \clearpage
 
-\noindent
 \begin{center}
 \large{Tunes By Title} \\
 \end{center}
+\begin{multicols}{2}
+\noindent
 EOF
 
 foreach $sortkey (sort keys %bytitle) {
@@ -119,6 +123,7 @@ foreach $sortkey (sort keys %bytitle) {
 
 # The pdf inclusion stanza
 print <<'EOF';
+\end{multicols}
 
 \cleardoublepage
 
@@ -126,9 +131,9 @@ print <<'EOF';
   pages=-,
   link=true,
   linkname=tunes,
-  offset=18 0,
   addtotoc={
 EOF
+#  offset=18 0,
 foreach $sortkey (sort keys %bytitle) {
     $title = $bytitle{$sortkey}{title};
     $title =~ s/(.*), The/The \1/;
@@ -143,7 +148,7 @@ $idx =~ s/,$//s;
 $idx =~ s/\$\\ast\$ //g;
 print $idx;
 
-print "  }\n]{" . $base . "_Tunes.pdf}\n";
+print "  }\n]{${dirname}/../out/${base}_Tunes.pdf}\n";
 
 print "\\end{document}\n";
 
