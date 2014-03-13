@@ -67,7 +67,7 @@ foreach $book (keys %books) {
 	$title =~ tr/A-Z/a-z/;
 	$title =~ s/[^a-z0-9]*//g;
 	if ($tunes{$title}) {
-	    push($tunebooks{$book}, {
+	    push( @{$tunebooks{$book}}, {
 		sort => $title,
 		title => $otitle,
 		key => $tunes{$title}{key},

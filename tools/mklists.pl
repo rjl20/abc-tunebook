@@ -13,13 +13,13 @@ my $csv = Text::CSV->new({ binary => 1 }) or die "Cannot use CSV: ".Text::CSV->e
 open my $fh, "<:encoding(utf8)", "$dirname/../out/tunelist.csv" or die "tunelist.csv: $!";
 while ( my $row = $csv->getline( $fh ) ) {
     if ($row->[2] > 2) {
-	push $hoa{"std"}, $row;
+	push @{$hoa{"std"}}, $row;
     }
     if ($row->[3] > 2) {
-	push $hoa{"dusty"}, $row;
+	push @{$hoa{"dusty"}}, $row;
     }
     if ($row->[4] > 2) {
-	push $hoa{"combined"}, $row;
+	push @{$hoa{"combined"}}, $row;
     }
 }
 $csv->eof or $csv->error_diag();
