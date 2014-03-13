@@ -16,6 +16,7 @@ abc:	out/tunelist.csv
 	@echo "Building ABC files"
 	@perl tools/mklists.pl
 	@perl tools/mkabc.pl
+	@echo ${DATE} > out/version.txt
 
 ps: fmt abc
 	@echo "Building PostScript and intermediate PDF"
