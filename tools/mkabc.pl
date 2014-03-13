@@ -88,15 +88,25 @@ foreach $book (keys %books) {
 	$a->{sort} cmp $b->{sort}
     } @{$tunebooks{$book}};
     # And spit out an abc file in sorted order
-#    system("cat $dirname/cover-$book.abc > $dirname/../out/$book.abc");
-# No, let's make that a separate page, so we can make an index and insert it.
-    open(ABC, ">>$dirname/../out/$book.abc") or die "Can't open $book.abc: $!\n";
+    open(ABC, ">$dirname/../out/$book.abc") or die "Can't open $book.abc: $!\n";
     for ($i = 0; $i<=$#tmp; $i++) {
 	print ABC "X:" . ($i+1) . "\n";
 	print ABC $tmp[$i]{text} . "\n";
     }
     close ABC;
 }
+
+
+# And finally the whole tunebook
+open (ABC, ">$dirname/../out/combined.abc") or die "Can't open combined.abc: $!\n";
+$i=0;
+foreach $tune (sort keys %tunes) {
+    $i++;
+    print ABC "X:" . $i . "\n";
+    print ABC $tunes{$tune}{text} . "\n";
+}
+close ABC;
+
 
 
 

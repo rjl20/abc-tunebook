@@ -4,7 +4,7 @@ use Encode;
 use File::Basename;
 my $dirname = dirname(__FILE__);
 
-system('curl', '-o', "$dirname/../out/tunelist.csv", 'https://docs.google.com/spreadsheet/pub?key=0AiGRqa7-uLzmdDNESDR6YUhrUVg5LS16UEFXMzdINlE&single=true&gid=0&output=csv');
+# system('curl', '-o', "$dirname/../out/tunelist.csv", 'https://docs.google.com/spreadsheet/pub?key=0AiGRqa7-uLzmdDNESDR6YUhrUVg5LS16UEFXMzdINlE&single=true&gid=0&output=csv');
 
 my %hoa = ( 'std' => [], 'dusty' => [], 'combined' => [] );
 my $csv = Text::CSV->new({ binary => 1 }) or die "Cannot use CSV: ".Text::CSV->error_diag ();

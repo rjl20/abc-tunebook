@@ -1,34 +1,33 @@
-#ABCM2PS = /Applications/EasyABC.app/Contents/Resources/bin/abcm2ps
-ABCM2PS = /usr/local/bin/abcm2ps
+ABCM2PS = /Applications/EasyABC.app/Contents/Resources/bin/abcm2ps
+#ABCM2PS = /usr/local/bin/abcm2ps
 DATE:=$(shell git log Combined_Tunebook.abc | grep Date | head -n 1 | sed -e 's/Date: *//')
+
+out/tunelist.csv:
+	@curl -o out/tunelist.csv 'https://docs.google.com/spreadsheet/pub?key=0AiGRqa7-uLzmdDNESDR6YUhrUVg5LS16UEFXMzdINlE&single=true&gid=0&output=csv'
 
 fmt:
 	@echo "Building format files"
-	cat std.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/std.fmt 
-	cat dusty.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/dusty.fmt 
+	@cat std.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/std.fmt 
+	@cat dusty.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/dusty.fmt 
+	@cat combined.fmt tunebook.fmt | perl -pe "s/\|VERSION\|/${DATE}/g"> out/combined.fmt 
 
 
-abc:
+abc:	out/tunelist.csv
 	@echo "Building ABC files"
-	perl tools/mklists.pl
-	perl tools/mkabc.pl
+	@perl tools/mklists.pl
+	@perl tools/mkabc.pl
 
 ps: fmt abc
-	@echo "Building PostScript"
-	${ABCM2PS} -O out/SlowerThanDirt_Cover.ps tools/cover-std.abc
-	${ABCM2PS} -F out/std.fmt -O out/SlowerThanDirt_Tunes.ps out/std.abc
-	${ABCM2PS} -O out/DustyStrings_Cover.ps tools/cover-dusty.abc
-	${ABCM2PS} -F out/dusty.fmt -O out/DustyStrings_Tunes.ps out/dusty.abc
+	@echo "Building PostScript and intermediate PDF"
+	@${ABCM2PS} -F out/std.fmt -O out/SlowerThanDirt_Tunes.ps out/std.abc
+	@ps2pdf out/SlowerThanDirt_Tunes.ps out/SlowerThanDirt_Tunes.pdf
+	@${ABCM2PS} -F out/dusty.fmt -O out/DustyStrings_Tunes.ps out/dusty.abc
+	@ps2pdf out/DustyStrings_tunes.ps out/DustyStrings_tunes.pdf
+	@${ABCM2PS} -F out/combined.fmt -O out/Combined_Tunes.ps out/combined.abc
+	@ps2pdf out/Combined_Tunes.ps out/Combined_Tunes.pdf
 
-#	./tools/abcmaddidx.tcl -b out/Combined_Tunebook.ps tmp.ps
-#	mv tmp.ps out/Combined_Tunebook.ps
+all: ps
 
-pdf: ps
-	echo "Building PDF"
-	pstopdf -p out/SlowerThanDirt_Tunebook.ps -o out/SlowerThanDirt_Tunebook.pdf 
-	pstopdf -p out/DustyStrings_Tunebook.ps -o out/DustyStrings_Tunebook.pdf 
-
-all: ps pdf
 
 clean:
-	rm out/*
+	@rm out/*

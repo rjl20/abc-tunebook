@@ -1,24 +1,42 @@
 titleformat R-1 T0 , K-1 T0 C1
-writefields NSB 1
+writefields NSBK 1
 
-titlefont      Verdana-Bold 14
-subtitlefont   Verdana-Bold 11
-composerfont   Verdana-Italic 12
-gchordfont     Verdana-Bold 12
-textfont       Verdana 12
-historyfont       Verdana 12
+
+infoname B "Written Source: "
+infoname S "Aural Source: "
+infoname N ""
+
+annotationfont  Helvetica utf-8 12.0
+composerfont    Helvetica-Italic utf-8 12.0
+footerfont      Helvetica utf-8 10.0
+gchordfont      Helvetica utf-8 12.0
+headerfont      Helvetica utf-8 10.0
+historyfont     Helvetica utf-8 12.0 % Below the words, and also the key 
+infofont        Helvetica-Italic utf-8 10.0 % Rhythm, what else?
+measurefont     Times-Italic utf-8 10.0 % measure numbering
+partsfont       Helvetica-Bold utf-8 14.0
+repeatfont      Times-Italic utf-8 13.0
+tempofont       Helvetica-Bold utf-8 12.0
+textfont        Helvetica utf-8 12.0 % Text above staff
+titlefont       Helvetica-Bold utf-8 16.0
+subtitlefont    Helvetica utf-8 14.0
+vocalfont       Helvetica-Bold utf-8 12.0
+voicefont       Helvetica-Bold utf-8 12.0
+wordsfont       Helvetica utf-8 12.0
+
+
+% Number measures at left
 measurenb 0
 
+% Shave a quarter inch off the width so I can offset it by a quarter inch
+% when inserting in pdfpages, for larger gutter.
+pagewidth 8.25in
+pageheight 11in
 
-%% squash things a bit
-   scale 0.75
-   staffwidth 18.4cm
-   staffsep   40
-   maxshrink  0.65
-   lineskipfac 1.1
-%%   parskipfac 0
-   textspace 0.5cm
-   topspace 0.1cm
-   titlespace 0.2cm
-   infospace 0.3cm
-   stretchlast 1
+
+% Staves a little closer together; a little more space after final one.
+staffsep   40
+infospace 0.3cm
+
+% Flush-right final line.
+stretchlast 1
