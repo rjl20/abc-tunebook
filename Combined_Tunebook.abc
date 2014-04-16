@@ -698,3 +698,115 @@ K:A
 !downbow!([eB][ec]3) !upbow!(c2!uppermordent!B2) | !downbow!AcBA !downbow!F!upbow!(A!>!A2) | A,CE(!upbow!G A2)AB | cAB!upbow!(c A2)!downbow!([A,E]2 ||
 !>![A,E]2)!upbow!(FG) A2A2 | AcBA F(A!>!A2) | A,CE(G A2)AB | cAB(c A2)([A,E]2 |
 !>![A,E]2)(FG) A2A2 | AcBA F(A!>!A2) | A,CE(G A2)AB | cAB!upbow!c !downbow!A2!upbow!c2 :|
+
+X:51
+T:Buffalo Gals
+K:D
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|:"D"DFAA | BAF2 | "A"AGE2 | "D"BAF2 | 
+"D"DFAA | BAF2 | "A"AAGE | "D"D2D2 :|
+|:"G"dcBA | "D"BAF2 | "A"AGE2 | "D"BAF2 | 
+"G"dcBA| "D"BAF2 | "A"AAGE | "D"D2D2 :| 
+
+X:52
+T:Eva's Polka
+K:Am
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|: "Am"EAA>B | cAA>c | "G"BGGB | "Am"cAA>G | 
+"Am"EAA>B | cAAc/d/ | "C"ed"G"cB |1 "Am"cAA>G :|2 "Am"cAA ||
+|: c/d/ | "C"e>edc | "G"BGGB/c/ | "Dm"d>dcB | "Am"cAAc/d/ | 
+"C"e>edc | "G"BGGB/c/ | "E7"d>dcB | "Am"cAA :|
+
+X:53
+T:Sackett's Harbor
+K:Am
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|:"Am"EGABA2AB | cBAG"Em"B2E2 | "G"G3G GABc | dcBc dcBA | 
+"Am"EGABA2AB | cBAG"Em"B2E2 | "C"cdcA "G"BcBG |1 "Am"A2AAA4 :|2 "Am"A2AAA2 ||
+|: cd | "C"edcde2g2 | "Am"edcBA2Bc | "G"dcBcd2g2 | dcBAG2cd | 
+"C"edcde2g2 | "Am"edcBA2AB | "C"cdcA "G"BcBG | "Am"A2AAA2 :| 
+
+X:54
+T:Balquidder Lasses
+K:E dor
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|: BA | "Em"G2FG EFGA | B2B2e3e | "D"d2A2ABAF | DEFGA2BA | 
+"Em"G2FG EFGA | B2B2e3e | "D"d2A2"B7"BAGF | "Em"E4E2 :|
+[| B2 | "Em"e3fe2B2 | efgfe2Bc | "D"d2de dAFA | DEFGA2B2 | 
+"Em"e3fe2B2 | efgfe2Bc | "D"d2A2"B7"BAGF | "Em"E4E2B2 |  
+"Em"e3fe2B2 | efgfe2Bc | "D"d2de dAFA | DEFGA2BA | 
+"Em"G2FG EFGA | B2B2e3e | "D"d2A2"B7"BAGF | "Em"E4E2 |]
+
+X:55
+T:Come Home with the Girls in the Morning
+K:D dor
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|: "Dm"Add>e | dcAG | AddA | "A"cA2A/A/ | 
+"Dm"Add>e | dcAA/B/ | "C"cB/"A"AG/F |1 "Dm"D2D2 :|2 "DM"D2D ||
+|: D/E/ | "Dm"FF"C"EE | "Dm"D/E/D/C/A,D/E/ | "Dm"FF"C"ED | "D"^F3D/E/ | 
+"Dm"=FF"C"EE | "Dm"D/E/D/C/A,A/B/ | "C"cB/"A"AG/F | "Dm"D2D :|
+
+X:56
+T:Forked Deer
+K:D
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|: A2 || "D"defga2f2 | "G"gfeg "D"fed2 | defga2f2 | "Em"gfed "A"cABc | 
+"D"defga2f2 | "G"gfeg "D"fed2 | dBAF "G"GBAG |1 "A7"F2"D"D2D2 :|2 "A7"F2"D"D2D4 ||
+|:"A"A4c4 | ABAF "D"E2D2 | "A"A4c4 | "D"dBAFD4 | 
+"A"A4c4 | ABAF "D"E2D2 | DEFG "G"ABcd | "A"efec "D"d4 :| 
+
+X:57
+T:Mississippi Sawyer
+K:D
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|: fg | "D"a2afa2af | a2aab2a2 | "G"g2geg2ge | g2gga2g2 | 
+"D"f2fgf2e2 | defga2a2 | "G"ABcd "A"egfe | "D"d2ddd2 :|
+|: AB | "D"d2f2d2f2 | defga2a2 | "A"A2cBA2cB | ABcd egfe | 
+"D"d2f2d2f2 | defga2a2 | "G"ABcd "A"egfe | "D"d2ddd2 :|
+
+X:58
+T:Old John Tate
+T:Land of Lincoln
+K:Dm
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|:"Dm"A2d2d3c | d2c2AGFD | "F"FGFD "C"EFEC | "Dm"DFEC "A"DCA,G, | 
+"Dm"A,2d2d3c | d2c2AGFD | "F"FGFD "C"EFEC | "A"DCA,C "Dm"D2D2 :|
+|:"Dm"D2A,2A,3A, | DCDE FGA2 | D2A,2A,3D | "C"FGFD "A"EDC2 | 
+"Dm"D2A,2A,3A, | DCDE FEFG | "F"A2G2 "C"FEDF | "A"EDC2 "Dm"D3D :| 
+
+X:59
+T:Turkey in the Straw
+K:G
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|: B/A/ | "G"GGGB,/C/ | DD/D/DG/A/ | BBB/A/G/A/ | "D"BAAB/A/ | 
+"G"GGGB,/C/ | DD/D/DG/A/ | "C"Bdd/B/G/A/ |1 "D"BA"G"G :|2 "D"BA"G"G2 || 
+|: "G"B/dB/dd | B/dB/d2 | "C"c/ec/ee | c/ec/ef | 
+"G"ggdd | BB"D"AG/A/ | "G"Bdd/B/G/A/ |1 "D"BA"G"G2 :|2 "D"BA"G"G |]
+ 
