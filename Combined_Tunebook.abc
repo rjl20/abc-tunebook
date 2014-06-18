@@ -757,7 +757,7 @@ L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
 B:Sarah Comer, Dusty Strings dance band class.
 |: "Dm"Add>e | dcAG | AddA | "A"cA2A/A/ | 
-"Dm"Add>e | dcAA/B/ | "C"cB/"A"AG/F |1 "Dm"D2D2 :|2 "DM"D2D ||
+"Dm"Add>e | dcAA/B/ | "C"cB/"A"AG/F |1 "Dm"D2D2 :|2 "Dm"D2D ||
 |: D/E/ | "Dm"FF"C"EE | "Dm"D/E/D/C/A,D/E/ | "Dm"FF"C"ED | "D"^F3D/E/ | 
 "Dm"=FF"C"EE | "Dm"D/E/D/C/A,A/B/ | "C"cB/"A"AG/F | "Dm"D2D :|
 
@@ -847,3 +847,39 @@ L:1/8
 K:G
 |: "G"Bd- dd dABd | edBA G2G2 | "C"Be- ee efgf | edBA "G"G2G2 :| 
 |: "G"DEGA BdBA | GBAG "C"E2E2 | "G"DEGA BdBA | "D"GBAF "G"G2G2 :| 
+
+X:63
+T:Santa Anna's Retreat (from Henry Reed)
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.06.17
+K:A dor
+ABcd |: "Am"e2a2e2a2 | edef"G"g4 | B2g2f2gf | edBcd2cd | 
+"Am"e2a2e2a2 | edef"G"g3a | "Em"b2e2gfed | "Am"c2A2A4 :|  
+|: "Am"ABAG EGAB | c2A2e2A2 | c2d2 "G"edef | "Em"g2B2"Am"A4 :| 
+
+X:64
+T:Tater Roll
+S:Porterbelly Stringband (from Harvey "Pappy" Taylor via Garry Harrison)
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.06.17
+N:Not sure about the chords here.
+M:4/4
+L:1/4
+K:D
+|:"D"fa2f | ed"G"B>B | "D"Abaf | "A"ed"D"f2 | 
+"D"fa2f | ed"G"B>d | BAF/E/D/F/ | "A"ED"D"D2 :| 
+|: "D"FFF/E/D | EF"G"G2 | "D"FFF/E/D/F/ | "A"ED"D"D2 :| 
+
+X:65
+T:Willow's Hedgehog
+C:Tim Moran
+N:Chords from Tim
+S:Tim Moran & Karen Davis, White Knuckle Jam, 2014.06.17
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.06.18
+M:2/4
+L:1/8
+K:A mix
+c/d/ |: "A"ef "D"ea/f/ | "A"ec "D"ea/f/ | "A"ec "D"d/c/A | "E"B2 Bc/d/ | 
+"A"ef "D"ea/f/ | "A"ec "D"ea/f/ | "A"e/d/c/A/ "E"B/c/e |1 "A"A2 Ac/d/ :|2 "A"A2 Aa/b/ | 
+|: "A"c'c' aa/b/ | c'a ba/b/ | c'a be | "D"f2fa/f/ | 
+"A"ef "D"ec/d/ | "A"ef "D"e2 | "A"E/F/A/B/ "E"c/A/B |1 "A"A2 Aa/b/ :|2 "A"A2!D.C.!A |]  
