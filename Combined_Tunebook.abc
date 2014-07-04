@@ -859,16 +859,16 @@ ABcd |: "Am"e2a2e2a2 | edef"G"g4 | B2g2f2gf | edBcd2cd |
 |: "Am"ABAG EGAB | c2A2e2A2 | c2d2 "G"edef | "Em"g2B2"Am"A4 :| 
 
 X:64
-T:Tater Roll
-S:Porterbelly Stringband (from Harvey "Pappy" Taylor via Garry Harrison)
+T:Tater Rolls
+S:Porterbelly Stringband, self-titled CD
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.06.17
-N:Not entirely sure about the chords here, but they sound ok to me.
-M:4/4
-L:1/4
+Z:abc-edited Josh Larios <hades@elsewhere.org>, 2014.07.01
+M:2/4
+L:1/8
 K:D
-|:"D"fa2f | ed"G"B>A | "D"Bbaf | "A"ed"D"f2 | 
-"D"fa2f | ed"G"B>d | BAF/E/D/F/ | "A"ED"D"D2 :| 
-|: "D"FFF/E/D | EF"G"G2 | "D"FFF/E/D/F/ | "A"ED"D"D2 :| 
+|:"D"fa- af | ed "G"B>A | "D"Bb af | "A"ed "D"f>e | 
+"D"fa- af | ed "G"B>d | BA F/E/D/F/ | "A"ED"D"D2 :| 
+|: "D"FF F/E/D | EF"G" G>D | "D"FF F/E/D/F/ | "A"ED "D"D>E :| 
 
 X:65
 T:Willow's Hedgehog
@@ -882,22 +882,79 @@ K:A mix
 c/d/ |: "A"ef "D"ea/f/ | "A"ec "D"ea/f/ | "A"ec "D"d/c/A | "E"B2 Bc/d/ | 
 "A"ef "D"ea/f/ | "A"ec "D"ea/f/ | "A"e/d/c/A/ "E"B/c/e |1 "A"A2 Ac/d/ :|2 "A"A2 Aa/b/ | 
 |: "A"c'c' aa/b/ | c'a ba/b/ | c'a be | "D"f2fa/f/ | 
-"A"ef "D"ec/d/ | "A"ef "D"e2 | "A"E/F/A/B/ "E"c/A/B |1 "A"A2 Aa/b/ :|2 "A"A2!D.C.!A |]  X:66T:Buffalo Chicken SchottischeC:Kay Yu Yuan ChaiZ:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.06.25S:Recording from Kay, 2014.06.18N:First time through is in D Harmonic Minor, second time through is in D Major.N:I'm totally winging the chords, here. Any guitar players want to provide better ones? --JoshK:Dm^c|: "Dm"fdAF "C"GBAG | "Bb7"FEDF "A"E2A,2 | "Dm"DFAF "Gm"GBdB | "A"Acec "Dm"d2A2 :| 
-|: "Dm"DFdA "Bb7"B2B2 | "Gm"ABAD "A"E2A,2 | "Dm"DFAF "Gm"GBdB | "A"Acec "Dm"d2A2 :|K:D|: "D"fdAF "G"GBdB | "D"AFDF "A"E2A,2 | "D"DFAF "G"GBdB | "A"Acec "D"d2A2 :| |: "D"DFdA "G"B2B2 | "D"ABAD "A"E2A,2 | "D"DFAF "G"GBdB | "A"Acec "D"d2A2 :|
+"A"ef "D"ec/d/ | "A"ef "D"e2 | "A"E/F/A/B/ "E"c/A/B |1 "A"A2 Aa/b/ :|2 "A"A2!D.C.!A |]  
+
+X:66
+T:Buffalo Chicken Schottische
+C:Kay Yu Yuan Chai
+R:Schottische
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.06.25
+S:Recording from Kay, 2014.06.18
+N:First time through is in D Harmonic Minor, second time through is in D Major.
+N:Measures 1-2 and 9-10 are variations of each other; you can play either or both in one round through the minor/major repeat.
+N:I'm totally winging the chords, here. Any guitar players want to provide better ones? --Josh
+K:Dm^c
+|: "Dm"fdAF "C"GBAG | "Bb7"FEDF "A"E2A,2 | "Dm"DFAF "Gm"GBdB | "A"Acec "Dm"d2A2 :| 
+|: "Dm"DFdA "Bb7"B2B2 | "Gm"ABAD "A"E2A,2 | "Dm"DFAF "Gm"GBdB | "A"Acec "Dm"d2A2 :|
+K:D
+|: "D"fdAF "G"GBdB | "D"AFDF "A"E2A,2 | "D"DFAF "G"GBdB | "A"Acec "D"d2A2 :| 
+|: "D"DFdA "G"B2B2 | "D"ABAD "A"E2A,2 | "D"DFAF "G"GBdB | "A"Acec "D"d2A2 :|
 
 X:67
 T:Chocolates for Sarah
 C:Kay Yu Yuan Chai
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.06.28
 S:Recording from Kay, 2014.06.18
-N:Chords in parentheses are optional; maybe experiment with a B7 in the first part?
+N:Chords in parentheses are optional. Watch out for the split measures in lines 2-5.
 M:3/4
 L:1/8
 K:D
-A Bc | "D"d2 dc de | f2 d2 AF | "G"G2 GF GA | "(B)"B4 B2 | "A"A2 e2 A2 | A2 c3 A | A2 AB AG |"D"F3 A Bc |
-"D"d2 dc de | f2 d2 AF | "G"G2 GF GA | "(B)"B4 B2 | "A"A2 g2 f2 | e2 A2 c2 | "D" d3 e dc | d4 ||
+P:I
+A Bc | "D"d2 dc de | f2 d2 AF | "G"G2 GF GA | "(B7)"B4 B2 | "A"A2 e2 A2 | A2 c3 A | A2 AB AG |"D"F3 A Bc |
+"D"d2 dc de | f2 d2 AF | "G"G2 GF GA | "(B7)"B4 B2 | "A"A2 g2 f2 | e2 A2 c2 | "D" d3 e dc | d4 ||
+P:II
 A,2 | "G"G4 A,2 | G4 F2 | "D"A4 F2 | A4 A2 | "G"B2 BA Bc | "(A)"d2 c2 B2 | "D"A2 AB AG | F4
 A,2 | "G"G4 A,2 | G4 F2 | "D"A4 F2 | d6 | "G"c2 B2 A2 | "A"G2 E2 C2 | "D"D3 E DC | D4 || 
+P:III
 A2 |: "A"cA AA AA | cA AA AA | "D"dA AA AA | dA AA AA | 
 "A"cA AA AA | cA AA AA |1 "D"d2 dc de | f2 e2 d2 :|2 "D"d2 f2 "A"ac | "D"d3 !D.C.!x |]
+
+X:68
+T:Tater Roll
+C:Harvey Taylor
+B:Dear Old Illinois, p.339
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.07.01
+M:2/4
+L:1/8
+K:D
+e/ |: "D"fa f>f | "G"ed B>B | Bb "A"af | "D"e[fd] [fd]>e | 
+fa>ef/e/ | "G"dB B>B | "D"A[AF]>[AF][AF] |1 "A"[AE][AD] [AD]> e :|2 "A"[AE][AD] [AD]> ||
+[AE] |: "D"[AF][AF]>[AE][AD]/[AF]/ | [AE][AF] "G"[BG]>B | "D"A[AF]>[AE][AF] |1 "A"[AE][AD] "D"[AD]>[AE] :|2 "A"[AE][AD] "D"[AD]> |]
+
+X:69
+T:The Buffalo Chicken Schottische
+%N: Some of the Dm chords can be replaced with Bb7 
+C:Kay Yu Yuan Chai
+Z:abc-transcription Kay Yu Yuan Chai <chaik@uw.edu>, 2014.07.03
+K:Dm^c
+M:4/4
+R:Schottische
+P:D harmonic minor
+|:"Dm"f>d A>F "Gm"G>B d>B | "Dm"A>F D>F "A"E2 A,2 |  "Dm"D>F A>F "Gm"G>B d>B | "A"A>c e>c "Dm"d2A2 :|
+|:"Dm"D>F d>A "Gm"B2B2 |"Dm"A>B A>D "A"E2A,2 | "Dm"D>F A>F "Gm"G>B d>B | "A"A>c e>c "Dm"d2A2 :|
+K:D
+P: D major
+|:"D"f>d A>F "G"G>B d>B | "D"A>F D>F "A"E2 A,2 |  "D"D>F A>F "G"G>B d>B | "A"A>c e>c "D"d2A2 :|
+|:"D"D>F d>A "G"B2B2 |"D"A>B A>D "A"E2A,2 | "D"D>F A>F "G"G>B d>B | "A"A>c e>c "D"d2A2 :|
+W:Dedicated to my beloved Dusty Strings Dance Band, formed in 2014 under Sarah Comer's leadership.
+W:This band, also known as the Buffalo Chickens, created with me the best experiences 
+W:in my life and taught me what real friendship means.
+W:
+W:Some of the Dm chords can be replaced with Bb7. The major part is played the second time through, 
+W:but players can feel free to mix up major and minor parts for fun, or play solely minor or major.
+W:The dotted rhythm can be straightened out to make this tune a slow reel or a hoedown.
+W:
+W:Not to be medleyed with Shoot the Buffalo Schottische, or Come Through the Canebreak to Shoot
+W:the Buffalo, or any buffalo-shooting and chicken-cooking tunes...unless you have the heart to see the 
+W:chicken or buffalo roam all alone in the world without its buddy.
 
