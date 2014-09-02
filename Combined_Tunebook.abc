@@ -397,8 +397,8 @@ D2 \
 | "G"G2 GB "D"A2 Ad | "G"B2 G2- G2 D2 | "G"GF GB "D"A2 Ad | "G"B2 G2 G2 D2 |
 "G"GF GA B2 gf | "C"e4 ef ge | "D"dB G2 AG Ad | "G"B2 G2 G2 :|
 |: Bd \
-| "G"g2 ga b2 ag | "D"g2 a2- a2 eg | a2 ab ag ed | "C(Em)"e4- e2 ef |
-gf ed B2 Bd |"Em(C)"e2 ef e2 ge | "D"dB GB AG Ad | "G"B2 G2 G2 :|
+| "G"g2 ga b2 ag | "D"g2 a2- a2 eg | a2 ab ag ed | "C (Em)"e4- e2 ef |
+gf ed B2 Bd |"Em (C)"e2 ef e2 ge | "D"dB GB AG Ad | "G"B2 G2 G2 :|
 
 X:32
 T:Ida Red
@@ -695,9 +695,9 @@ M:2/4
 L:1/16
 K:A
 |:!4!!0!!downbow![ee]3(!4!e !0!e2)fe | c2!upbow!(ec) A2c2 | !4!!0![ee]3(!4!e !0!e2)fe | c2!upbow!(ec) E2A2 |
-!downbow!([eB][ec]3) !upbow!(c2!uppermordent!B2) | !downbow!AcBA !downbow!F!upbow!(A!>!A2) | A,CE(!upbow!G A2)AB | cAB!upbow!(c A2)!downbow!([A,E]2 ||
-!>![A,E]2)!upbow!(FG) A2A2 | AcBA F(A!>!A2) | A,CE(G A2)AB | cAB(c A2)([A,E]2 |
-!>![A,E]2)(FG) A2A2 | AcBA F(A!>!A2) | A,CE(G A2)AB | cAB!upbow!c !downbow!A2!upbow!c2 :|
+!downbow!([eB][ec]3) !upbow!(c2!uppermordent!B2) | !downbow!AcBA !downbow!F!upbow!A-!>!A2 | A,CE(!upbow!G A2)AB | cAB!upbow!(c A2)!downbow!([A,E]2 ||
+!>![A,E]2)!upbow!(FG) A2A2 | AcBA FA-!>!A2 | A,CE(G A2)AB | cAB(c A2)([A,E]2 |
+!>![A,E]2)(FG) A2A2 | AcBA FA-!>!A2 | A,CE(G A2)AB | cAB!upbow!c !downbow!A2!upbow!c2 :|
 
 X:51
 T:Buffalo Gals
@@ -958,3 +958,58 @@ W:Not to be medleyed with Shoot the Buffalo Schottische, or Come Through the Can
 W:the Buffalo, or any buffalo-shooting and chicken-cooking tunes...unless you have the heart to see the 
 W:chicken or buffalo roam all alone in the world without its buddy.
 
+X:70
+T:Blackberry Festival Footrace
+C:David Fisher
+M:6/8
+L:1/8
+Q:3/8=130
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.08.15
+S:Gallowglass' first set at the Subdued Stringband Jamboree, 2014.08.09
+N:Chords for third part can echo those from first and second, or hold a different chord each time through for building tension.
+K:Dm^c
+A | "Dm"d2A BAG | FED CEA | d2d fed | "A"cec A=Bc | 
+"Dm"d2A BAG | FED CEA | "Gm/Bb"Bdf "Gm"Adf | "A7"edc "Dm"d2 :|
+B | "Dm"AaA g2f | gfd fdA | "Gm"BaB g2f | "A7"dfa ecA | 
+"Dm"AaA g2f | gfd fdA | "Gm/Bb"Bdg "Gm"Adf | "A7"edc "Dm"d2 :|
+E | "Dm"Daa gAB | dgf Afe |  ABd FED | CAB AFE | 
+"Dm"Daa gAB | dgf Afe |  ABd FED | CDE D2 :| 
+
+X:71
+T:The Old Churchyard
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.08.15
+M:2/4
+L:1/8
+S:Eamon O'Leary & Jefferson Hamer (The Murphy Beds), from Almeda Riddle. Also The New Line, from The Murphy Beds.
+N:Structure as sung is AA*BA(AA), with the extra measure only between A into B; twice through A with no vocal after each verse.
+N:For an instrumental break, just AA*BA, and then back into the next sung verse.
+N:The Murphy Beds sing this in Ab, The New Line sings it in E, I find the guitar chords easiest in D.  
+N:
+N:See http://mainlynorfolk.info/watersons/songs/theoldchurchyard.html and http://www.mudcat.org/thread.cfm?threadid=104465#2493525
+N:for further lyrics.
+K:G
+"C"E2 EG | "G"D2 DE | G2 G2 | "D"A2 GA | "G"B2 AB | d2 BA | "C"G2 E2 | E4 ||
+w:Come, come with me to the old church-yard, I so well know those paths 'neath the soft green sward.
+"C"E2 EG | "G"D2 DE | G2 G2 | "D"A2 GA | "G"B2 AB | d2 BA |"C"G2 E2 | E4 | z4 || 
+w:Friends slum-ber there that we once did regard; we will trace out their names in the old church-yard.
+"G"d2 de | d2  Bc | d2 de | d4 | "Em"B2 BB | "C"e2 ee | "G"d2 cB | "D"A4 || 
+w:Mourn not for them, for their trials are _ o'er~and why weep for those who would weep no _ more?
+"C"E2 EG | "G"D2 DE | G2 G2 | "D"A2 GA | "G"B2 AB | d2 BA | "C"G2 E2 | E4 |]
+w:Sweet is their sleep though_ cold and hard their _ pil-lows may be in the old church-yard.
+
+X:72
+T:Bye For Now
+C:Sarah Comer
+N:"Written for the founding members of the Dusty Strings Dance Band (during our summer hiatus) whose enthusiasm
+N:for the dance music tradition and support of one another inspired me more than I can say."
+N:
+N:© 2014, Sarah Comer.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.08.15
+B:Email from Sarah.
+M:3/4
+L:1/4
+K:D
+A/F/ | "D"D2A/B/ | "F#m"A2F/A/ | "Bm"dc>F | "F#m"A2F/A/ | "G"G>F E/D/ | "Bm"F2D/A/ | "G"G/F/ E/D/ C/G,/ | "A"A,EA | 
+"D"F2D/A/ | "F#m"F2D/A/ | "Bm"dcd | "F"=f2e/A/ | "D"d2A/F/ | "A"A2G/F/ | "G"A,GF | "D"Ddc ||
+"Bm"BAd/c/ | "G"BAF | "D"A3 | A2d/c/ | "G"BAF/G/ | "D"AG>F | "A"E3 | E2D/E/ | 
+"D"FAF | "A"E2D/E/ | "D"FA>F | "A"E2D/E/ | "Bm"FA>F | "A"E>FE | "(G)"D3 | "D"D2 ||
