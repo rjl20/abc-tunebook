@@ -1013,3 +1013,20 @@ A/F/ | "D"D2A/B/ | "F#m"A2F/A/ | "Bm"dc>F | "F#m"A2F/A/ | "G"G>F E/D/ | "Bm"F2D/
 "D"F2D/A/ | "F#m"F2D/A/ | "Bm"dcd | "F"=f2e/A/ | "D"d2A/F/ | "A"A2G/F/ | "G"A,GF | "D"Ddc ||
 "Bm"BAd/c/ | "G"BAF | "D"A3 | A2d/c/ | "G"BAF/G/ | "D"AG>F | "A"E3 | E2D/E/ | 
 "D"FAF | "A"E2D/E/ | "D"FA>F | "A"E2D/E/ | "Bm"FA>F | "A"E>FE | "(G)"D3 | "D"D2 ||
+
+X:73
+T:Walking In The Parlor (Hollis)
+C:from D. Dix Hollis (1861-1927)
+C:via Mozaik
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.11.18
+S:Mozaik, Changing Trains
+N:Finish on a 4-repeat of the A section.
+N:See http://drfiddle.com/show_tune.php?id=733 for a transcription of Hollis' playing rather than Mozaik's interpretation.
+N:NB: Chords here are a total mess. Ignore them.
+M:4/4
+L:1/8
+K:G
+DF |: "G"GA BG DF GA | "C"BA BG AG EF | "G" GA BG DF GA |1 "D7"BG AF "G"G2 DF :|2 "D7"BG AF "G"G2 D2 :|3 "D7"BG AF "G"GA Bc | 
+|| "G"d4 g3a | ba gb "C"ag- ga | "G"be dg ea ga | "D7"bg ab "G"g2 ga | 
+"G"ge dg "C"ea ga | "G"ba bg "C"ab ga | "G"be dg "C"ea ga | "D"bg ab "G"g2 (b_b | 
+"G"=b)a ga ge "D"dg | "C"eg- ga gf gg | "Am"ed BG "Bm7"AG EF | "C "GA BG DF GA | "D"BG AF "G"G2 DF ||
