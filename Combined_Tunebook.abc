@@ -1046,10 +1046,56 @@ T:Columbus
 C:Roy Marshall
 S:Maya Whitmont, Wedgwood Alehouse jam, 2014/12/02
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.12.07
-M:2/4
+M:4/4
 L:1/8
 K:D
 "D"A,D FG | Ac de | fe dA |"G"B2 Bc | dc BA | "D"FA EA | BA FD | "A"E2 ED |
 "D"A,D FG | Ac de | fe dA | "G"B3 c | dc BA | "A"FA EA | FA Bc |1 "D"d2 d2 :|2 "D"d2 de ||
 |: "D"fe fg | a3 f | fe dA | "G"B3 A | "D"fe fg | a2 gf | "A"eA gf | eA ag |
 "D"fe fg | a3 f | fe dA | "G"B3 c | dc BA | "A"FA EA | FA Bc |1 "D"dc de :|2 "D"d2 d2 |]
+
+X:76
+T:Garfield's Blackberry Blossom
+C:From Luke Bulla
+S:Lyle Lovett, "Release Me" (2012)
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2015.03.08
+M:4/4
+L:1/8
+N: Scale: Lydian ♭7, mostly?
+N: * A - I can't tell what's going on here. He's hitting some in-between notes.
+N: * B - The second time through the B part, play variation A.
+K:GLyd =f
+g2- |: gbge fgfc | dcBd cBG(^f | g)bg=f "^* See note A"dcBc | dg-gd g2 ^a2- | 
+^abgb =agfc | d2 fc dcBG | (3B=cB GF D=C (3B,=CD |1 DG-GA G2 g2- :|2 DG-GG, G2 (3DE^F | 
+|: GABc d2 (f^f) | dcBd cBG^F | GABc "^* See note B"d2 (=f^f) | dcBG- G2 (3DE^F | 
+GABc d2 (f^f) | dcBd cB G2 | (3B=cB GF D=C (3B,=CD |1 DG-GG, G2 (3DE^F :|2 DG-GA G2 g2 |
+%%stretchlast 0
+||"Variation A"GABc d!slide!f- fc ||
+
+X:77
+T:Petronella
+C:From Lissa Schneckenburger
+S:https://www.youtube.com/watch?v=T-u2HD8tUqc
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2015.03.08
+M:4/4
+L:1/4
+N:Listen to the recording for interesting ghosted notes, drones, and the actual ornaments I've fudged here.
+N:NB: These aren't the chords Bethany Waickman's playing -- I like hers better.
+K:D
+A/G/ |: "D"F>F "A"EE | "D"DD DF/A/ | {Bc}d c/d/ e d/e/ | "A"c/d/ B/c/ A d/A/ |  
+"D"F>F "A"EE | "D"DD DF/A/ | {Bc}d c/d/ "A"e c | "D"d>c d/c/ A/G/ :|
+|: "D"F f/d/ A/f/ a/f/ | "G"f/g/ g/f/ "(Em)"B/d/ c/B/ | "A"A e/c/ A/c/ e/g/ | "D"(3f/g/a/ f/d/ A/d/ A/F/ | 
+"D"D f/d/ A/f/ a/f/ | "G"f/g/ g/f/ "(Em)"g/f/ e/c/ | "A"A A/c/ e/c/ e/c/ | "D"d d/c/ d/c/ A/G/ :|
+
+X:78
+T:Camp Chase (Adam Hurt)
+C:From Adam Hurt
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2015.03.11
+M:4/4
+L:1/8
+K:D
+A,B, |: DE FA d2 dA  | FA dB AG FA | EC EA e2 eA | EA ed BA GE | 
+FD FA d2  dA | FD dB AG FA | G2 GA EF- FE | DE FD ED B,D | 
+AB dB AG FG |1 AF Ac dA Bc :|2 AF Ac dc dB | 
+Ad fd ed fd | Ad fd ed Bd | AB dB AG FG | AF Ac dc dB | 
+Ad fd ed fd | !uppermordent!e2 df ed Bd | AB dB AG FG | AF Ac dA Bc | 
