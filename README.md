@@ -26,8 +26,8 @@ repository are licensed under the [Creative Commons Attribution-ShareAlike
 The _compositions_ are not mine to license, except any which I personally
 composed. What this means is that, as with any other printed collection of 
 sheet music, it is up to the performer to determine the licensing status of 
-the compositions depicted by the sheet music. Public performance may require 
-the payment of licensing fees; recording may require the payment of royalties.
+the compositions depicted by the sheet music. Public performance or recording 
+may require the payment of licensing fees.
 
 Most of the tunes in this collection will be what I consider "traditional", 
 which is to say that they've been played for so long that nobody knows who 
