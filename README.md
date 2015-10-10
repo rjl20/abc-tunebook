@@ -17,3 +17,18 @@ otherwise, they work well enough for my purposes now that I'll
 probably only work on them when I need them to do something else.
 
 
+LICENSE
+-------
+
+The transcriptions, tools, and support files included in this repository
+are licensed under the Creative Commons Attribution-ShareAlike 4.0 
+International License. The _compositions_ are not mine to license. What this
+means is that, as with any other printed collection of sheet music, it is up
+to the performer to determine the licensing status of the compositions depicted
+by the sheet music. Public performance may require the payment of licensing
+fees; recording may require the payment of royalties.
+
+Most of the tunes in this collection will be what I consider "traditional", 
+which is to say that they've been played for so long that nobody knows who 
+composed them. Some are not. I will do my best to provide attribution to 
+composers where I can find them.
