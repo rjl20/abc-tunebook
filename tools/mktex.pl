@@ -138,6 +138,7 @@ foreach $sortkey (sort keys %bytitle) {
     $title = $bytitle{$sortkey}{title};
     $title =~ s/(.*), The\s*$/The \1/;
     $title =~ s/(.*), A\s*$/A \1/;
+    $title =~ s/,/\\,/g;
     if ($bytitle{$sortkey}{parent}) {
 	next;
     } else {

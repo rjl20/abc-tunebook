@@ -1,4 +1,4 @@
-titleformat R-1 T0 , K-1 T0 C1
+titleformat T0 , R-1 G-1 Q-1 T0 C1 O1
 writefields NSBK 1
 
 
@@ -9,12 +9,12 @@ infoname N ""
 annotationfont  Helvetica utf-8 12.0
 composerfont    Helvetica-Oblique utf-8 12.0
 footerfont      Helvetica utf-8 10.0
-gchordfont      Helvetica utf-8 12.0
+gchordfont      Helvetica-Bold utf-8 12.0
 headerfont      Helvetica utf-8 10.0
 historyfont     Helvetica utf-8 12.0 % Below the words, and also the key 
 infofont        Helvetica-Oblique utf-8 10.0 % Rhythm, what else?
 measurefont     Times-Italic utf-8 10.0 % measure numbering
-partsfont       Helvetica-Bold utf-8 14.0
+partsfont       Times-Bold utf-8 14.0 box
 repeatfont      Times-Italic utf-8 13.0
 tempofont       Helvetica-Bold utf-8 12.0
 textfont        Helvetica utf-8 12.0 % Text above staff

@@ -1,9 +1,9 @@
-#ABCM2PS = /Applications/EasyABC.app/Contents/Resources/bin/abcm2ps
-ABCM2PS = /usr/local/bin/abcm2ps
+ABCM2PS = /Applications/EasyABC.app/Contents/Resources/bin/abcm2ps
+#ABCM2PS = /usr/local/bin/abcm2ps
 DATE:=$(shell git log Combined_Tunebook.abc | grep Date | head -n 1 | sed -e 's/Date: *//')
 
 out/tunelist.csv:
-	@curl -o out/tunelist.csv 'https://docs.google.com/spreadsheet/pub?key=0AiGRqa7-uLzmdDNESDR6YUhrUVg5LS16UEFXMzdINlE&single=true&gid=0&output=csv'
+	@curl -L -o out/tunelist.csv 'https://docs.google.com/spreadsheet/pub?key=0AiGRqa7-uLzmdDNESDR6YUhrUVg5LS16UEFXMzdINlE&single=true&gid=0&output=csv'
 
 fmt:
 	@echo "Building format files"
@@ -37,6 +37,8 @@ pdf: ps
 	@(cd out; pdflatex Combined_Tunebook && pdflatex Combined_Tunebook)
 	@ls -l PDF
 
+love:
+	@echo "Not war."
 
 all: pdf
 
