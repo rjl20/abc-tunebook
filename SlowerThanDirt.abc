@@ -2,15 +2,16 @@
 
 X:1
 T:Abe's Retreat
-C:Traditional
-O:from Dwight Diller
+T:Battle of Bull Run, The
+C:from Dwight Diller
 M:4/4
 L:1/8
 S:http://youtu.be/G6mQKPkQ8eE
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2015.10.16
-N:Fiddle in cross-A tuning for drones and octave shifts. It's playable in standard tuning, though not as fun.
-N:This performance is all about the rhythm, so definitely watch the video. NB: Dwight is playing it in cross-G; I've set it in A. 
 N:# notes marked with a hash above are kind of half-sharp, or slide from natural towards sharp.
+N:Fiddle in cross-A tuning for drones and octave shifts. Standard tuning works, but isn't as fun.
+N:This performance is all about the rhythm, so definitely watch the video. 
+N:NB: Dwight is playing it in cross-G; I've set it in A. 
 G:Key: A Dorian
 K:A Dor
 E/G/ [P:A]|: A2 A2 Ac cd | eg ed e2 dc | A2 A2 c2 cc | A2 E2 E2 EE | 
@@ -22,7 +23,6 @@ a2 ab ag ee | ge g{a}g e2 "^#"cd | e2 A2 eg ee |1 "^#"c2 A2 A2 ze/g/ :|2 "^#"c2 
 X:2
 T:Boil Them Cabbage Down
 T:Bile 'Em Cabbage Down
-C:Traditional
 G:Key: A
 S:Sarah Comer
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
@@ -38,12 +38,31 @@ K:A
 
 X:4
 T:Little Billie Wilson
-T:Little Billy Wilson
+T:Billy Wilson
+M:4/4
+L:1/8
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+G:Key: A
 K:A
+P:A
+|: (3efg | "A"a2g2a2e2 | "D"fedf "A"edcA | "E"B2G2B2G2 | "A"ABcd e2 (3efg |
+"A"a2g2a2e2| "D"fedf "A"edcB | ABcd efed | "E"cABG"A"A2 :|
+P:B
+|: A2 | "A"ABcd efed | cAcA "E"B2B2 | "A"ABcd efed | "E"cABG "A"A2 :|
+P:C
+|: EF | "A"A2A2-AcBA | "D"F3AF2EF | "A"A2A2-ABcd | e2-ef ec-c2 |
+"E"B3c B2A2 | "D"F3AF2EF | "A"A2 AB ceaf | "E"ecBc"A"A2 :|
 
 X:5
-T:McClannahan's March
+T:McClanahan's March
+B:Sarah Comer's second-Sunday jam
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+G:Key: A
 K:A
+[P:A]|: EF | "A"A2 Ac BA ce | "D"fa ec "E"BA EF | "A"A2 Ac BA ce | "D"fa ec "E"A2 :|
+[P:B]|: ef | "F#m"a3e fe ce | "A"ef ec BA ef | "F#m"a3 e fe ce- | "A"ef ec A2 ef | 
+"F#m"a2a2 fe cd | "A"ef ec BA EF | "F#m"A2 Ac BA ce | "D"fa ec "E"A2 :|
+
 
 X:6
 T:Old Joe Clark
@@ -79,7 +98,7 @@ K:D
 
 X:14
 T:Lily of the Valley
-O:from Luther Davis
+C:from Luther Davis
 S:Get Up In The Cool Podcast, with Cameron DeWhitt and Adam Hurt
 S:http://www.camerondewhitt.com/getupinthecool/adamhurt
 N:Adam says this comes by way of Dan Gellert.
@@ -100,7 +119,21 @@ K:D
 
 X:16
 T:Needle Case
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+G:Key: D
 K:D
+[P:A]|: fg | "D"a2g2fed2 | "G"B2g2B2g2 | "D"a2g2fed2 | "A"cA Bc A2fg |
+"D"a2g2fed2 | "G"B2g2B2g2 | "A"AB cd ef ed | cA Bc "D"d2 :|
+[P:B]|: F2 | "D"D2F2A2d2 | "G"BA Bc d2 dB | "D"A2 ABA2 F2 | "A"E3FE2FE |
+"D"D2F2A2d2 | "G"BA Bc d2 dB | "A"AB cd ef ed | cA Bc "D"d2 :|
+%%multicol start
+%%leftmargin 5.25in
+%%stretchlast 0
+%%barnumbers -1   % Disable measure numbers 
+K:A clef=none staffscale=0.85
+"^An alternate ending phrase\nfor either part:"A3c ec BA | F2A2d2 :|]
+%%multicol end
+
 
 X:17
 T:Soldier's Joy
@@ -154,7 +187,7 @@ R:Waltz
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
 M:3/4
 L:1/4
-O:Traditional
+C:Traditional
 G:Key: G
 K:G
 B/A/ [P:A]|: "G"GBB | d2 B/A/ | GBB | d2 B | "Am"BAA |
@@ -165,16 +198,27 @@ ABd |1 "C"e2 d | "D"B2 d :|2 "C"ed "D"F | "G"G2 "<("B/">)"A/ |]
 
 X:28
 T:Turkey in the Straw
+G:Key: G
 K:G
+M:4/4
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
+B:Sarah Comer, Dusty Strings dance band class.
+|: B/A/ | "G"GGGB,/C/ | DD/D/DG/A/ | BBB/A/G/A/ | "D"BAAB/A/ |
+"G"GGGB,/C/ | DD/D/DG/A/ | "C"Bdd/B/G/A/ |1 "D"BA"G"G :|2 "D"BA"G"G2 ||
+|: "G"B/dB/dd | B/dB/d2 | "C"c/ec/ee | c/ec/ef |
+"G"ggdd | BB"D"AG/A/ | "G"Bdd/B/G/A/ |1 "D"BA"G"G2 :|2 "D"BA"G"G |]
 
 X:29
 T:Nail That Catfish to a Tree
 C:Steve Rosen
 S:http://nailthatcatfish.tripod.com/catfishmed.mp3
+U: S = head-sml   % small filled note-head
+U: Q = head-smlo  % small open note-head
 G:Key: G
 N:See http://nailthatcatfish.tripod.com/nailthatcat.html for T-shirts and more.
 K:G
-DE [P:A]|: "G"GG BG AG BG | cB A2 B4 | "D"AB AG FG AB | AG FD (3EFE DE | 
-"G"G2 BG AG BG | cB A2 B4 | "D"AB AG FD EF |1 "G"G2-GG G2 (3DEF :|2 "G"G4 G2 D2 ||
+DE [P:A]|: "G"GSG BSG ASG BSG | cB A2 B4 | "D"AB AG FG AB | AG FD (3EFE DE | 
+"G"G2 BSG ASG BSG | cB A2 B4 | "D"AB AG FD EF |1 "G"G2-GG G2 (3DEF :|2 "G"G4 G2 D2 ||
 [P:B]|: "C"[CE]4 [DA]4 | [Ec]2-[Ec][Ec] [Ec]2 [Ec][Ec] | "D"AB AG FG AB | AG FD (3EFE D2 | "C"[CE]4 [DA]4 |
-[Ec]4 [Ec]2-[Ec]c |1 "D"AB AG FD EF | "G"[GG,]4 [GG,]2 D2 :|2 "D"d2 c2 BG A2 | "G"[GB]2-[GB][GB] [GB]2 |]
+[Ec]4 [Ec]2-[Ec]c |1 "D"AB AG FD EF | "G"[GQG,]4 [GSG,]2 D2 :|2 "D"d2 c2 BG A2 | "G"[GSB]2-[GSB][GSB] [GSB]2 |]
