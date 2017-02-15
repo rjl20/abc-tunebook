@@ -19,8 +19,28 @@ EG A2 Ac cd | eg ed e2 eg | ae g2 eg eA |1 "^#"c2 A2 A2 zE/G/ :|2 "^#"c2 A2 A2 z
 [P:B]|: a2 a2 ag ee | ge ga eg eg | a2 a2 b2 aa | "^#"g2 e2 e2 eg | 
 a2 ab ag ee | ge g{a}g e2 "^#"cd | e2 A2 eg ee |1 "^#"c2 A2 A2 ze/g/ :|2 "^#"c2 A2 A2 zE/G/ |
 
-
 X:2
+T:Angeline The Baker
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
+G:Key: D
+K:D
+[P:A]|: A- |"D"A B d> A | B d2 d/B/ | A B d A | "G"B2 B2 |
+"D"A B d> e | f e d> e | "D"f e "G"d B | "A"A> B A :|
+[P:B]|: f/g/ | "D"a f e d/e/ | f e d> f | a f e d | "G"B> d B f/g/ |
+"D"a f e d/e/ | f e d> e | "D"f e "G"d B | "A"A> B A :|
+
+X:3
+T:Arkansas Traveler
+L:1/4
+G:Key: D
+K:D
+|: A, | "D"D/F/ E/D/ "G"B,B, | "D"A,A,D>D | "A"EE"D"FF | "A"E/F/ E/D/ B,A, |
+"D"D/F/ E/D/ "G"B,B, | "D"A,A,DA | d/c/ d/A/ "G"B/d/ A/G/ | "A"F/D/ E/F/ "D"D :|
+(f/g/) | "D"af"G"ge | "D"fd"A"eA | "D"dd"A"ee | "D"ff"A"ef/g/ |
+"D"af"G"ge | "D"fd"A"eA | "D"d/c/ d/A/ "G"B/d/ A/G/ | "A"F/D/ E/F/ "D"D :|
+
+X:4
 T:Boil Them Cabbage Down
 T:Bile 'Em Cabbage Down
 G:Key: A
@@ -32,11 +52,70 @@ AB [P:A]|: "A"c2 cc c2 cc | "D"d2 dd d2 dd | "A"c2 cc c2 cc | "E7"B2 BB B2 AB |
 [P:B] |: "A"E4 A4 | "D"F4 A4 | "A"E4 A4 | "E7"B2 c2 dc B2 | 
 "A"E4 A4 | "D"F4 A2 d2 | "A"c2 cc "E7"B2 BB  |1 "A"A2 AA A2 F2 :|2 "A"A2 AA A2 AB || 
 
-X:3
-T:Cripple Creek
-K:A
+X:5
+T:Bonaparte Crossing the Rhine
+G:Key: D
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
+K:D
+[P:A]|: FG | "D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "D"AF DF | "A"E2 E>F E2 FG |
+"D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "A"AF EF | "D"D2 DE D2 :|
+[P:B]|: de | "D"fe fg a2- aA | "G"B>A Bc d2 AA | B>c dB "D"AF DF | "A"E2 EF G2 FG |
+"D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "A"AF EF | "D"D2 DE D2 :|
 
-X:4
+X:6
+T:Cluck Old Hen
+S:Sarah Comer
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+L:1/4
+N:The Cs with upwards slides indicate a kind of half-sharp, or slid up C.
+G:Key: A Dorian
+K:A dor
+[P:A]"A"ea "G"g2 | "A"ee "G"d2 | "A"e a "G"g g/a/ | "E"e/d/!slideoutup!c "A"A2 |
+"A"ea "G"g2 | "A"ee "G"d2 | "A"e>e e/d/ c/d/ | "E"e/d/!slideoutup!c "A"A2 ||
+[P:B]|: "A"A A "C"!slideoutup!c2 | "A"A A "G"G2 | "A"A A cd | "E"e/d/ !slideoutup!c "A"A2 :|
+
+X:7
+T:Cripple Creek
+G:Key: A
+M:4/4
+L:1/4
+N:There are a ton of melody variations for this tune. This is one of them.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
+K:A
+[P:A]|: "A"aaec | "D"df"A"e2 | aaed | "E7"cB"A"A2 :| 
+[P:B]|: "A"ccBA | cce2 | ccBA | "E7"EF"A"A2 :|
+
+X:8
+T:Golden Slippers
+K:G
+
+X:9
+T:Jeff City
+T:Bill Caton's Hornpipe
+O:from Bill Caton
+K:G
+
+X:10
+T:Johnny Don't Get Drunk
+K:D
+
+X:11
+T:Lily of the Valley
+C:from Luther Davis
+S:Get Up In The Cool Podcast, with Cameron DeWhitt and Adam Hurt
+S:http://www.camerondewhitt.com/getupinthecool/adamhurt
+N:Adam says this comes by way of Dan Gellert.
+M:4/4
+L:1/8
+G:Key: D
+K:D
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.01.28
+dB [P:A]|: "D"AA Bd ed Bd | {e}f2- fg f2 dB | AA Bd ef ed | "G"{A}B2- Bd B2 dB | 
+"D"AA Bd ed Bd | {e}f2- fg f2 AA | "G"BB dd "A"ef eB |1 "D"d2- dD d2 dB :|2 "D"d2- dD d2 a2 |
+[P:B]|:  "D"fe de fe d2 | {e}f2- fg f2 a2 | fe d2 ef ed | "G"{A}B2- BB B2 a2 | 
+"D"fe d2 fe d2 | {e}f2- ff f2 AA | "G"BB dd "A"ef eB |1 "D"d2- dD d2 a2 :|2 "D"d2- dD d2 dB |
+
+X:12
 T:Little Billie Wilson
 T:Billy Wilson
 M:4/4
@@ -53,7 +132,7 @@ P:C
 |: EF | "A"A2A2-AcBA | "D"F3AF2EF | "A"A2A2-ABcd | e2-ef ec-c2 |
 "E"B3c B2A2 | "D"F3AF2EF | "A"A2 AB ceaf | "E"ecBc"A"A2 :|
 
-X:5
+X:13
 T:McClanahan's March
 B:Sarah Comer's second-Sunday jam
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -63,59 +142,23 @@ K:A
 [P:B]|: ef | "F#m"a3e fe ce | "A"ef ec BA ef | "F#m"a3 e fe ce- | "A"ef ec A2 ef | 
 "F#m"a2a2 fe cd | "A"ef ec BA EF | "F#m"A2 Ac BA ce | "D"fa ec "E"A2 :|
 
-
-X:6
-T:Old Joe Clark
-K:A
-
-X:7
-T:Cluck Old Hen
-K:A dor
-
-X:8
-T:Red-Haired Boy
-K:A mix
-
-X:9
-T:Sandy Boys
-K:A mix
-
-X:10
-T:Angeline The Baker
-K:D
-
-X:11
-T:Arkansas Traveler
-K:D
-
-X:12
-T:Bonaparte Crossing the Rhine
-K:D
-
-X:13
-T:Johnny Don't Get Drunk
-K:D
-
 X:14
-T:Lily of the Valley
-C:from Luther Davis
-S:Get Up In The Cool Podcast, with Cameron DeWhitt and Adam Hurt
-S:http://www.camerondewhitt.com/getupinthecool/adamhurt
-N:Adam says this comes by way of Dan Gellert.
-M:4/4
-L:1/8
-G:Key: D
-K:D
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.01.28
-dB [P:A]|: "D"AA Bd ed Bd | {e}f2- fg f2 dB | AA Bd ef ed | "G"{A}B2- Bd B2 dB | 
-"D"AA Bd ed Bd | {e}f2- fg f2 AA | "G"BB dd "A"ef eB |1 "D"d2- dD d2 dB :|2 "D"d2- dD d2 a2 |
-[P:B]|:  "D"fe de fe d2 | {e}f2- fg f2 a2 | fe d2 ef ed | "G"{A}B2- BB B2 a2 | 
-"D"fe d2 fe d2 | {e}f2- ff f2 AA | "G"BB dd "A"ef eB |1 "D"d2- dD d2 a2 :|2 "D"d2- dD d2 dB |
-
-
-X:15
 T:Mississippi Sawyer
 K:D
+
+X:15
+T:Nail That Catfish to a Tree
+C:Steve Rosen
+S:http://nailthatcatfish.tripod.com/catfishmed.mp3
+U: S = head-sml   % small filled note-head
+U: Q = head-smlo  % small open note-head
+G:Key: G
+N:See http://nailthatcatfish.tripod.com/nailthatcat.html for T-shirts and more.
+K:G
+DE [P:A]|: "G"GSG BSG ASG BSG | cB A2 B4 | "D"AB AG FG AB | AG FD (3EFE DE | 
+"G"G2 BSG ASG BSG | cB A2 B4 | "D"AB AG FD EF |1 "G"G2-GG G2 (3DEF :|2 "G"G4 G2 D2 ||
+[P:B]|: "C"[CE]4 [DA]4 | [Ec]2-[Ec][Ec] [Ec]2 [Ec][Ec] | "D"AB AG FG AB | AG FD (3EFE D2 | "C"[CE]4 [DA]4 |
+[Ec]4 [Ec]2-[Ec]c |1 "D"AB AG FD EF | "G"[GQG,]4 [GSG,]2 D2 :|2 "D"d2 c2 BG A2 | "G"[GSB]2-[GSB][GSB] [GSB]2 |]
 
 X:16
 T:Needle Case
@@ -134,54 +177,75 @@ K:A clef=none staffscale=0.85
 "^An alternate ending phrase\nfor either part:"A3c ec BA | F2A2d2 :|]
 %%multicol end
 
-
 X:17
+T:Old Joe Clark
+S:Sarah Comer
+L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+G:Key: A Mixolydian
+K:A Mix
+|: "A"efgf | edc2 | efgf | "G"e2e2 |
+"A"efgf | edc2 | Ac"E"BB | "A"A2A2 ::
+"A"A>BA2 | edc2 | AAcA | "G"B2B2 |
+"A"A>BA c/d/ | edc2 | Ac"E"BB | "A"A2A2 :|
+
+X:18
+T:Possum up a Gum Stump
+K:G
+
+X:19
+T:Red Wing
+K:G
+
+X:20
+T:Red-Haired Boy
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+G:Key: A Mixolydian
+K:A mix
+[P:A]|: AG | "A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 A2 AB cA | "G"B2  G2 G2- GF |
+"A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 a2 ag ed | "E"c2 A2 "A"A2 :|
+[P:B]|: ef | "G"g2 ef g2 ef | "D"gf ec d2 cd | "A"e2 A2 AB cA | "G"B2 G2 G2- GF |
+"A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 a2 ag ed | "E"c2 A2 "A"A2 :|
+
+X:21
+T:Sandy Boys
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+G:Key: A Mixolydian
+K:A mix
+[P:A]|: eg | "A"a2 g2 e2 g2 | ed c2 A2 a2- | a2 g2 e2 g2 | "G"a3 b a2 eg |
+"A"a2 g2 e2 eg | ed c2 A2 AB | c3 c "E7"d2 c2 | "A"A3 B A2 :|
+[P:B]|: cd | "A"e4 e3 e | d2 c2 A3 A | "A"[ce]2 [ce][ce] "D"[df]2 [df][df] |"A"[ce]2 [ce][ce] "D"[df]2 [df][df] |
+"A"e4 e3 c | d2 c2 A2 AB | c2 cc "E7"d2 c2 | "A"A3 B A2 :|
+
+X:22
+T:Seneca Square Dance
+T:Waiting for the Federals
+K:G
+
+X:23
+T:Shove That Pig's Foot...
+T:... a Little Further in the Fire
+K:G
+
+X:24
 T:Soldier's Joy
 K:D
 
-X:18
+X:25
 T:Spotted Pony
 K:D
 
-X:19
+X:26
 T:St. Anne's Reel
 K:D
 
-X:20
+X:27
 T:Swannanoa Waltz
 R:Waltz
 C:Rayna Gellert
 K:D
 
-X:21
-T:Golden Slippers
-K:G
-
-X:22
-T:Jeff City
-T:Bill Caton's Hornpipe
-O:from Bill Caton
-K:G
-
-X:23
-T:Possum up a Gum Stump
-K:G
-
-X:24
-T:Red Wing
-K:G
-
-X:25
-T:Seneca Square Dance
-T:Waiting for the Federals
-K:G
-
-X:26
-T:Shove That Pig's Foot...
-T:... a Little Further in the Fire
-K:G
-
-X:27
+X:28
 T:Tombigbee Waltz
 R:Waltz
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
@@ -195,8 +259,7 @@ ABd |1 "C"e2 d | "D7"B2 B/A/ :|2 "C"ed "D"F | "G"G2 d ||
 [P:B]|: "G"g2 d | "G/B"g2 d | "C"e>dc | "G"d2 B | "Am"BAA |
 ABd |1 "C"e2 d | "D"B2 d :|2 "C"ed "D"F | "G"G2 "<("B/">)"A/ |] 
 
-
-X:28
+X:29
 T:Turkey in the Straw
 G:Key: G
 K:G
@@ -208,17 +271,3 @@ B:Sarah Comer, Dusty Strings dance band class.
 "G"GGGB,/C/ | DD/D/DG/A/ | "C"Bdd/B/G/A/ |1 "D"BA"G"G :|2 "D"BA"G"G2 ||
 |: "G"B/dB/dd | B/dB/d2 | "C"c/ec/ee | c/ec/ef |
 "G"ggdd | BB"D"AG/A/ | "G"Bdd/B/G/A/ |1 "D"BA"G"G2 :|2 "D"BA"G"G |]
-
-X:29
-T:Nail That Catfish to a Tree
-C:Steve Rosen
-S:http://nailthatcatfish.tripod.com/catfishmed.mp3
-U: S = head-sml   % small filled note-head
-U: Q = head-smlo  % small open note-head
-G:Key: G
-N:See http://nailthatcatfish.tripod.com/nailthatcat.html for T-shirts and more.
-K:G
-DE [P:A]|: "G"GSG BSG ASG BSG | cB A2 B4 | "D"AB AG FG AB | AG FD (3EFE DE | 
-"G"G2 BSG ASG BSG | cB A2 B4 | "D"AB AG FD EF |1 "G"G2-GG G2 (3DEF :|2 "G"G4 G2 D2 ||
-[P:B]|: "C"[CE]4 [DA]4 | [Ec]2-[Ec][Ec] [Ec]2 [Ec][Ec] | "D"AB AG FG AB | AG FD (3EFE D2 | "C"[CE]4 [DA]4 |
-[Ec]4 [Ec]2-[Ec]c |1 "D"AB AG FD EF | "G"[GQG,]4 [GSG,]2 D2 :|2 "D"d2 c2 BG A2 | "G"[GSB]2-[GSB][GSB] [GSB]2 |]
