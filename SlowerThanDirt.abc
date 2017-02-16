@@ -1,10 +1,10 @@
-%abc-2.1
+-%abc-2.1
 
 X:1
 T:Abe's Retreat
 T:Battle of Bull Run, The
 C:from Dwight Diller
-M:4/4
+M:C
 L:1/8
 S:Dwight Diller, http://youtu.be/G6mQKPkQ8eE
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2015.10.16
@@ -21,6 +21,7 @@ E/G/ [P:A] |: A2 A2 Ac cd | eg ed e2 dc | A2 A2 c2 cc | A2 E2 E2 EE |
 
 X:2
 T:Angeline The Baker
+M:C
 L:1/4
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
 G:Key: D
@@ -32,7 +33,9 @@ K:D
 
 X:3
 T:Arkansas Traveler
+M:C
 L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
 G:Key: D
 K:D
 [P:A]|: A, | "D"D/F/ E/D/ "G"B,B, | "D"A,A,D>D | "A"EE"D"FF | "A"E/F/ E/D/ B,A, |
@@ -41,6 +44,22 @@ K:D
 |"D"af"G"ge | "D"fd"A"eA | "D"d/c/ d/A/ "G"B/d/ A/G/ | "A"F/D/ E/F/ "D"D :|
 
 X:4
+T:Boatman
+T:Dance, Boatman,\ Dance
+C:Dan Emmett (1843)
+G:Key: A
+S:https://youtu.be/8lhS9xpyblI
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.15
+M:2/4
+L:1/8
+K:A
+[P:A]|: "A"a2 a2 | ba f2 | ef e/c/A | "E"BA "A"A2 :|
+[P:B]|| "D"ff "A"e>e | "D"ff "A"e>e | "D"ff "A"ec | "E"BB "A"A2 |
+| "D"ff "A"ec | "D"ff "A"e>e | "D"ff "A"ec/c/ | "E"BA "A"AB ||
+[P:C]|| "A"c2 Bc | e3d | c2 Bc | "F#m"A3B | 
+| "A"cc Bc | ee AB | "D"cc/c/ "E"Bc/B/ | "A"A2 A2 || 
+
+X:5
 T:Boil Them Cabbage Down
 T:Bile 'Em Cabbage Down
 G:Key: A
@@ -52,7 +71,7 @@ AB [P:A]|: "A"c2 cc c2 cc | "D"d2 dd d2 dd | "A"c2 cc c2 cc | "E7"B2 BB B2 AB |
 [P:B] |: "A"E4 A4 | "D"F4 A4 | "A"E4 A4 | "E7"B2 c2 dc B2 | 
 |"A"E4 A4 | "D"F4 A2 d2 | "A"c2 cc "E7"B2 BB  |1 "A"A2 AA A2 F2 :|2 "A"A2 AA A2 AB || 
 
-X:5
+X:6
 T:Bonaparte Crossing the Rhine
 G:Key: D
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -62,9 +81,10 @@ K:D
 [P:B]|: de | "D"fe fg a2- aA | "G"B>A Bc d2 AA | B>c dB "D"AF DF | "A"E2 EF G2 FG |
 |"D"A>B AF A2 de | fe fa d2 dc | "G"B>c dB "A"AF EF | "D"D2 DE D2 :|
 
-X:6
+X:7
 T:Cluck Old Hen
 S:Sarah Comer
+M:C
 L:1/4
 N:The Cs with upwards slides indicate a kind of half-sharp, or slid up C.
 G:Key: A Dorian
@@ -74,18 +94,18 @@ K:A Dor
 |"A"ea "G"g2 | "A"ee "G"d2 | "A"e>e e/d/ c/d/ | "E"e/d/!slideoutup!c "A"A2 ||
 [P:B]|: "A"A A "C"!slideoutup!c2 | "A"A A "G"G2 | "A"A A cd | "E"e/d/ !slideoutup!c "A"A2 :|
 
-X:7
+X:8
 T:Cripple Creek
 G:Key: A
-M:4/4
+M:C
 L:1/4
-N:There are a ton of melody variations for this tune. This is one of them.
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
+N:There are a ton of melody variations for this tune. This is just one of them.
 K:A
 [P:A]|: "A"aaec | "D"df"A"e2 | aaed | "E7"cB"A"A2 :| 
 [P:B]|: "A"ccBA | cce2 | ccBA | "E7"EF"A"A2 :|
 
-X:8
+X:9
 T:Golden Slippers
 C:James A. Bland (1879)
 G:Key: G
@@ -98,7 +118,7 @@ K:G
 | "G"=D6 G2| B2A2 G2F2| "C"E6 A2| c2B2 A2G2|
 | "D"F3E F2G2| A4 c4| "G"B3c "D"B2A2| "G"G6 ||
 
-X:9
+X:10
 T:Jeff City
 G:Key: G
 O:from Bill Katon
@@ -109,11 +129,12 @@ K:G
 | "G"{B}d2-dd d2 dd | BAGB AGEG | D2 DD DEGA | "D"BdAF "G"G2A2 :| 
 [P:B]|: "G"Bd-d2 g4 | "D"a4 "G"b4 | "C"agef g2 ge | "D"dged BA G2 |  
 | "G"Bd-d2 g4 | "D"a4 "G"b4 | "C"agef g2 ge | "D"dBAF "G"G4 :| 
-X:10
+
+X:11
 T:Johnny Don't Get Drunk
 S:Rachel Eddy, https://youtu.be/2WvaeilpcRc
 G:Key: D
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.15
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 K:D
 [P:A]|: "D"fa- aa a2 ag | fd ec d2- dA | "G"BA Bc d2 B2 | "A"A2F2E2D2 | 
 | "D"fa- aa a2 ag | fd ec d2 !longslideindn!AA | "G"BA Bc d2 g2 | "A"fd ec "D"d4 :|
@@ -121,15 +142,17 @@ K:D
 | "D"FA- AB A2 A2 | BA Bc d2 !longslideindn!A2 |1 "G"BA Bc d2 B2 | "A"AF E2 "D"D4 :|
 %%multicol start
 %%leftmargin 4in
+%%measurenb -1
                                           |2 "G"BA Bc d2 g2 | "A"fd ec "D"d4 ||
 %%multicol end
-X:11
+
+X:12
 T:Lily of the Valley
 C:from Luther Davis
 S:Get Up In The Cool Podcast, with Cameron DeWhitt and Adam Hurt
 S:http://www.camerondewhitt.com/getupinthecool/adamhurt
 N:Adam says this comes by way of Dan Gellert.
-M:4/4
+M:C
 L:1/8
 G:Key: D
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.01.28
@@ -139,10 +162,10 @@ dB [P:A]|: "D"AA Bd ed Bd | {e}f2- fg f2 dB | AA Bd ef ed | "G"{A}B2- Bd B2 dB |
 [P:B]|:  "D"fe de fe d2 | {e}f2- fg f2 a2 | fe d2 ef ed | "G"{A}B2- BB B2 a2 | 
 | "D"fe d2 fe d2 | {e}f2- ff f2 AA | "G"BB dd "A"ef eB |1 "D"d2- dD d2 a2 :|2 "D"d2- dD d2 dB |
 
-X:12
+X:13
 T:Little Billie Wilson
 T:Billy Wilson
-M:4/4
+M:C
 L:1/8
 G:Key: A
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -153,7 +176,7 @@ K:A
 [P:C]|: EF | "A"A2A2-AcBA | "D"F3AF2EF | "A"A2A2-ABcd | e2-ef ec-c2 |
 | "E"B3c B2A2 | "D"F3AF2EF | "A"A2 AB ceaf | "E"ecBc"A"A2 :|
 
-X:13
+X:14
 T:McClanahan's March
 B:Sarah Comer's second-Sunday jam
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -163,7 +186,7 @@ K:A
 [P:B]|: ef | "F#m"a3e fe ce | "A"ef ec BA ef | "F#m"a3 e fe ce- | "A"ef ec A2 ef | 
 | "F#m"a2a2 fe cd | "A"ef ec BA EF | "F#m"A2 Ac BA ce | "D"fa ec "E"A2 :|
 
-X:14
+X:15
 T:Mississippi Sawyer
 G:Key: D
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -173,7 +196,7 @@ K:D
 |: AB | "D"d2f2d2f2 | defga2a2 | "A"A2cBA2cB | ABcd egfe |
 | "D"d2f2d2f2 | defga2a2 | "G"ABcd "A"egfe | "D"d2ddd2 :|
 
-X:15
+X:16
 T:Nail That Catfish to a Tree
 C:Steve Rosen
 S:Steve Rosen, http://nailthatcatfish.tripod.com/catfishmed.mp3
@@ -188,7 +211,7 @@ DE [P:A]|: "G"GSG BSG ASG BSG | cB A2 B4 | "D"AB AG FG AB | AG FD (3EFE DE |
 [P:B]|: "C"[CE]4 [DA]4 | [Ec]2-[Ec][Ec] [Ec]2 [Ec][Ec] | "D"AB AG FG AB | AG FD (3EFE D2 | "C"[CE]4 [DA]4 |
 | [Ec]4 [Ec]2-[Ec]c |1 "D"AB AG FD EF | "G"[GQG,]4 [GSG,]2 D2 :|2 "D"d2 c2 BG A2 | "G"[GSB]2-[GSB][GSB] [GSB]2 |]
 
-X:16
+X:17
 T:Needle Case
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 G:Key: D
@@ -205,9 +228,10 @@ K:A clef=none staffscale=0.85
 "^An alternate ending phrase\nfor either part:"| A3c ec BA | F2A2d2 :|]
 %%multicol end
 
-X:17
+X:18
 T:Old Joe Clark
 S:Sarah Comer
+M:C
 L:1/4
 G:Key: A Mixolydian
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -217,8 +241,9 @@ K:A Mix
 [P:B]|: "A"A2A2 | edc2 | AAcA | "G"B2B2 |
 | "A"A2A c/d/ | edc2 | Ac"E"BB | "A"A2A2 :|
 
-X:18
+X:19
 T:Possum up a Gum Stump
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 G:Key: G
 K:G
 [P:A] |: B,A, | "G"G,2G,A, B,G,A,B, | "C"CB,CD EFGE | "G"D2DE DCB,G, | "D"A,3B, A,2B,A, |
@@ -226,48 +251,21 @@ K:G
 [P:B] |: (3DEF | "G"G2BG AGB2 | "C"G2cG BGc2 | "G"G2BG AGB2 | "D7"F2 d4D2 |
 |"G"G2D2 B,2G,2 | "C"CB,CD EFGE | "D7"DEFG AcBA | "G"G2GF G2 :|
 
-X:19
+X:20
 T:Red Wing
 T:Union Maid
+M:C
 L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 C:Kerry Mills (1907)
 G:Key: G
 K:G
-DEF [P:A]|:"G"G-G/G/GB | "G7"d3G | "C"cege | "G"d3B | 
+DEF [P:A]|:"G"G-G/G/GB | "G7"d3B | "C"cege | "G"d3B | 
 |"D7"cc/B/Ac | "G"BB/A/GB |1 "A7"AEFG | "D7"AFED :|2 "A7"AE "D7"FD | "G"G ||
 ggf [P:B]|:"C"e2e-e/e/ | egfe | "G"d2B2- | Bded |
 | "D7"d2A2- |1 Aded | "G"d2B2- | Bggf :|2 AcBA| "G"G2G>G | G ||
-W:Union Maid - Lyrics by Woody Guthrie
-W:
-W:There once was a union maid, she never was afraid
-W:Of goons and ginks and company finks and the deputy sheriffs who made the raid.
-W:She went to the union hall when a meeting it was called,
-W:And when the Legion boys come 'round
-W:She always stood her ground.
-W:
-W:CHORUS:
-W:Oh, you can't scare me, I'm sticking to the union,
-W:I'm sticking to the union, I'm sticking to the union.
-W:Oh, you can't scare me, I'm sticking to the union,
-W:I'm sticking to the union 'til the day I die.
-W:
-W:This union maid was wise to the tricks of company spies,
-W:She couldn't be fooled by a company stool, she'd always organize the guys.
-W:She always got her way when she struck for better pay.
-W:She'd show her card to the National Guard
-W:And this is what she'd say:
-W:
-W:CHORUS
-W:
-W:You gals who want to be free, just take a tip from me;
-W:Get you a man who's a union man and join the ladies' auxiliary.
-W:Married life ain't hard when you got a union card,
-W:A union man has a happy life 
-W:When he's got a union wife.
-W:
-W:CHORUS
 
-X:20
+X:21
 T:Red-Haired Boy
 G:Key: A Mixolydian
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -277,7 +275,7 @@ K:A Mix
 [P:B]|: ef | "G"g2 ef g2 ef | "D"gf ec d2 cd | "A"e2 A2 AB cA | "G"B2 G2 G2- GF |
 | "A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 a2 ag ed | "E"c2 A2 "A"A2 :|
 
-X:21
+X:22
 T:Sandy Boys
 G:Key: A Mixolydian
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -287,7 +285,7 @@ K:A Mix
 [P:B]|: cd | "A"e4 e3 e | d2 c2 A3 A | "A"[ce]2 [ce][ce] "D"[df]2 [df][df] |"A"[ce]2 [ce][ce] "D"[df]2 [df][df] |
 | "A"e4 e3 c | d2 c2 A2 AB | c2 cc "E7"d2 c2 | "A"A3 B A2 :|
 
-X:22
+X:23
 T:Seneca Square Dance
 T:Waiting for the Federals
 G:Key: G
@@ -298,9 +296,10 @@ K:G
 |: ef | "G"g4g3e | d2B4ef | g2f2g3a | "Em"b2e4g2- |
 |"C"gabag2e2 | "G"d3 A BAGB | "D"ABAGE2F2 | "G"G6 :|
 
-X:23
+X:24
 T:Shove That Pig's Foot...
 T:... a Little Further in the Fire
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 S:Bruce Molsky, https://youtu.be/vBIjR39WYfM
 G:Swing the eighths
 G:Key: G
@@ -310,10 +309,11 @@ K:G
 |: GA | "G"Bd- de d2- dd | ed Bc dB G2 | B2 d2 g2- gg | "D"e2 d4 BA 
 | "G"Bd- de d2- dd | ed Bc d2 d2 | B2- Bc "D"BA GB | "G"A2 G4 :|
 
-X:24
+X:25
 T:Soldier's Joy
-M:4/4
+M:C
 L:1/4
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 G:Key: D
 K:D
 [P:A]|: F/G/ | "D"A F D F | A d d d/B/ | A F D F | "A"G E E F/G/ |
@@ -321,9 +321,10 @@ K:D
 [P:B]|: e | "D"f g a f | "G"e f g> e | "D"f g a f | "A"e/d/ c/B/ A e |
 |"D"f g a f | "G"e f g> e | "D"f d "A"e c | "D"d d d :|
 
-X:25
+X:26
 T:Spotted Pony
 G:Key: D
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 N:Most people play this in the opposite order, with the A and B parts swapped.
 N:That is how it appears on older recordings where the tune is called "Snowshoes".
 K:D
@@ -332,9 +333,9 @@ K:D
 [P:B]|:"D"D2DD "A"E2EE | "D"F2 FF "G"G2GG | "D"AB de fe de | "A"f2a2e4 |
 |"D"D2DD "A"E2EE | "D"F2 FF "G"G2GG | "D"AB de fe de | "A"f2e2"D"d4 :|
 
-
-X:26
+X:27
 T:St. Anne's Reel
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 G:Key: D
 K:D
 [P:A]|: e2 | "D"f2 fg fe dB | A2 F2 F2 A2 | "G"B2 G2 G2 B2 | "D"A2 F2 F2 e2 |
@@ -342,24 +343,35 @@ K:D
 [P:B]|: ag |"D"f2 f2 fe fg | "Em"a2 g2 g2 gf | "A"ed cB Ac eg | "D"b2 a2 a2 ag |
 "D"f2 f2 fe fg | "Em"a2 g2 g2 gf | "A"ed cB Ac ea | "D"f2 d2 d2 :|
 
-X:27
+X:28
 T:Swannanoa Waltz
 R:Waltz
-M:9/8
+M:3/4
 L:1/8
 C:Rayna Gellert
-S:Rayna Gellert, https://youtu.be/BrNdEIFrIp4
-N:Transcribed in 9/8 to avoid constant triplets with internal ties; rhythm plays in 3/4.
+S:Rayna Gellert, Ways of the World
+S:https://youtu.be/BrNdEIFrIp4
 N:In the original, the fiddle is tuned ADAE with drones and double stops throughout.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 G:Key: D
 K:D
-D2E |: "D"EF2 F3 E2D | "G"B,6 B,2A, | "D"EF2- F2F E2D | "A"FA2 A2F D2E | 
-| "D"EF2 F3 E2D | "G"B,6 B,2A, | "A"DE2 E2F GFE |1 "D"D3 A,2D A,2D :|2 "D"D3 D2D B2d | 
-|: "D"d3 g3 f2e | "G"AB2- B2B A2B | "D"d3 g3 f2e | "A"fa2 a2f A2B | 
-|"D"Bd2 g3 f2e | "G"AB2- B2B A2B | "A"d2g f2d A2B |1 "D"Bd2 d2B A2B :|2 "D"Bd2 d2B D2E ||
+D>E |: "D"E<F F2 E>D | "G"B,4 B,>A, | "D"E<F- F>F E>D | "A"F<A A>F D>E | 
+| "D"E<F F2 E>D | "G"B,4 B,>A, | "A"D<E E>F (3GFE |1 "D"D2 A,>D A,>D :|2 "D"D2 D>D B>d | 
+|: "D"d2 g2 f>e | "G"A<B- B>B A>B | "D"d2 g2 f>e | "A"f<a a>f A>B | 
+|"D"B<d g2 f>e | "G"A<B- B>B A>B | "A"d>g f>d A>B |1 "D"B<d d>B A>B :|2 "D"B<d d>B D>E ||
+%%vskip 1pt
+%%barnumbers -1   % Disable measure numbers for ossia measure
+%%begintext
+%%NB: Dotted pairs should be played in triplet time.
+%%endtext
+%%stafflines 0
+%%staffwidth 2.3in
+K: C clef=none staffscale=0.7
+"@-5,35 Written as:"G>G y10 G<y5G \
+y15 \
+"^Played as:"(3G-GG y10 (3GG-G
 
-
-X:28
+X:29
 T:Tombigbee Waltz
 R:Waltz
 M:3/4
@@ -372,10 +384,10 @@ B/A/ [P:A]|: "G"GBB | d2 B/A/ | GBB | d2 B | "Am"BAA |
 [P:B]|: "G"g2 d | "G/B"g2 d | "C"e>dc | "G"d2 B | "Am"BAA |
 |ABd |1 "C"e2 d | "D"B2 d :|2 "C"ed "D"F | "G"G2 "<("B/">)"A/ |] 
 
-X:29
+X:30
 T:Turkey in the Straw
 G:Key: G
-M:4/4
+M:C
 L:1/4
 B:Sarah Comer, Dusty Strings dance band class.
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
