@@ -32,7 +32,7 @@ ps: fmt abc
 
 pdf: ps
 	@echo "Building final PDF"
-	@(cat includes/preamble.tex ; cat includes/SlowerThanDirt_title.tex; ./tools/STDtex.pl) > out/SlowerThanDirt_Tunebook.tex
+	@(cat includes/preamble.tex ; cat includes/SlowerThanDirt_title.tex; ./tools/mktex.pl SlowerThanDirt) > out/SlowerThanDirt_Tunebook.tex
 	@(cd out; pdflatex SlowerThanDirt_Tunebook && pdflatex SlowerThanDirt_Tunebook && mv SlowerThanDirt_Tunebook.pdf ../PDF/)
 	@(cat includes/preamble.tex ; cat includes/DustyStrings_title.tex; ./tools/mktex.pl DustyStrings) > out/DustyStrings_Tunebook.tex
 	@(cd out; pdflatex DustyStrings_Tunebook && pdflatex DustyStrings_Tunebook && mv DustyStrings_Tunebook.pdf ../PDF/)

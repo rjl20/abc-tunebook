@@ -16,6 +16,19 @@ developer.  If someone wants to clean these up, that'd be great;
 otherwise, they work well enough for my purposes now that I'll
 probably only work on them when I need them to do something else.
 
+Dependencies
+------------
+
+* abcm2ps-8.13.1 (December 10, 2016)
+* TeX Live 2016
+* Fonts: Playfair Display, Planscribe NF
+
+The table of contents generating code relies on output from abcm2ps which 
+may change from version to version.
+
+Playfair is a free font, Planscribe is commercial. You might want to change
+the fonts definitions in the various .fmt files to use whatever fonts
+you prefer.
 
 LICENSE
 -------
