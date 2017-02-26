@@ -131,13 +131,14 @@ X:11
 T:Johnny Don't Get Drunk
 S:Rachel Eddy, https://youtu.be/2WvaeilpcRc
 G:Key: D
+N:The straight slanted lines in measures 6 and 14 indicate optional slides (portamento).
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:D
 [P:A]y0|: "D"fa- aa a2 ag | fd ec d2- dA | "G"BA Bc d2 B2 | "A"A2F2E2D2 | 
 | "D"fa- aa a2 ag | fd ec d2 !longslideindn!AA | "G"BA Bc d2 g2 | "A"fd ec "D"d4 :|
 [P:B]y0|:"D"FA- AB A2 D2 | FA A2 A2 A2 | "G"BA Bc d2 B2 | "A"A2F2E2D2 | 
-| "D"FA- AB A2 A2 | BA Bc d2 !longslideindn!A2 |1 "G"BA Bc d2 B2 | "A"AF E2 "D"D4 :|
+| "D"FA- AB A2 A2 | "G"BA Bc "D"d2 !longslideindn!A2 |1 "G"BA Bc d2 B2 | "A"AF E2 "D"D4 :|
 %%multicol start
 %%leftmargin 4in
 %%measurenb -1
@@ -226,7 +227,7 @@ K:D
 %%leftmargin 5.25in
 %%stretchlast 0
 %%barnumbers -1   % Disable measure numbers 
-K:A clef=none staffscale=0.85
+K:D clef=none staffscale=0.85
 "^An alternate ending phrase\nfor either part:"| A3c ec BA | F2A2d2 :|]
 %%multicol end
 
