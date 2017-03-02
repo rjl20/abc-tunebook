@@ -212,6 +212,7 @@ DE [P:A]y0|: "G"GSG BSG ASG BSG | cB A2 B4 | "D"AB AG FG AB | AG FD (3EFE DE |
 | "G"G2 BSG ASG BSG | cB A2 B4 | "D"AB AG FD EF |1 "G"G2-GG G2 (3DEF :|2 "G"G4 G2 D2 ||
 [P:B]y0|: "C"[CE]4 [DA]4 | [Ec]2-[Ec][Ec] [Ec]2 [Ec][Ec] | "D"AB AG FG AB | AG FD (3EFE D2 | "C"[CE]4 [DA]4 |
 | [Ec]4 [Ec]2-[Ec]c |1 "D"AB AG FD EF | "G"[GQG,]4 [GSG,]2 D2 :|2 "D"d2 c2 BG A2 | "G"[GSB]2-[GSB][GSB] [GSB]2 |]
+%%center © Steve Rosen
 
 X:17
 T:Needle Case
@@ -370,10 +371,11 @@ D>E |: "D"E<F F2 E>D | "G"B,4 B,>A, | "D"E<F- F>F E>D | "A"F<A A>F D>E |
 | "D"E<F F2 E>D | "G"B,4 B,>A, | "A"D<E E>F (3GFE |1 "D"D2 A,>D A,>D :|2 "D"D2 D>D B>d | 
 |: "D"d2 g2 f>e | "G"A<B- B>B A>B | "D"d2 g2 f>e | "A"f<a a>f A>B | 
 |"D"B<d g2 f>e | "G"A<B- B>B A>B | "A"d>g f>d A>B |1 "D"B<d d>B A>B :|2 "D"B<d d>B D>E ||
-%%vskip 1pt
+%%center © Rayna Gellert
+%%vskip 10pt
 %%barnumbers -1   % Disable measure numbers for ossia measure
 %%begintext
-%%NB: Dotted pairs should be played in triplet time.
+%%Dotted pairs should be played in triplet time:
 %%endtext
 %%stafflines 0
 %%staffwidth 2.3in
