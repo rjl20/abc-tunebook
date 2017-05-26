@@ -3,14 +3,15 @@
 X:1
 T:Angeline The Baker
 L:1/4
+N:The last chord in each part could be an A for tension or a D for resolution. Agree on which to use in advance.
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 G:Key: D
 K:D
 [P:A]y0|: A- |"D"A B d> A | B d2 d/B/ | A B d A | "G"B2 B2 |
-| "D"A B d> e | f e d> e | "D"f e "G"d B | "A"A> B A :|
+| "D"A B d> e | f e d> e | "D"f e "G"d B | "D"A> B A :|
 [P:B]y0|: f/g/ | "D"a f e d/e/ | f e d> f | a f e d | "G"B> d B f/g/ |
-| "D"a f e d/e/ | f e d> e | "D"f e "G"d B | "A"A> B A :|
+| "D"a f e d/e/ | f e d> e | "D"f e "G"d B | "D"A> B A :|
 
 X:2
 T:Arkansas Traveler
@@ -74,9 +75,9 @@ G:Key: A Dorian
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:A Dor
-[P:A]"A"ea "G"g2 | "A"ee "G"d2 | "A"e a "G"g g/a/ | "E"e/d/!slideoutup!c "A"A2 |
-|"A"ea "G"g2 | "A"ee "G"d2 | "A"e>e e/d/ c/d/ | "E"e/d/!slideoutup!c "A"A2 ||
-[P:B]y0|: "A"A A "C"!slideoutup!c2 | "A"A A "G"G2 | "A"A A cd | "E"e/d/ !slideoutup!c "A"A2 :|
+[P:A]"A"ea g2 | ee "G"d2 | "A"e a g g/a/ | "E"e/d/!slideoutup!c "A"A2 |
+|"A"ea g2 | ee "G"d2 | "A"e>e e/d/ c/d/ | "E"e/d/!slideoutup!c "A"A2 ||
+[P:B]y0|: "A"A A "C"!slideoutup!c2 | "A"A A "G"G2 | "A"A A "C"cd | "E"e/d/ !slideoutup!c "A"A2 :|
 
 X:7
 T:Cold Frosty Morning
@@ -407,6 +408,6 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.04.15
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:G
 |: B/A/ | "G"GGGB,/C/ | DD/D/DG/A/ | BBB/A/G/A/ | "D"BAAB/A/ |
-| "G"GGGB,/C/ | DD/D/DG/A/ | "C"Bdd/B/G/A/ |1 "D"BA"G"G :|2 "D"BA"G"G2 ||
+| "G"GGGB,/C/ | DD/D/DG/A/ | Bd d/B/G/A/ |1 "D"BA"G"G :|2 "D"BA"G"G2 ||
 |: "G"B/dB/dd | B/dB/d2 | "C"c/ec/ee | c/ec/ef |
 | "G"ggdd | BB"D"AG/A/ | "G"Bdd/B/G/A/ |1 "D"BA"G"G2 :|2 "D"BA"G"G |]
