@@ -1,0 +1,51 @@
+% newpage 5 % If I want to start numbering the tune pages at other than 1.
+dateformat "%b %e, %Y"
+
+pdfmark 2 % If int is greater than 1, generate pdfmarks for titles and
+	  % subtitles, otherwise, if int is 1, generate pdfmarks for the 
+	  % main titles only.
+
+titleformat R-1 G-1 Q-1 T0 C1 O1
+writefields NSB 1
+
+footer "$D	$IZ	$V"
+
+
+infoname B "Written Source: "
+infoname S "Aural Source: "
+infoname N "Note: "
+
+annotationfont  Helvetica utf-8 12.0
+composerfont    PlayfairDisplay-Italic utf-8 12.0
+footerfont      PlayfairDisplay-Regular utf-8 10.0
+gchordfont      Helvetica-Bold utf-8 14.0
+headerfont      PlayfairDisplay-Regular utf-8 10.0
+historyfont     PlayfairDisplay-Regular utf-8 12.0 % Below the words, and also the key 
+infofont        PlayfairDisplay-Italic utf-8 10.0 % Rhythm, what else?
+measurefont     PlayfairDisplay-Italic utf-8 10.0 % measure numbering
+partsfont       PlanscribeNF-Bold utf-8 14.0 box
+repeatfont      Times-Roman utf-8 13.0
+tempofont       Helvetica-Bold utf-8 12.0
+textfont        PlayfairDisplay-Regular utf-8 12.0 % Text above staff
+titlefont       PlayfairDisplaySC-Bold utf-8 24.0
+subtitlefont    PlayfairDisplaySC-Regular utf-8 14.0
+vocalfont       Helvetica-Bold utf-8 12.0
+voicefont       Helvetica-Bold utf-8 12.0
+wordsfont       Helvetica utf-8 12.0
+
+
+% Number measures at left
+measurenb 0
+
+% Shave a quarter inch off the width so I can offset it by a quarter inch
+% when inserting in pdfpages, for larger gutter.
+pagewidth 8.25in
+pageheight 11in
+
+
+% Staves a little closer together; a little more space after final one.
+staffsep   40
+infospace 0.3cm
+
+% Flush-right final line.
+stretchlast 1
