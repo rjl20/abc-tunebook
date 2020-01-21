@@ -1,7 +1,6 @@
-ABCM2PS = /Applications/EasyABC.app/Contents/Resources/bin/abcm2ps
-# PSTOPDF = /usr/local/bin/ps2pdf
-PSTOPDF = /usr/bin/pstopdf
-#ABCM2PS = /usr/local/bin/abcm2ps
+ABCM2PS = /usr/local/bin/abcm2ps
+PSTOPDF = /usr/local/bin/ps2pdf
+# PSTOPDF = /usr/bin/pstopdf
 DATE:=$(shell git log Combined_Tunebook.abc | grep Date | head -n 1 | sed -e 's/Date: *//')
 
 out/tunelist.csv:
@@ -47,3 +46,9 @@ all: pdf
 
 clean:
 	@rm -fv out/* *~ */*~
+
+sheet/%.pdf: 
+	@perl tools/getsingle.pl "$*" > "sheet/$*.abc"
+	@${ABCM2PS} -F Symbols.fmt -F single.fmt -O "sheet/$*.ps" "sheet/$*.abc"
+	@${PSTOPDF} "sheet/$*.ps" "$@" 
+	@rm "sheet/$*.ps" "sheet/$*.abc"

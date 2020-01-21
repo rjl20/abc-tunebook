@@ -34,6 +34,9 @@ while (<ABC>) {
     }
     if ((m/^T:(.*)$/) && (!$tmp[$tune]{title})) {
 	my $title = $1;
+	if ($title =~ m/Girl I Left/) {
+	    $debug = 1;
+	}
 	$title =~ tr/A-Z/a-z/;
 	$title =~ s/[^a-z0-9]*//g;
 	$tmp[$tune]{title} = $title;
@@ -70,6 +73,7 @@ while (<PS>) {
     if (m%/Title\((.*?)\)/OUT pdfmark%) {
 	$titleflag++;
 	$title = $1;
+	$title =~ s/^The (.*)/\1, The/;
 	$sort = $title;
 	$sort =~ tr/A-Z/a-z/;
         $sort =~ s/[^a-z0-9]*//g;

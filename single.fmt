@@ -5,7 +5,7 @@ pdfmark 2 % If int is greater than 1, generate pdfmarks for titles and
 	  % subtitles, otherwise, if int is 1, generate pdfmarks for the 
 	  % main titles only.
 
-titleformat R-1 G-1 Q-1 T0 C1 O1
+titleformat T0, R-1 G-1 Q-1 T+T0 C1 O1
 writefields NSB 1
 
 footer "$D	$IZ	$V"
@@ -24,7 +24,7 @@ historyfont     PlayfairDisplay-Regular utf-8 12.0 % Below the words, and also t
 infofont        PlayfairDisplay-Italic utf-8 10.0 % Rhythm, what else?
 measurefont     PlayfairDisplay-Italic utf-8 10.0 % measure numbering
 partsfont       PlanscribeNF-Bold utf-8 14.0 box
-repeatfont      Times-Roman utf-8 13.0
+repeatfont      PlayfairDisplay-Regular utf-8 12.0
 tempofont       Helvetica-Bold utf-8 12.0
 textfont        PlayfairDisplay-Regular utf-8 12.0 % Text above staff
 titlefont       PlayfairDisplaySC-Bold utf-8 24.0
@@ -45,7 +45,8 @@ pageheight 11in
 
 % Staves a little closer together; a little more space after final one.
 staffsep   40
-infospace 0.3cm
+infospace .3cm
+textspace 1cm
 
 % Flush-right final line.
 stretchlast 1
