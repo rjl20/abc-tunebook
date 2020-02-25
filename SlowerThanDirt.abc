@@ -4,18 +4,18 @@ X:1
 T:Abe's Retreat
 T:Battle of Bull Run
 M:C|
-G:Key: A modal
+G:Key: A Dorian
 S:Dwight Diller, mostly, but bits from all over
 N:Good in cross-A tuning
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.13
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:ADor
 P:A
-|: EG | "Am"A2 A2 Ac cd | eg ed e2 dc | A2 A2 c2 cc | "E"A2 E2 E2 EG | 
-"Am"A2 A2 Ac cd | eg ed e2 eg | "E"a2 g2 eg ed |1 "Am"c2 A2 A2  :|2 "Am"cA2 cA2 |:
+|: EG | "Am"A2 A2 Accd | eged e2 dc | A2 A2 c2 cc | "E"A2 E2 E2 EG | 
+"Am"A2 A2 Accd | eged e2 eg | "E"a2 g2 eged |1 "Am"c2 A2 A2  :|2 "Am"cA2 cA2 |:
 P:B
-eg | "Am"a2 a2 ag e2 | ge ga e2 eg | a2 a2 b3a | "E"ge2 ge2 eg | 
-"Am"a2 a2 ag e2 | ge ga e2 cd | "E"e2 A2 eg ed | "Am"cA2 cA2 :|
+eg | "Am"a2 a2 ag e2 | gega e2 eg | a2 a2 b3a | "E"ge2 ge2 eg | 
+"Am"a2 a2 ag e2 | gega e2 cd | "E"e2 A2 eged | "Am"cA2 cA2 :|
 
 X:2
 T:Angeline The Baker
@@ -38,10 +38,10 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 G:Key: D
 K:D
-[P:A]y0|: A, | "D"D/F/ E/D/ "G"B,B, | "D"A,A,D>D | "A"EE"D"FF | "A"E/F/ E/D/ B,A, |
-| "D"D/F/ E/D/ "G"B,B, | "D"A,A,DA | d/c/ d/A/ "G"B/d/ A/G/ | "A"F/D/ E/F/ "D"D :|
+[P:A]y0|: A, | "D"D/F/E/D/ "G"B,B, | "D"A,A,D>D | "A"EE"D"FF | "A"E/F/E/D/ B,A, |
+| "D"D/F/E/D/ "G"B,B, | "D"A,A,DA | d/c/d/A/ "G"B/d/A/G/ | "A"F/D/E/F/ "D"D :|
 [P:B]y|: (f/g/) | "D"af"G"ge | "D"fd"A"eA | "D"dd"A"ee | "D"ff"A"ef/g/ |
-|"D"af"G"ge | "D"fd"A"eA | "D"d/c/ d/A/ "G"B/d/ A/G/ | "A"F/D/ E/F/ "D"D :|
+|"D"af"G"ge | "D"fd"A"eA | "D"d/c/d/A/ "G"B/d/A/G/ | "A"F/D/E/F/ "D"D :|
 
 X:4
 T:Barlow Knife
@@ -52,13 +52,12 @@ B:Appalachian Fiddle (Krassen), p.25
 N:Chords from Complete Tractor (Silberberg)
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 K:G
-[P:A]y0|: "G"gg "D"f/g/ a/f/ | "G"gg B/c/d | "G"gg "D"f/g/ a/f/ | "C"e/g/ f/e/ "G"d2 :|
-[P:B]y|: "G"ed B/A/ G | ed B2 | |e d  B/A/ G/B/ | "D"AG "G" G2 :|
-[P:C]y|: "D"Ad "G"B/A/ G | "D"Ad "G"B2 | "D"Ad "G"B/A/ G/B/ | "D"AG "G" G2 :|
+[P:A]y0|: "G"gg "D"f/g/a/f/ | "G"gg B/c/d | "G"gg "D"f/g/a/f/ | "C"e/g/f/e/ "G"d2 :|
+[P:B]y|: "G"ed B/A/ G | ed B2 | |e d  B/A/G/B/ | "D"AG "G" G2 :|
+[P:C]y|: "D"Ad "G"B/A/ G | "D"Ad "G"B2 | "D"Ad "G"B/A/G/B/ | "D"AG "G" G2 :|
 
 X:5
 T:Boil Them Cabbage Down
-T:Bile 'Em Cabbage Down
 G:Key: A
 M:C|
 S:Sarah Comer
@@ -74,29 +73,29 @@ X:6
 T:Bound to Have a Little Fun
 M:C|
 G:Key: G
-O:from Gusty Wallace, KY
+C:from Gusty Wallace, KY
 S:Canote String Band Class, http://stringband.mossyroof.com/BoundToHaveALittleFun.mp3
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:G
-[P:A]y0 |: DE | "G"G2 GG BG AF | G2 GF G2 DE | G2 GG BG AG | "C"E2 EG E2 DE | 
-"G"G2 GG BG AF | G2 GD B,2 C2 | "D"D2 DD ED EF | "G"G2 GF G2  :|
-[P:B]y|: ef | "G"g2 ga g2 d2 | ed Bc d2 d2 | "C"e2 eg e2 d2 | "D"ed Bc d2 ef | 
-"G"g2 ga g2 d2 | ed Bc d2 B2 | "Am"A2 A2 BG AG | "C"E2-EG "D"E2 DE | 
-"G"G2 GG BG AF | G2 GD B,2 C2 | "D"D2 DD ED EF | "G"G2-GG G2 :|
+[P:A]y0 |: DE | "G"G2 GG BGAF | G2 GF G2 DE | G2 GG BGAG | "C"E2 EG E2 DE | 
+"G"G2 GG BGAF | G2 GD B,2 C2 | "D"D2 DD EDEF | "G"G2 GF G2  :|
+[P:B]y|: ef | "G"g2 ga g2 d2 | edBc d2 d2 | "C"e2 eg e2 d2 | "D"edBc d2 ef | 
+"G"g2 ga g2 d2 | edBc d2 B2 | "Am"A2 A2 BGAG | "C"E2-EG "D"E2 DE | 
+"G"G2 GG BGAF | G2 GD B,2 C2 | "D"D2 DD EDEF | "G"G2-GG G2 :|
 
 X:7
 T:Buffalo Girls
 T:Old Time/Mississippi Buffalo Gals
-O:from John Hatcher, MS
+C:from John Hatcher, MS
 G:Key: A
 N:Good in cross-A tuning
 M:C|
 K:A
-[P:A]y0|: (3efg | "A"a2g2f2eg | "D"fg af e2 c2 | "A"e2 c2 d2 c2 | "E7"B2-Bc B2 (3efg | 
-   "A"a2g2f2eg | "D"fg af e2 c2 | "E7"e2-ec B2 G2 | "A"A2-AB A2 :|
-[P:B]y0|: E2 | "A"A2 cA B2 cA | "D"de fd e2 c2 | "A"e2 c2 d2 c2 | "E7"B2-Bc B2 E2 | 
- "A"A2 cA B2 cA | "D"de fd e2 c2 | "E7"e2-ec B2 G2 | "A"A6 :|
+[P:A]y0|: (3efg | "A"a2g2f2eg | "D"fgaf e2 c2 | "A"e2 c2 d2 c2 | "E7"B2-Bc B2 (3efg | 
+   "A"a2g2f2eg | "D"fgaf e2 c2 | "E7"e2-ec B2 G2 | "A"A2-AB A2 :|
+[P:B]y0|: E2 | "A"A2 cA B2 cA | "D"defd e2 c2 | "A"e2 c2 d2 c2 | "E7"B2-Bc B2 E2 | 
+ "A"A2 cA B2 cA | "D"defd e2 c2 | "E7"e2-ec B2 G2 | "A"A6 :|
 
 X:8
 T:Clayhole Waltz
@@ -123,25 +122,25 @@ S:Sarah Comer
 L:1/4
 M:C|
 N:The Cs with upwards slides indicate a kind of half-sharp, or slid up C.
-G:Key: A modal
+G:Key: A Dorian
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:A Dor
 [P:A]"A"ea "G"g2 | "A"ee "G"d2 | "A"e a "G"g g/a/ | "E"e/d/!slideoutup!c "A"A2 |
-|"A"ea "G"g2 | "A"ee "G"d2 | "A"e>e e/d/ c/d/ | "E"e/d/!slideoutup!c "A"A2 ||
+|"A"ea "G"g2 | "A"ee "G"d2 | "A"e>e e/d/c/d/ | "E"e/d/!slideoutup!c "A"A2 ||
 [P:B]y0|: "Am"A A !slideoutup!c2 | A A "G"G2 | "Am"A A cd | "E"e/d/ !slideoutup!c "Am"A2 :|
 
 X:10
 T:Cold Frosty Morning
-G:Key: A modal
+G:Key: A Dorian
 M:C|
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.17
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:A Dor
-[P:A]y0|: "Am"a4 a4 | ab ag ed cd | "G"ed ef ga gf | ed cd e4 | 
-| "Am"A4 c3c | dc d2 e2 ed | cB Ac "G"BA G2 | "Am"A3B A4 :|
-[P:B]y|: "Am"ED EG A3A | Bc d2 e4 | "G"G2 BA G2 D2 | GA Bc d4 | 
-| "Am"ED EG A3A | Bc d2 e2 ed | cB Ac "G"BA G2 | "Am"A3B A4 :|
+[P:A]y0|: "Am"a4 a4 | abag edcd | "G"edef gagf | edcd e4 | 
+| "Am"A4 c3c | dc d2 e2 ed | cBAc "G"BA G2 | "Am"A3B A4 :|
+[P:B]y|: "Am"EDEG A3A | Bc d2 e4 | "G"G2 BA G2 D2 | GABc d4 | 
+| "Am"EDEG A3A | Bc d2 e2 ed | cBAc "G"BA G2 | "Am"A3B A4 :|
 
 X:11
 T:Cripple Creek
@@ -176,18 +175,18 @@ K:D
 X:13
 T:Freda
 C:Kenny Baker
-O:from Carthy Sisco
+C:from Carthy Sisco
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 M:C|
 G:Key: D
 K:D
-[P:A1]y0 D2 | "D"F2A2F2A2 | "G"GG AB d2A2 | "D"FF AB d2 A2 | "A"G2F2E2D2 | 
-"D"F2A2F2A2 | "G"GG AB d2A2 | "D"FF AB "(G)"d2 e2 | "A"fd ec "D"d2d2 | 
-[P:A2]yyy"D"DF Ac d2 d2 | "G"BA Bc d2 d2 | "D"DF Ac d2A2 | "A"G2F2E2D2 | 
-"D"F2A2F2A2 | "G"GG AB d2A2 | "D"FF AB "(G)"d2 e2 | "A"fd ec "D"d2 |
-[P:B]y0|: A2 | "D"d2 a2 f2 af | "G"ef ed B2 A2 | "D"d2 a2 f2 af | "A"ed ef a2 A2 | 
-"D"d2 a2 f2 af | "G"ef ed B2 A2 | "A"dA Bd BA FB | AF E2 "D"D2 :|
+[P:A1]y0 D2 | "D"F2A2F2A2 | "G"GGAB d2A2 | "D"FFAB d2 A2 | "A"G2F2E2D2 | 
+"D"F2A2F2A2 | "G"GGAB d2A2 | "D"FFAB "(G)"d2 e2 | "A"fdec "D"d2d2 | 
+[P:A2]yyy"D"DFAc d2 d2 | "G"BABc d2 d2 | "D"DFAc d2A2 | "A"G2F2E2D2 | 
+"D"F2A2F2A2 | "G"GGAB d2A2 | "D"FFAB "(G)"d2 e2 | "A"fdec "D"d2 |
+[P:B]y0|: A2 | "D"d2 a2 f2 af | "G"efed B2 A2 | "D"d2 a2 f2 af | "A"edef a2 A2 | 
+"D"d2 a2 f2 af | "G"efed B2 A2 | "A"dABd BAFB | AF E2 "D"D2 :|
 
 X:14
 T:Girl I Left Behind Me, The
@@ -210,16 +209,16 @@ S:Wedgwood Ale House Tuesday jams
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.13
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:G
-[P:A]y0|: "G"d2-dd d2 Bc | d2 B2 AG AB | "C"c2-cc c2 AB | c2 B2 AG EG | 
-"G"DE GA Bd ef | g2 f2 ed BA | GA B2 "D"AG F2 | "G"G2-GG G2 Bc :| 
-[P:B]y|:"G"d4 g2 ef | g2 f2 e2 d2 | "D"fa- ab a2 fg | a2 f2 ed ef|
-"G"gf ef gf ef|"C"g2 f2 ed BA|"G"GA BG "D"AGF2|"G"G2-GG G2 Bc :|]
+[P:A]y0|: "G"d2-dd d2 Bc | d2 B2 AGAB | "C"c2-cc c2 AB | c2 B2 AGEG | 
+"G"DEGA Bdef | g2 f2 edBA | GA B2 "D"AG F2 | "G"G2-GG G2 Bc :| 
+[P:B]y|:"G"d4 g2 ef | g2 f2 e2 d2 | "D"fa2b a2 fg | a2 f2 edef|
+"G"gfef gfef|"C"g2 f2 edBA|"G"GABG "D"AGF2|"G"G2-GG G2 Bc :|]
 
 X:16
 T:Jeff City
 G:Key: G
 M:C|
-O:from Bill Katon
+C:from Bill Katon
 N:I think most people play this with the parts in the other order. I like it this way.
 S:Caleb Klauder Country Band, Subdued Stringband Jamboree 2015
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
@@ -238,14 +237,14 @@ Z: 2010 John Chambers <jc:trillian.mit.edu>, 2020 Josh Larios
 L: 1/8
 G:Key: D
 K: D
-[P:A]y0|:"D"fa- aa a2ag |"(A)"fdec "D"d3A | "G"BABc dBAG | "A"FE- EE   E4 |
-  "D"fa- aa a2ag |"(A)"fdec "D"d3A | "G"BABc dBAG | "A"FDEF "D"D4 :|
-[P:B]y0|:"D"FA- AA A3 D |     FGAB    A3A | "G"BABc dBAG | "A"FE- EE |  E4 |
-  "D"FA- AA A2AA | "G" BABc "D"d3A | "G"BABc dBAG | "A"FDEF "D"D4 :|
+[P:A]y0|:"D"fa2a a2ag |"(A)"fdec "D"d3A | "G"BABc dBAG | "A"FE2E   E4 |
+  "D"fa2a a2ag |"(A)"fdec "D"d3A | "G"BABc dBAG | "A"FDEF "D"D4 :|
+[P:B]y0|:"D"FA2A A3 D |     FGAB    A3A | "G"BABc dBAG | "A"FE2E   E4 |
+  "D"FA2A A2AA | "G" BABc "D"d3A | "G"BABc dBAG | "A"FDEF "D"D4 :|
 
 X:18
 T:Lily of the Valley
-C:from Luther Davis
+C:from Luther Davis, VA
 M:C|
 S:Get Up In The Cool Podcast, with Cameron DeWhitt and Adam Hurt
 S:http://www.camerondewhitt.com/getupinthecool/adamhurt
@@ -255,10 +254,10 @@ G:Key: D
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.01.28
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:D
-[P:A]y0|: dB |"D"AA Bd ed Bd | {e}f2- fg f2 dB | AA Bd ef ed | "G"{A}B2- Bd B2 dB | 
-| "D"AA Bd ed Bd | {e}f2- fg f2 AA | "G"BB dd "A"ef eB | "D"d2- dD d2 :|
-[P:B]y0|: a2 | "D"fe de fe d2 | {e}f2- fg f2 a2 | fe d2 ef ed | "G"{A}B2- BB B2 a2 | 
-| "D"fe d2 fe d2 | {e}f2- ff f2 AA | "G"BB dd "A"ef eB | "D"d2- dD d2 :|
+[P:A]y0|: dB |"D"AABd edBd | {e}f2- fg f2 dB | AABd efed | "G"{A}B2- Bd B2 dB | 
+| "D"AABd edBd | {e}f2- fg f2 AA | "G"BBdd "A"efeB | "D"d2- dD d2 :|
+[P:B]y0|: a2 | "D"fede fe d2 | {e}f2- fg f2 a2 | fe d2 efed | "G"{A}B2- BB B2 a2 | 
+| "D"fe d2 fe d2 | {e}f2- ff f2 AA | "G"BBdd "A"efeB | "D"d2- dD d2 :|
 
 X:19
 T:Little Billie Wilson
@@ -277,8 +276,8 @@ K:A
 
 X:20
 T:Mace Bell's Civil War March
-G:Key: A modal
-O:from P.T. Bell
+G:Key: A Dorian
+C:from P.T. Bell
 S:Howard Rains & Tricia Spencer
 N:Very similar to "Bonaparte's March" or "Napoleon Crossing the Alps"
 M:C|
@@ -315,10 +314,10 @@ N:See http://nailthatcatfish.tripod.com/nailthatcat.html for T-shirts and more.
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.13
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:G
-[P:A]y0|: (3DEF |"G"GSG BSG ASG BSG | cB A2 B4 | "D"AB AG FG AB | AG FD (3EFE DE | 
-| "G"G2 BSG ASG BSG | cB A2 B4 | "D"AB AG FD EF | "G"G2-GG G2 :|
-[P:B]y|: D2 | "C"[CE]4 [DA]4 | [Ec]2-[Ec][Ec] [Ec]2 [Ec][Ec] | "D"AB AG FG AB | AG FD (3EFE D2 | "C"[CE]4 [DA]4 |
-| [Ec]4 [Ec]2-[Ec]c |1 "D"AB AG FD EF | "G"[GQG,]4 [GSG,]2 :|2 "D"d2 c2 BG A2 | "G"[GSB]2-[GSB][GSB] [GSB]2 |]
+[P:A]y0|: (3DEF |"G"GSGBSG ASGBSG | cB A2 B4 | "D"ABAG FGAB | AGFD (3EFE DE | 
+| "G"G2 BSG ASGBSG | cB A2 B4 | "D"ABAG FDEF | "G"G2-GG G2 :|
+[P:B]y|: D2 | "C"[CE]4 [DA]4 | [Ec]2-[Ec][Ec] [Ec]2 cc | "D"ABAG FGAB | AGFD (3EFE D2 | "C"[CE]4 [DA]4 |
+| [Ec]4 [Ec]2-[Ec]c |1 "D"ABAG FDEF | "G"[GQG,]4 [GSG,]2 :|2 "D"d2 c2 BG A2 | "G"[GSB]2-[GSB][GSB] [GSB]2 |]
 %%center © Steve Rosen
 
 X:23
@@ -328,16 +327,16 @@ Z:abc-copyright This transcription is licensed under a Creative Commons Attribut
 G:Key: D
 M:C|
 K:D
-[P:A]y0|: fg | "D"a2g2fed2 | "G"B2g2B2g2 | "D"a2g2fed2 | "A"cA Bc A2fg |
-| "D"a2g2fed2 | "G"B2g2B2g2 | "A"AB cd ef ed | cA Bc "D"d2 :|
-[P:B]y0|: F2 | "D"D2F2A2d2 | "G"BA Bc d2 dB | "D"A2 ABA2 F2 | "A"E3FE2FE |
-| "D"D2F2A2d2 | "G"BA Bc d2 dB | "A"AB cd ef ed | cA Bc "D"d2 :|
+[P:A]y0|: fg | "D"a2g2fed2 | "G"B2g2B2g2 | "D"a2g2fed2 | "A"cABc A2fg |
+| "D"a2g2fed2 | "G"B2g2B2g2 | "A"ABcd efed | cABc "D"d2 :|
+[P:B]y0|: F2 | "D"D2F2A2d2 | "G"BABc d2 dB | "D"A2 ABA2 F2 | "A"E3FE2FE |
+| "D"D2F2A2d2 | "G"BABc d2 dB | "A"ABcd efed | cABc "D"d2 :|
 %%multicol start
 %%leftmargin 5.25in
 %%stretchlast 0
 %%barnumbers -1   % Disable measure numbers 
 K:D clef=none staffscale=0.85
-"^An alternate ending phrase\nfor either part:"| A3c ec BA | F2A2d2 :|]
+"^An alternate ending phrase\nfor either part:"| A3c ecBA | F2A2d2 :|]
 %%multicol end
 
 X:24
@@ -369,30 +368,30 @@ K:G
 X:26
 T:Pretty Little Shoes
 M:C|
-G:Key: A modal
-O:from Ward Jarvis, WV
-O:via Jeff Goehring
+G:Key: A Mixolydian
+C:from Ward Jarvis, WV
+C:via Jeff Goehring
 S:Judy Hyman et al., The Floyd Radio Show Podcast, October 5, 2019
-N:Good in cross-A tuning
+N:Good in cross-A tuning, watch out for second part mostly in A major
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.13
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:AMix
 [P:A]y0|: ef | "A" gfed cd3 | e2-ee e2 ef | gfed cAcd | e2-ee e2 e2- |
-efgf e2dA | (3BcB AG E2 E^G | A2AA "E"BA^GE  | "A"A3AA2 :|
-[P:B]y0|: E^G |"A"A2B2A2^G2 | ABA^G E2E^G | A2AA cAcd | "E"e2-ee e2 e2- |
-"A"efgf e2dA | (3BcB AG E2 E^G | A2AA "E"BA^GE | "A"A2-AAA2 :|
+efgf e2dA | (3BcB AG E2 E^G | A2AA "E"BA^GE  | "A"A2-AA A2 :|
+[P:B]y0|: EG |"A"A2B2A2^G2 | ABA^G E2E^G | A2AA cAcd | "E"e2-ee e2 e2- |
+"A"ef=gf e2dA | (3BcB A^G E2 E^G | A2AA "E"BA^GE | "A"A2-AAA2 :|
 
 X:27
 T:Rat's Gone To Rest
-O:from George Hawkins, KY
+C:from George Hawkins, KY
 S:https://www.slippery-hill.com/recording/rats-gone-rest
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.05.22
 M:C|
 L:1/8
 G:Key: G
 K:G
-[P:A]y0|: "G"Bd- dd dA Bd | ed BA G2 G2 | "C"Be- ee ef gf | "D"ed BA "G"G2 G2 :|
-[P:B]y|: "G"DE GA Bd BA | GB AG "C"E2 E2 | "G"DE GA Bd BA | "D"GB AF "G"G2 G2 :|
+[P:A]y0|: "G"Bd2d dABd | edBA G2 G2 | "C"Be2e efgf | "D"edBA "G"G2 G2 :|
+[P:B]y|: "G"DEGA BdBA | GBAG "C"E2 E2 | "G"DEGA BdBA | "D"GBAF "G"G2 G2 :|
 
 X:28
 T:Red Wing
@@ -416,10 +415,10 @@ M:C|
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2017.02.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:A Mix
-[P:A]y0|: AG | "A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 A2 AB cA | "G"B2  G2 G2- GF |
-| "A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 a2 ag ed | "E"c2 A2 "A"A2 :|
-[P:B]y0|: ef | "G"g2 ef g2 ef | "D"gf ec d2 cd | "A"e2 A2 AB cA | "G"B2 G2 G2- GF |
-| "A"E2 A2 AB cd | ef ec "D"d2 cd | "A"e2 a2 ag ed | "E"c2 A2 "A"A2 :|
+[P:A]y0|: AG | "A"E2 A2 ABcd | efec "D"d2 cd | "A"e2 A2 ABcA | "G"B2  G2 G2- GF |
+| "A"E2 A2 ABcd | efec "D"d2 cd | "A"e2 a2 aged | "E"c2 A2 "A"A2 :|
+[P:B]y0|: ef | "G"g2 ef g2 ef | "D"gfec d2 cd | "A"e2 A2 ABcA | "G"B2 G2 G2- GF |
+| "A"E2 A2 ABcd | efec "D"d2 cd | "A"e2 a2 aged | "E"c2 A2 "A"A2 :|
 
 X:30
 T:Rose Waltz
@@ -447,7 +446,7 @@ Z:abc-copyright This transcription is licensed under a Creative Commons Attribut
 K:A Mix
 [P:A]y0|: eg | "A"a2 g2 e2 g2 | ed c2 A2 a2- | a2 g2 e2 g2 | "G"a3 b a2 eg |
 | "A"a2 g2 e2 eg | ed c2 A2 AB | c3 c "E7"d2 c2 | "A"A3 B A2 :|
-[P:B]y0|: cd | "A"e4 e3 e | d2 c2 A3 A | "A"[ce]2 [ce][ce] "D"[df]2 [df][df] |"A"[ce]2 [ce][ce] "D"[df]2 [df][df] |
+[P:B]y0|: cd | "A"e4 e3 e | d2 c2 A3 A | "A"c2 cc "D"d2 dd |"A"c2 cc "D"d2 dd |
 | "A"e4 e3 c | d2 c2 A2 AB | c2 cc "E7"d2 c2 | "A"A3 B A2 :|
 
 X:32
@@ -473,10 +472,10 @@ S:Bruce Molsky, https://youtu.be/vBIjR39WYfM
 G:Swing the eighths
 G:Key: G
 K:G
-[P:A]y0|: B2- | "G"Bc BA GG EF | "C"GA GE "G"D2-DD | EF G2 B2- Bc | "D"B2 A4 B2- | 
-| "G"Bc BA GG EF | "C"GA GE "G"D2-DD | EF G2 "D"B2- BF | "G"A2 G4 :|
-[P:B]y|: GA | "G"Bd- de d2- dd | ed Bc dB G2 | B2 d2 g2- gg | "D"e2 d4 BA 
-| "G"Bd- de d2- dd | ed Bc d2 d2 | B2- Bc "D"BA GB | "G"A2 G4 :|
+[P:A]y0|: B2- | "G"BcBA GDEF | "C"GAGE "G"D2-DD | EF G2 B2- Bc | "D"B2 A4 B2- | 
+| "G"BcBA GDEF | "C"GA GE "G"D2-DD | EF G2 "D"B2- BF | "G"A2 G4 :|
+[P:B]y|: GA | "G"Bd2e d2- dd | edBc dB G2 | B2 d2 g2- gg | "D"e2 d4 BA 
+| "G"Bd2e d2- dd | edBc d2 d2 | B2- Bc "D"BAGB | "G"A2 G4 :|
 
 X:34
 T:Soldier's Joy
@@ -488,7 +487,7 @@ G:Key: D
 K:D
 [P:A]y0|: F/G/ | "D"A F D F | A d d d/B/ | A F D F | "A"G E E F/G/ |
 |"D"A F D F | "(G)"A d d e | "D"f d "A"e c | "D"d d d :|
-[P:B]y0|: e | "D"f g a f | "G"e f g> e | "D"f g a f | "A"e/d/ c/B/ A e |
+[P:B]y0|: e | "D"f g a f | "G"e f g> e | "D"f g a f | "A"e/d/c/B/ A e |
 |"D"f g a f | "G"e f g> e | "D"f d "A"e c | "D"d d d :|
 
 X:35
@@ -500,9 +499,9 @@ N:Good in cross-A tuning
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:A
-[P:A]y0|: AB | "A"c2 E2 E2 E2 | "D"FE FA "E"B2 AB | "A"c2 E2 "D"dc BA | "E"F2-FG "A"A2 :| 
-[P:B]y0|: A2 | "A"AB cd e2-ee | "D"fe dc "E"B4 | "A"AB cd ef ed | "E"c2-cd e4 | 
- "A"AB cd e2-ee | "D"fe dc "E"B2 AB | "A"c2 E2 "D"dc BA | "E"F2-FG "A"A2 :|
+[P:A]y0|: AB | "A"c2 E2 E2 E2 | "D"FEFA "E"B2 AB | "A"c2 E2 "D"dcBA | "E"F2-FG "A"A2 :| 
+[P:B]y0|: A2 | "A"ABcd e2-ee | "D"fedc "E"B4 | "A"ABcd efed | "E"c2-cd e4 | 
+ "A"ABcd e2-ee | "D"fedc "E"B2 AB | "A"c2 E2 "D"dcBA | "E"F2-FG "A"A2 :|
 
 X:36
 T:Spotted Pony
@@ -513,10 +512,10 @@ Z:abc-copyright This transcription is licensed under a Creative Commons Attribut
 N:Most people play this in the opposite order, with the A and B parts swapped.
 N:That is how it appears on older recordings where the tune is called "Snowshoes".
 K:D
-[P:A]y0|:"D"f2a2f4 | "G"ef ed B4 | "D"AB de fe de | "D"f2a2"A"e4 |
-|"D"f2a2f4 | "G"ef ed B4 | "D"AB de fe de | "A"f2e2"D"d4 :|
-[P:B]y0|:"D"D2DD "A"E2EE | "D"F2 FF "G"G2GG | "D"AB de fe de | "A"f2a2e4 |
-|"D"D2DD "A"E2EE | "D"F2 FF "G"G2GG | "D"AB de fe de | "A"f2e2"D"d4 :|
+[P:A]y0|:"D"f2a2f4 | "G"efed B4 | "D"ABde fede | "D"f2a2"A"e4 |
+|"D"f2a2f4 | "G"efed B4 | "D"ABde fede | "A"f2e2"D"d4 :|
+[P:B]y0|:"D"D2DD "A"E2EE | "D"F2 FF "G"G2GG | "D"ABde fede | "A"f2a2e4 |
+|"D"D2DD "A"E2EE | "D"F2 FF "G"G2GG | "D"ABde fede | "A"f2e2"D"d4 :|
 
 X:37
 T:St. Anne's Reel
@@ -525,10 +524,10 @@ Z:abc-copyright This transcription is licensed under a Creative Commons Attribut
 G:Key: D
 M:C|
 K:D
-[P:A]y0|: e2 | "D"f2 fg fe dB | A2 F2 F2 A2 | "G"B2 G2 G2 B2 | "D"A2 F2 F2 e2 |
-"D"f2 fg fe dB | A2 F2 F2 A2 | "G"BG Bd "A"cd ec | "D"d2 d2 d2 :|
-[P:B]y0|: ag |"D"f2 f2 fe fg | "Em"a2 g2 g2 gf | "A"ed cB Ac eg | "D"b2 a2 a2 ag |
-"D"f2 f2 fe fg | "Em"a2 g2 g2 gf | "A"ed cB Ac ea | "D"f2 d2 d2 :|
+[P:A]y0|: e2 | "D"f2 fg fedB | A2 F2 F2 A2 | "G"B2 G2 G2 B2 | "D"A2 F2 F2 e2 |
+"D"f2 fg fedB | A2 F2 F2 A2 | "G"BGBd "A"cdec | "D"d2 d2 d2 :|
+[P:B]y0|: ag |"D"f2 f2 fefg | "Em"a2 g2 g2 gf | "A"edcB Aceg | "D"b2 a2 a2 ag |
+"D"f2 f2 fefg | "Em"a2 g2 g2 gf | "A"edcB Acea | "D"f2 d2 d2 :|
 
 X:38
 T:Susi's Waltz
@@ -587,10 +586,10 @@ N:Good in cross-A tuning; watch out for the extra half measure at the beginning 
 Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.14
 Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 K:A
-[P:A]y0|: "A"cB cB A4 | A2 B2 c4 | B2 c2 "D"d4 | f2 a2 "A"e4 | 
-cB cd e2 e2 | f2 a2 c2 c2 | "E"cB Ac B2 G2 |1 "A"A4 A2 AB :|2 "A" A4 A4 ||
-[P:B]|:"A"a2 a2 | "D"f4 d2-de | f2 a2 a2 f2 | "A"e2 f2 ed cd | "E"e8 | 
-"A"cB cd e2 e2 | f2 a2 c2 c2 | "E"cB Ac BA G2 |1 "A"A4 A4 :|2 "A"A4 A2 AB |
+[P:A]y0|: "A"cBcB A4 | A2 B2 c4 | B2 c2 "D"d4 | f2 a2 "A"e4 | 
+cBcd e2 e2 | f2 a2 c2 c2 | "E"cBAc B2 G2 |1 "A"A4 A2 AB :|2 "A" A4 A4 ||
+[P:B]|:"A"a2 a2 | "D"f4 d2-de | f2 a2 a2 f2 | "A"e2 f2 edcd | "E"e8 | 
+"A"cBcd e2 e2 | f2 a2 c2 c2 | "E"cBAc BA G2 |1 "A"A4 A4 :|2 "A"A4 A2 AB |
 
 X:41
 T:Tombigbee Waltz
@@ -615,7 +614,7 @@ Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2014.01.13
 G:Key: D
 K:D
 P:A
-"D"A2 AB AF ED | "G"B2 BA B2 d2 | "D"A2 AB AF ED | "G"gf ed "A"Bc dB |
-"D"A2 AB AF ED | "G"B2 BA Bc dB | "D"A2 AB AF ED | "G"gf ed "A"Bc de ||
-[P:B]"D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"f2 fd "G"g2 ge | "A"af ed "G"Bc de |
-"D"f2 fd "G"g2 ge | "D"f2 fd "A"ed BA | "D"de fg "G"af ba | gf ed "A"B2 d2 :|
+"D"A2 AB AFED | "G"B2 BA B2 d2 | "D"A2 AB AFED | "G"gfed "A"BcdB |
+"D"A2 AB AFED | "G"B2 BA BcdB | "D"A2 AB AFED | "G"gfed "A"Bcde ||
+[P:B]"D"f2 fd "G"g2 ge | "D"f2 fd "A"edBA | "D"f2 fd "G"g2 ge | "A"afed "G"Bcde |
+"D"f2 fd "G"g2 ge | "D"f2 fd "A"edBA | "D"defg "G"afba | gfed "A"B2 d2 :|
