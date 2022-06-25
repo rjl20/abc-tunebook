@@ -104,18 +104,14 @@ S:Tony Mates, Wedgwood Ale House Jam
 M:3/4
 L:1/8
 G:Key: A
-Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.15
-Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Z:abc-transcription Josh Larios <hades@elsewhere.org>, 2020.01.15, revised 2022.06.25
+Z:abc-copyright This transcription is licensed under a Creative Commons Attribution-ShareAlike 4.0 International Licens\
+e.
 K:A
-[P:A]y0 |: AB | "A"c2-cB cd | c2B2A2 | "D"f2-fe fg | f2e2c2 | 
-"E"B2-BA Bc | B2A2B2 | "A"c2-cB AF | "(E)"E4 EA | 
-"A"c2-cB cd | c2B2A2 | "D"f2-fe fg | f2e2c2 | 
-"E"B2-BA Bc | B2A2 cB | "A"A2-AG AB | A4 :|
-[P:B]y |: ce | "D"f2 d2-de | fg a2-af | "A"e2 c2-cB | c2B2A2 | 
-"E"e2B2-Bc | B2A2B2 | "A"c2-cB AF | E2 Ac e2 | 
-"D"f2 d2-de | fg a2-af | "A"e2 c2-cB | c2B2c2 | 
-"E"e2B2-Bc | B2A2 cB | "A"A2A2 AB | A4 :|
-
+[P:A]y0 |: EA | "A"c2-cB cd | c2B2A2 | "D"f2-fe fg | f2e2c2 |
+"E"B2-BA Bc |1 B2A2B2 | "A"c2-cB AF | "(E)"E4 :|2 B2A2 cB | "A"A2-AG AB | A4 ||
+[P:B]y  ce |: "D"f2 d2-de | fg a2-af | "A"e2 c2-cB | c2B2A2 |
+"E"e2B2-Bc |1 B2A2B2 | "A"c2-cB AF | E2  Ac e2 :|2 B2A2 cB | "A"A2A2 AB | A4 |]
 X:9
 T:Cluck Old Hen
 S:Sarah Comer
