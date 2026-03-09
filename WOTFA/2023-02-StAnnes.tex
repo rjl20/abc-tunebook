@@ -1,0 +1,81 @@
+\documentclass[12pt]{article}
+\usepackage[bottom]{footmisc} 
+\renewcommand{\thempfootnote}{\arabic{mpfootnote}}
+
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[T1]{fontenc}
+\usepackage[ttdefault=true]{AnonymousPro}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\usepackage{abc}
+\usepackage{graphicx}
+\usepackage{musicography}
+
+\usepackage[margin=0.5in]{geometry} 
+\geometry{letterpaper}
+
+
+\usepackage{fancyhdr} 
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{abc}[name=stannes,options={-O= +c -F single.fmt}]
+X:1
+T:Saint Anne's Reel
+M:C|
+K:D
+"D"fedf edcB | A2FA DAFA | "G"B2GB EBGB | "D"A2FA DAFA | 
+fedf edcB | A2FA DAFA | "G"Beed "A"cABc |1 "D"d2d2d3e :|2 "D"d2d2d2ag | 
+|:"D"fdfa fdfa | "G"aggf g2gf | "A"edcB Acea | "D"baa^g "A7"a2a=g | 
+"D"fdfa fdfa | "G"aggf g2gf | "A"edcB Aceg |1 "D"f2d2d2 ag :|2 "D"f2d2d4 |
+\end{abc}
+
+\vskip 1.0in
+\noindent\makebox[\textwidth][c]{%
+  \begin{minipage}{7.0in}
+    \setlength{\parindent}{1.5em}
+
+
+The well-known tune, St. Anne's Reel, is believed to be French
+Canadian, as the first recording came out in 1927 as \textit{Quadrille
+  du loup garou - 4ème partie} by Montreal fiddler, Willie
+Ringuette. The tune was recorded again in the next few years under the
+titles, \textit{Reel des esquimaults} and \textit{Reel lune de miel}
+by Joseph Allard and Isidore Soucy
+respectively.\footnote{\url{https://tunearch.org/wiki/Annotation:St._Anne\%27s\_Reel}}
+`St. Anne' most likely refers to the Sainte-Anne-de-Bellevue
+municipality on the western end of Montreal.\footnote{Duval,
+  Jean. \textbf{La Musique de Joseph Allard 1873-1947}, 2018, p. 72.}
+
+St. Anne's Reel is very popular among American Old Time, Irish, and
+Canadian players probably because of the tune's ability to be
+elaborated to fit the needs of the situation (e.g., instrumental
+improvisation or dance steps) while remaining identifiably St. Anne's
+Reel. I believe the reason is twofold: melodic rhythm and harmonic
+progression. St. Anne's Reel's melodic rhythmic motif of quarter- 6
+eighth notes (measure 2 in this version) can (and will) be moved
+around to other measures as the player decides. The IV-V-I harmonic
+progression (the G-A-D chords in measure 7-8 and 15-17) can easily
+elevate the simplest theme or reign in the most elaborate of
+variations. Saint Anne's Reel is a tune that all levels of playing can
+make their own.
+
+    ---Kitty Steetle
+    
+  \end{minipage}
+  \vspace*{\fill}
+}
+
+\end{document}

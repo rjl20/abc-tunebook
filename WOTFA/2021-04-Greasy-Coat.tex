@@ -1,0 +1,89 @@
+\documentclass[12pt]{article} 
+\renewcommand{\thempfootnote}{\arabic{mpfootnote}}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\usepackage{abc}
+\usepackage{graphicx}
+\usepackage{musicography}
+
+\usepackage[margin=0.5in]{geometry} 
+\geometry{letterpaper}
+
+\usepackage{fancyhdr} 
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{abc}[name=greasycoat,options={-O= +c -F single.fmt}]
+X:1
+T:Old Greasy Coat
+C:from Edden Hammons (1875-1955)
+Z:abc-transcription: Josh Larios <jdlarios@gmail.com>, 2021.03.23
+M:C|
+K:AMix
+|: AB | "A"c2 A2 G2 AB | c2 A2 A2 AB | c2 A2 GBAG | "E"E2 A2 "A"A2 AB | 
+c2 A2 GABd | "D"e2 ef e2 d2 | "A"c2 A2 "G"EGAG | "E"E2 A2 "A"A2 :|: A2- |
+"A"ABcd edef | "G"g2 gf g2 A2- | ABcd ede^g | "A"a2 (3ba^g a2 A2- | 
+ABcd e2 e2 | "G"a^ga^g e2 d2 | "A"c2 A2 "G"GBAG | "E"E2 A2 "A"A2 :|
+\end{abc}
+% \vskip 0.5in
+\noindent\makebox[\textwidth][c]{%
+\begin{minipage}{7.0in}
+  \setlength{\parindent}{1.5em}
+
+  This version of ``Greasy Coat'' comes from the playing of Edden
+  Hammons, of West Virginia.  It's played in a ``modal'' style with
+  the third of the scale often played a little flat (somewhere between
+  C\musSharp{} and C\musNatural{} in this case) and the seventh
+  sometimes but not always flat (G\musSharp{} or G\musNatural{}). Accompanists might want to choose
+  chord shapes which omit the third entirely. If you listen to the
+  1947 source recording\footnote{https://www.slippery-hill.com/content/old-greasy-coat}
+  you can hear trills in Hammons' playing, showing a Scottish influence.
+
+  There has been somewhat heated debate around the meaning of the term
+  ``greasy coat'' over the years. A common claim is that it is an
+  old-time euphemism for a condom, although nothing in the written
+  record that we've been able to find backs that up. From a search of
+  historical books and newspapers, it seems more likely to us that a
+  ``greasy coat'' was commonly used as metonymy for someone
+  low-class: a hobo or manual laborer with a worn, dirty coat.
+  
+  If it was ever in common use as a euphemism for a condom, it may
+  have been a specific regional term from in or around West
+  Virginia. According to folklorist, musicologist, and musician Gerry
+  Milnes:
+  \begin{quote}
+    There was an old banjo player in Greenbrier Co, WV who played it,
+    Lee Blankenship. Once, about 1970, after playing he uttered
+    something like, ``You don't want to mess with those rubber
+    things.'' ``Rubbers'' being the operative word for condoms then.
+  \end{quote}
+  Greenbrier County is just south of the area where the Hammons family lived.
+
+  Burl Hammons, a nephew of Edden, was recorded around twenty years
+  later performing a somewhat different version of ``Greasy Coat'',
+  which you can listen to at slippery-hill.com. Lyrics were shared
+  with collectors by the Hammons family, but not recorded by them:
+
+  \begin{quote}
+    Well I don't drink and I don't smoke,\\
+    And I don't mess with the greasy coat.\\
+    I don't spit and I don't chew,\\
+    And I don't go with the girls that do.\\
+    I don't kiss and I don't tell,\\
+    And all you sinners gonna go to hell.
+  \end{quote}
+\end{minipage}
+}
+
+
+\end{document}

@@ -1,0 +1,69 @@
+\documentclass[12pt]{article} 
+\renewcommand{\thempfootnote}{\arabic{mpfootnote}}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\usepackage{abc}
+\usepackage{graphicx}
+
+\usepackage[margin=0.5in]{geometry} 
+\geometry{letterpaper}
+
+\usepackage{fancyhdr} 
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{abc}[name=forkeddeer,options={-O= +c -F single.fmt}]
+X:1
+T:Forked Deer
+M:C|
+L:1/8
+K:D
+(3ABc|"D"defg a2 f2|"G"gfeg fedA|"D"defg a2 f2|"A"gfed cABc |
+"D"defg a2 f2|"G"gfeg fedc|"D"dAFD "G"GBAG|1"A"FDEF "D"D2:|2"A"FDEF "D"D4||
+|:"A"A2 A2 c3B|ABAF E2 D2|A2 A2 cABc|dBAF "D"D2 DF|
+"A"A2 A2 c3B|ABAF E2 FE|"D"D2 ED "G"FDGD|1"A"FDEF "D"D4:|2"A"FDEF "D"D2||
+\end{abc}
+
+\vskip 0.5in
+\noindent\makebox[\textwidth][c]{%
+\begin{minipage}{6.5in}
+  \setlength{\parindent}{1.5em}
+  
+This tune is thought to have originated in the Upper South: Virginia,
+West Virginia, and Tennessee. Each player had their own version of the
+tune varying from 2 to 6 parts, with the earliest known printed
+version of Forked Deer found in George P. Knauff's \textit{Virginia
+Reels}, printed in 1839. The title's origin is ambiguous, with some
+claiming it was named for the Forked Deer River in West Tennessee
+(pronounced ``Fork-éd''), or as a corruption of ``Fauquier Deer'', the
+name of a county in northern Virginia. It could also be a corruption
+of ``Forked Air'', meaning a crooked tune, and some early sources do
+have it as ``Forkadair'' or ``Forkedair Jig''. One version, from the
+Hamblen Collection\footnote{http://chriswig.com/hamblen.html}, even
+has the title ``Forked Ear'', although that must come from a
+mis-hearing of the title. Perhaps more entertainingly, ``forked''
+could be from an Ozarks region colloquial term for ``horny'' or
+``sexually excited''.
+
+``Forked Deer'' is one of the tunes named in Richard L. Dawson's 1885
+poem \textit{The Hoosier Fiddle}\footnote{https://mudcat.org/thread.cfm?threadid=166702},
+recalling the dances of his youth. Earlier sources disagree on
+which part to begin the tune on, but by the time the tune was
+established as a bluegrass standard it seems to have settled on being
+a two-part tune with the high part played first, as set here.
+
+\end{minipage}
+}
+
+
+\end{document}

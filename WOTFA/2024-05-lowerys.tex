@@ -1,0 +1,80 @@
+\documentclass[10pt]{article} 
+\renewcommand{\thempfootnote}{\arabic{mpfootnote}}
+
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[T1]{fontenc}
+\usepackage[ttdefault=true]{AnonymousPro}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\usepackage{abc}
+\usepackage{graphicx}
+\usepackage{musicography}
+
+\usepackage[margin=0.5in]{geometry} 
+\geometry{letterpaper}
+
+\usepackage{fancyhdr} 
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{abc}[name=lowerys,options={-O= +c -F single.fmt}]
+X:1
+T:Lowery's Quadrille
+R:Fiddle tuned ADae
+Q:1/2=110
+L:1/4
+M:C|
+S:John Summers to Armin Barnett to the Canote Brothers
+K:D
+|:"D"A,DFA | "G"B/d/B "D"A2 | dBAF | "A"E/D/F/E/ D/B,/-B,| 
+"D"A,DFA | "G"B/d/B "D"A2 | dBAF | "A"E/F/E "D"D2 :|
+|:"D"D/F/A/c/ d/A/-A | "G"B-B/A/ Bd/B/ | "D"AA/B/ A/F/-F |  "A"E-E/F/ EF/E/ | 
+"D"D/F/A/c/ d/A/-A | "G"B-B/A/ Bd/B/ |1 "D"A/F/-F/D/ "A"E/F/E | "D"D-D/E/ DF/E/ :|2"A"A/A/c/c/ e/e/g/g/ | f/d/e/c/ "D"de | 
+|:"D"f-f/a/ f/e/d/d/ | "G"e/f/e/d/ B/d/A | "D"f/a/-a/f/ aa/b/ | "A"afed | 
+"D"f-f/a/ f/e/d/d/ | "G"e/f/e/d/ B/d/ (3A/B/c/ | "D"d!+!AF!+!D | "A"A,/D/-D "D"!3!!0![DD]2 :| 
+\end{abc}
+
+\vskip 0.5in
+
+\noindent\makebox[\textwidth][c]{
+  \begin{minipage}{7.0in}
+    \setlength{\parindent}{1.5em}
+
+The tune \textbf{Midnight on the Water} is attributed to the Texan
+fiddler Luke\footnote{I also found `Lucas' and `Lewis Alexander':
+  \\ \url{https://utaholdtimefiddlers.org/author/fiddler/page/2/}
+  \\ \url{https://en.wikipedia.org/wiki/Benny_Thomasson}} ``Red Luke''
+Thomasson, dating back to around
+1900.\footnote{\url{https://tunearch.org/wiki/Annotation:Midnight_on_the_Water}}
+It gained notable recognition after being recorded by his son, fiddler
+Benny Thomasson (1909 – 1984), in 1970 for his album `Country Fiddling
+from the Big State,' subsequently becoming popular within Old Time
+music circles. There is speculation that certain sections of
+\textbf{Midnight on the Water} bear resemblance to \textbf{Old
+  Paint},\footnote{I think `Old Paint' refers to a horse, but I can't
+  find confirmation. \textit{[``Paint's a good pony, and she paces
+      when she can'' is a line in the chorus, at least as sung by
+      Bruce Molsky. ---Josh]}} a tune by Jess Morris, potentially
+indicating mutual inspiration, given the proximity of the Morrises and
+Thomassons in the Texas panhandle during that time period. Often
+performed in Deadman's Tuning (DDAD) alongside the standard GDAE
+tuning, both are viable options, yet Deadman's Tuning lends the
+composition a deep resonance, enriching its serene ebbing character.
+
+---Kitty Steetle
+
+  \end{minipage}
+}
+
+\end{document}
